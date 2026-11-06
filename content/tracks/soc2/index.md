@@ -15,11 +15,10 @@ If you sell software or services to other businesses, sooner or later a customer
 6. [Type I, Type II, auditors and timelines](soc2-audit-process.md)
 7. [The readiness checklist](soc2-readiness-checklist.md)
 
-## Ask yourself
-
-- Why do you want SOC 2? A specific customer deal? Your whole market? Investor diligence? The answer shapes scope and timing.
-- Who will own this internally? It needs a named person with real time, not "everyone".
-- Do you already do most of the right things, just without writing them down? (Most good teams do. SOC 2 is often more about proving than changing.)
+> [!question] Ask yourself
+> - Why do you want SOC 2? A specific customer deal? Your whole market? Investor diligence? The answer shapes scope and timing.
+> - Who will own this internally? It needs a named person with real time, not "everyone".
+> - Do you already do most of the right things, just without writing them down? (Most good teams do. SOC 2 is often more about proving than changing.)
 
 ## What it builds on
 

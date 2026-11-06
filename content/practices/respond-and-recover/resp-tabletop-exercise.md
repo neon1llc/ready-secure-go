@@ -24,11 +24,10 @@ sources:
 
 Plans that have never been practiced fail in boring ways: the backup admin password is in the hacked email, nobody has the insurer's number, two people both think the other is calling the bank. A tabletop exercise is a structured "what would we do if...?" conversation. No computers touched, no real systems at risk, and a lot learned.
 
-## Ask yourself
-
-- Who would make the call to disconnect the whole office from the internet?
-- How would you talk to each other if email and chat were down?
-- What would you tell customers, parents or donors, and who would say it?
+> [!question] Ask yourself
+> - Who would make the call to disconnect the whole office from the internet?
+> - How would you talk to each other if email and chat were down?
+> - What would you tell customers, parents or donors, and who would say it?
 
 ## Do it
 
@@ -40,9 +39,8 @@ Plans that have never been practiced fail in boring ways: the backup admin passw
 6. **Fix the top three** within a month, then run another scenario next year. CISA publishes free ready-made packages you can adapt.
 7. **Keep the record** (date, attendees, scenario, findings, fixes). It's evidence for SOC 2 and insurers.
 
-## How do you know it worked?
-
-You come out with a short list of concrete fixes, and the next exercise goes noticeably smoother.
+> [!success] How do you know it worked?
+> You come out with a short list of concrete fixes, and the next exercise goes noticeably smoother.
 
 ## Go further
 

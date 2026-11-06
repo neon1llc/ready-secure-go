@@ -33,11 +33,10 @@ sources:
 
 Passwords leak. It happens through breaches, fake login pages and malware, and often it's not your fault. Two-step login (also called **multi-factor authentication** or **MFA**) means a thief also needs something you *have*, like your phone or a key, or something you *are*, like your face. Microsoft and Google have both reported that it blocks the vast majority of automated account takeovers.
 
-## Ask yourself
-
-- If someone had your email password right now, what would stop them?
-- Which of your accounts could reset all the others? (Hint: usually email and your phone number.)
-- Are you still using text-message codes? What would happen if someone talked your phone carrier into moving your number to their SIM?
+> [!question] Ask yourself
+> - If someone had your email password right now, what would stop them?
+> - Which of your accounts could reset all the others? (Hint: usually email and your phone number.)
+> - Are you still using text-message codes? What would happen if someone talked your phone carrier into moving your number to their SIM?
 
 ## Do it
 
@@ -54,13 +53,11 @@ Then:
 - **Save the backup codes** each site gives you, in your password manager or printed in a safe place.
 - **Offices:** require MFA for email, remote access, cloud admin consoles and anything reachable from the internet. Admin accounts get the phishing-resistant kind.
 
-## How do you know it worked?
+> [!success] How do you know it worked?
+> Log out of your email on another device and log back in. You should be asked for the second step. In your account's security settings you should see at least two sign-in methods and saved backup codes.
 
-Log out of your email on another device and log back in. You should be asked for the second step. In your account's security settings you should see at least two sign-in methods and saved backup codes.
-
-## Attacker's-eye view
-
-With a leaked password, an attacker just logs in (MITRE ATT&CK T1078, Valid Accounts). With MFA they have to get creative: spam you with push prompts hoping you tap "approve" (T1621, MFA Request Generation), or build a fake login page that relays your code in real time. That's why the phishing-resistant kinds are worth it for anything important.
+> [!danger] Attacker's-eye view
+> With a leaked password, an attacker just logs in (MITRE ATT&CK T1078, Valid Accounts). With MFA they have to get creative: spam you with push prompts hoping you tap "approve" (T1621, MFA Request Generation), or build a fake login page that relays your code in real time. That's why the phishing-resistant kinds are worth it for anything important.
 
 ## Go further
 

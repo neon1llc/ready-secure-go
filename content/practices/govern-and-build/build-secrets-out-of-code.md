@@ -28,11 +28,10 @@ sources:
 
 Bots watch public code repositories and grab leaked cloud keys within minutes. Private repositories leak too: through a contractor's laptop, a public fork, or a breach at the code host. Once a secret is in git history, deleting the line doesn't remove it.
 
-## Ask yourself
-
-- Search your repositories for `password`, `secret`, `api_key`, `AKIA` (the start of AWS access keys). What turns up?
-- Where does your app read its database password from?
-- Has anyone ever pasted a key into a ticket or a chat to "just get it working"?
+> [!question] Ask yourself
+> - Search your repositories for `password`, `secret`, `api_key`, `AKIA` (the start of AWS access keys). What turns up?
+> - Where does your app read its database password from?
+> - Has anyone ever pasted a key into a ticket or a chat to "just get it working"?
 
 ## Do it
 
@@ -42,13 +41,11 @@ Bots watch public code repositories and grab leaked cloud keys within minutes. P
 4. **Prefer short-lived credentials** (OIDC from CI to cloud, SSO for people) so there's less to leak.
 5. **If a secret leaks: rotate it first,** then clean history. Rotation is what actually protects you. Check the provider's logs for use of the leaked key.
 
-## How do you know it worked?
+> [!success] How do you know it worked?
+> A secrets scan of every repository's full history comes back clean (or every finding is rotated), and pushing a fake key gets blocked.
 
-A secrets scan of every repository's full history comes back clean (or every finding is rotated), and pushing a fake key gets blocked.
-
-## Attacker's-eye view
-
-Unsecured Credentials: Credentials In Files (MITRE ATT&CK T1552.001) is a top way into cloud accounts (T1078.004). Scanners and push protection catch it at the source.
+> [!danger] Attacker's-eye view
+> Unsecured Credentials: Credentials In Files (MITRE ATT&CK T1552.001) is a top way into cloud accounts (T1078.004). Scanners and push protection catch it at the source.
 
 ## Go further
 

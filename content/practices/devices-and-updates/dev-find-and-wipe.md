@@ -27,10 +27,9 @@ sources:
 
 You can only turn on remote tracking and erasing *before* the device goes missing. After that, it's too late.
 
-## Ask yourself
-
-- If your phone disappeared, could you log into a website and see where it is right now?
-- Do you know your Apple or Google password without your phone? (You'll need it to use Find My from someone else's device.)
+> [!question] Ask yourself
+> - If your phone disappeared, could you log into a website and see where it is right now?
+> - Do you know your Apple or Google password without your phone? (You'll need it to use Find My from someone else's device.)
 
 ## Do it
 
@@ -41,9 +40,8 @@ You can only turn on remote tracking and erasing *before* the device goes missin
 5. **Families:** set up family sharing so you can help a kid or parent find theirs.
 6. **Offices:** enroll company devices in device management so IT can lock or wipe them, and say so in your device policy.
 
-## How do you know it worked?
-
-You can see each of your devices on the map from a browser, and you know the password needed to get there.
+> [!success] How do you know it worked?
+> You can see each of your devices on the map from a browser, and you know the password needed to get there.
 
 ## Go further
 

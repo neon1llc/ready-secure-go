@@ -20,9 +20,8 @@ Every SOC 2 report includes the **Common Criteria** (the Security category), org
 
 Optional categories add their own criteria. For example, **A1** for Availability (capacity, backups, recovery testing) and **C1** for Confidentiality (identifying, protecting and disposing of confidential data).
 
-## Ask yourself
-
-For each row, could you show an auditor *evidence*, such as a screenshot, a ticket, a log or a signed record, not just describe what you do?
+> [!question] Ask yourself
+> For each row, could you show an auditor *evidence*, such as a screenshot, a ticket, a log or a signed record, not just describe what you do?
 
 *Trust Services Criteria © AICPA. Group names and IDs are cited for reference. Descriptions here are our own.*
 

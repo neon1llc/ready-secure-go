@@ -31,10 +31,9 @@ A passkey is a pair of keys. The website keeps the public half, and your phone, 
 
 That's the big deal: passkeys don't just make phishing harder. They make the most common kind impossible.
 
-## Ask yourself
-
-- Have you ever typed a password into a page you got to from an email link?
-- If your phone were lost, would your passkeys come back when you set up a new one? (They do if they're synced to your Apple, Google or password-manager account.)
+> [!question] Ask yourself
+> - Have you ever typed a password into a page you got to from an email link?
+> - If your phone were lost, would your passkeys come back when you set up a new one? (They do if they're synced to your Apple, Google or password-manager account.)
 
 ## Do it
 
@@ -44,13 +43,11 @@ That's the big deal: passkeys don't just make phishing harder. They make the mos
 4. Keep a second way in (backup codes, or a second passkey on a hardware key) for your most important accounts.
 5. **Offices:** turn on passkey or security-key sign-in for your email and identity provider (Google Workspace, Microsoft Entra ID), and require it for admins first.
 
-## How do you know it worked?
+> [!success] How do you know it worked?
+> Sign out, then sign back in with "Use a passkey". You should get a face, fingerprint or PIN prompt and no password box.
 
-Sign out, then sign back in with "Use a passkey". You should get a face, fingerprint or PIN prompt and no password box.
-
-## Attacker's-eye view
-
-Phishing (MITRE ATT&CK T1566) works by getting you to hand over something reusable. A passkey is bound to the real site's address, so there's nothing reusable to hand over.
+> [!danger] Attacker's-eye view
+> Phishing (MITRE ATT&CK T1566) works by getting you to hand over something reusable. A passkey is bound to the real site's address, so there's nothing reusable to hand over.
 
 ## Go further
 

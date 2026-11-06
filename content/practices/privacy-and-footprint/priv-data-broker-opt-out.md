@@ -26,10 +26,9 @@ sources:
 
 Data brokers collect public records, purchase histories, app data and social media, then sell profiles: your address, phone numbers, age, relatives, sometimes income estimates. People-search sites sell those profiles to anyone for a few dollars. That's how scammers know your grandson's name, and how a stalker or angry ex finds a new address. Teachers, healthcare workers and anyone in a public-facing job have good reason to care.
 
-## Ask yourself
-
-- Search your full name and city on a people-search site. How accurate is it? Who's listed as your relatives?
-- Who would you *not* want to be able to find your home address in two minutes?
+> [!question] Ask yourself
+> - Search your full name and city on a people-search site. How accurate is it? Who's listed as your relatives?
+> - Who would you *not* want to be able to find your home address in two minutes?
 
 ## Do it
 
@@ -40,13 +39,11 @@ Data brokers collect public records, purchase histories, app data and social med
 5. **Repeat** every few months. Brokers re-add people as new data comes in.
 6. **Google:** use "Results about you" to request removal of search results showing your phone, address or email.
 
-## How do you know it worked?
+> [!success] How do you know it worked?
+> Searching your name on the major people-search sites no longer shows your current address and phone number.
 
-Searching your name on the major people-search sites no longer shows your current address and phone number.
-
-## Attacker's-eye view
-
-Gathering identity details (MITRE ATT&CK T1589) and organizational details (T1591) is step one of targeted scams and impersonation. Data brokers do that step for attackers, for pennies.
+> [!danger] Attacker's-eye view
+> Gathering identity details (MITRE ATT&CK T1589) and organizational details (T1591) is step one of targeted scams and impersonation. Data brokers do that step for attackers, for pennies.
 
 ## Go further
 
