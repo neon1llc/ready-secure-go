@@ -19,11 +19,10 @@ Scope is the single biggest lever on how hard SOC 2 will be.
    Start with Security, and add others only when customers need them.
 3. **Subservice organizations:** your cloud provider, payment processor and so on. Usually they're "carved out", meaning you rely on *their* SOC 2 reports and show you review them ([Ask your vendors the five questions that matter](../../practices/govern-and-build/gov-vendor-review.md)).
 
-## Ask yourself
-
-- Which systems would a customer be upset to learn were *not* covered?
-- Is there an old product, office or acquired team you can leave out of the first report?
-- Which vendors hold or process your customers' data?
+> [!question] Ask yourself
+> - Which systems would a customer be upset to learn were *not* covered?
+> - Is there an old product, office or acquired team you can leave out of the first report?
+> - Which vendors hold or process your customers' data?
 
 ## Tips from readiness work
 

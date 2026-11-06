@@ -16,7 +16,7 @@ Auditors will read your policies, then check that you actually do what they say.
 |---|---|
 | Information security policy | The umbrella: who's responsible, how policies are approved and reviewed |
 | Acceptable use | What people can and can't do with company devices, accounts and data |
-| Access control | How access is requested, approved, reviewed and removed; MFA; admin accounts |
+| Access control | How access is requested, approved, reviewed and removed, plus MFA and admin accounts |
 | Asset management | Inventory, device standards, encryption, disposal |
 | Change management | How code and infrastructure changes are reviewed, tested and approved |
 | Incident response | Roles, severity levels, steps, communication, lessons learned |

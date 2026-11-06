@@ -28,11 +28,10 @@ sources:
 
 Exposed remote desktop (RDP), old VPN appliances and port-forwarded camera recorders are among the most common ways ransomware gets into small and mid-sized organizations. Attackers scan the entire internet constantly. If a door is open, it gets tried within hours.
 
-## Ask yourself
-
-- How do people work from home? Do you know exactly how their connection reaches the office?
-- Did an IT vendor ever "open a port" so they could support you remotely? Is it still open?
-- When did your firewall or VPN box last get an update?
+> [!question] Ask yourself
+> - How do people work from home? Do you know exactly how their connection reaches the office?
+> - Did an IT vendor ever "open a port" so they could support you remotely? Is it still open?
+> - When did your firewall or VPN box last get an update?
 
 ## Do it
 
@@ -43,13 +42,11 @@ Exposed remote desktop (RDP), old VPN appliances and port-forwarded camera recor
 5. **Vendors' remote support tools:** know which ones are installed, require MFA, and remove the ones you don't use.
 6. **Log** remote-access logins, and alert on logins from unexpected countries.
 
-## How do you know it worked?
+> [!success] How do you know it worked?
+> An outside scan of your office IP shows only what you intended (often nothing at all), and every remote login requires MFA.
 
-An outside scan of your office IP shows only what you intended (often nothing at all), and every remote login requires MFA.
-
-## Attacker's-eye view
-
-External Remote Services (MITRE ATT&CK T1133) and Exploit Public-Facing Application (T1190) are front doors attackers love, often combined with password guessing (T1110). Removing exposure is cheaper than any amount of detection.
+> [!danger] Attacker's-eye view
+> External Remote Services (MITRE ATT&CK T1133) and Exploit Public-Facing Application (T1190) are front doors attackers love, often combined with password guessing (T1110). Removing exposure is cheaper than any amount of detection.
 
 ## Go further
 

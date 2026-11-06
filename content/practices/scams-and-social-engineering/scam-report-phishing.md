@@ -24,10 +24,9 @@ sources:
 
 Somebody in your organization will click a bad link eventually. That's normal. What matters is how fast you find out. A culture where people report quickly, including "I clicked it, sorry", turns a breach into a near miss. A culture of blame makes people hide it.
 
-## Ask yourself
-
-- If someone on your team clicked a phishing link this morning, would they tell anyone? Who?
-- What happens to a reported message after that?
+> [!question] Ask yourself
+> - If someone on your team clicked a phishing link this morning, would they tell anyone? Who?
+> - What happens to a reported message after that?
 
 ## Do it
 
@@ -37,9 +36,8 @@ Somebody in your organization will click a bad link eventually. That's normal. W
 4. **Act:** if one person got it, others did too. Search and remove it from other inboxes (Microsoft 365 and Google Workspace admins can), and block the sender or domain.
 5. **Share examples** monthly in a quick note or staff meeting: "here's what came in, here's the tell".
 
-## How do you know it worked?
-
-Reports come in regularly (zero reports usually means people don't know how, not that there's no phishing), and you can show how fast you acted on the last one.
+> [!success] How do you know it worked?
+> Reports come in regularly (zero reports usually means people don't know how, not that there's no phishing), and you can show how fast you acted on the last one.
 
 ## Go further
 

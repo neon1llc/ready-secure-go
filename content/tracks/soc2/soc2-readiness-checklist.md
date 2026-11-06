@@ -35,7 +35,7 @@ Tick what's true *and provable* today.
 - [ ] Vulnerability scanning and a patching timeline
 - [ ] Logging on critical systems, with alerts someone actually reads
 - [ ] Cloud root accounts locked down ([Lock down the root of your cloud account](../../practices/govern-and-build/gov-cloud-account-basics.md))
-- [ ] Code changes reviewed and tested; branch protection on ([Build the OWASP Top 10 habits into how you ship](../../practices/govern-and-build/build-owasp-top10-habits.md))
+- [ ] Code changes reviewed and tested, with branch protection on ([Build the OWASP Top 10 habits into how you ship](../../practices/govern-and-build/build-owasp-top10-habits.md))
 - [ ] Secrets in a secrets manager, scanning in CI ([Keep secrets out of code and chat](../../practices/govern-and-build/build-secrets-out-of-code.md))
 
 ## Resilience

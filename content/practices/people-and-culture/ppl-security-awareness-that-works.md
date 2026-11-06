@@ -28,11 +28,10 @@ sources:
 
 Most organizations do security training once a year to tick a box, and people forget it by lunch. What works is what works for any learning: short sessions, real examples from *your* environment, practice, and a reason to care at home too. People who understand *why* a scam works will catch the next one even when it looks different.
 
-## Ask yourself
-
-- Could the newest person in your office tell you how to report a phishing email?
-- When did someone last share a real scam attempt at a staff meeting?
-- Does your training connect to people's personal lives? (Protecting your family's accounts makes the work habits stick.)
+> [!question] Ask yourself
+> - Could the newest person in your office tell you how to report a phishing email?
+> - When did someone last share a real scam attempt at a staff meeting?
+> - Does your training connect to people's personal lives? (Protecting your family's accounts makes the work habits stick.)
 
 ## Do it
 
@@ -44,9 +43,8 @@ Most organizations do security training once a year to tick a box, and people fo
 6. **Leaders go first:** when the boss says "I almost fell for this one", reporting becomes normal.
 7. **Track simply:** who attended, report counts, and how fast reports come in. SOC 2 auditors will ask for training records.
 
-## How do you know it worked?
-
-Phish reports go up, time-to-report goes down, and people bring you questions about their personal accounts too.
+> [!success] How do you know it worked?
+> Phish reports go up, time-to-report goes down, and people bring you questions about their personal accounts too.
 
 ## Go further
 

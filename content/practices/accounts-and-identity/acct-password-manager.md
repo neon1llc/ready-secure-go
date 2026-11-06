@@ -34,11 +34,10 @@ When a website gets breached, the stolen email and password pairs get tried on h
 
 Nobody can remember 100 unique, random passwords. A password manager can.
 
-## Ask yourself
-
-- How many accounts share your "usual" password, or a small variation of it?
-- If you forgot every password tonight, which account could you *not* get back into?
-- Who in your family would need to get into your accounts if something happened to you?
+> [!question] Ask yourself
+> - How many accounts share your "usual" password, or a small variation of it?
+> - If you forgot every password tonight, which account could you *not* get back into?
+> - Who in your family would need to get into your accounts if something happened to you?
 
 ## Do it
 
@@ -49,13 +48,11 @@ Nobody can remember 100 unique, random passwords. A password manager can.
 5. **Do the rest as you go.** Every time you log in somewhere, update that password. You don't have to do it all in one day.
 6. **Set up emergency access** (most managers have it), so a trusted person can get in if you can't.
 
-## How do you know it worked?
+> [!success] How do you know it worked?
+> Your password manager's security report shows **zero reused passwords** on your email, bank and phone carrier accounts, and you can log in to your email on a new device using only what the manager knows plus your second step.
 
-Your password manager's security report shows **zero reused passwords** on your email, bank and phone carrier accounts, and you can log in to your email on a new device using only what the manager knows plus your second step.
-
-## Attacker's-eye view
-
-Attackers don't guess your password. They buy lists of leaked passwords and try them everywhere (MITRE ATT&CK T1110.004, Credential Stuffing), then log in as you (T1078, Valid Accounts). A unique random password per site turns one leak into a dead end.
+> [!danger] Attacker's-eye view
+> Attackers don't guess your password. They buy lists of leaked passwords and try them everywhere (MITRE ATT&CK T1110.004, Credential Stuffing), then log in as you (T1078, Valid Accounts). A unique random password per site turns one leak into a dead end.
 
 ## Go further
 

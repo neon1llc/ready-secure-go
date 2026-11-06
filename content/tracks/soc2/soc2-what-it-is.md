@@ -23,9 +23,8 @@ A **SOC 2 report** is an independent CPA firm's opinion on whether your controls
 - **Not SOC 3.** SOC 3 is a short, public summary of a SOC 2, for your website.
 - **Not a guarantee** you won't be breached. It shows you run a disciplined program.
 
-## Ask yourself
-
-- Which customers are asking, and what do they actually need? Sometimes a completed security questionnaire or a Type I is enough to start.
-- Could you show an outsider evidence that your controls work, or would you be describing intentions?
+> [!question] Ask yourself
+> - Which customers are asking, and what do they actually need? Sometimes a completed security questionnaire or a Type I is enough to start.
+> - Could you show an outsider evidence that your controls work, or would you be describing intentions?
 
 Next: [Scoping: what's in, what's out](soc2-scope.md)

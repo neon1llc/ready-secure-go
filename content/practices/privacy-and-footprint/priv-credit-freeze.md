@@ -24,10 +24,9 @@ Your Social Security number has very likely leaked in at least one breach alread
 
 Kids are prime targets because nobody checks a child's credit until they're 18. By then the damage can be years old.
 
-## Ask yourself
-
-- If someone opened a credit card in your name today, how would you find out?
-- Have you ever checked whether your child has a credit report? (They shouldn't.)
+> [!question] Ask yourself
+> - If someone opened a credit card in your name today, how would you find out?
+> - Have you ever checked whether your child has a credit report? (They shouldn't.)
 
 ## Do it
 
@@ -41,9 +40,8 @@ Kids are prime targets because nobody checks a child's credit until they're 18. 
 5. Also consider: freezing with **ChexSystems** (bank accounts) and **NCTUE** (utilities and phone), plus an **IRS Identity Protection PIN** to stop tax-refund fraud.
 6. When you apply for credit, **temporarily lift** the freeze at the bureau the lender uses, then it refreezes.
 
-## How do you know it worked?
-
-All three bureau sites show your status as "frozen", and the logins are saved.
+> [!success] How do you know it worked?
+> All three bureau sites show your status as "frozen", and the logins are saved.
 
 ## Go further
 

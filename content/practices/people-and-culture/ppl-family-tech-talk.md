@@ -30,11 +30,10 @@ sources:
 
 Parental controls help, but no setting replaces a kid who will come to you when something goes wrong. The most serious online harms to kids, like **sextortion** (someone tricks a kid into sharing an image, then threatens to spread it unless they pay or send more), work by making the child feel ashamed and alone. The FBI has warned repeatedly about sharp increases in sextortion targeting teenage boys especially. The single most protective thing is a kid who knows: *you can tell me anything, and I'll help, not punish.*
 
-## Ask yourself
-
-- If your child saw something scary or embarrassing online tonight, would they tell you? How sure are you?
-- Do you know which apps they use to talk to people? Do *they* know who they're really talking to?
-- What are the rules about devices at night, and who made them?
+> [!question] Ask yourself
+> - If your child saw something scary or embarrassing online tonight, would they tell you? How sure are you?
+> - Do you know which apps they use to talk to people? Do *they* know who they're really talking to?
+> - What are the rules about devices at night, and who made them?
 
 ## Do it
 
@@ -51,9 +50,8 @@ Parental controls help, but no setting replaces a kid who will come to you when 
 6. **Know the emergency steps for sextortion:** don't pay, don't send more, keep the messages, block and report, and use **NCMEC's Take It Down** (takeitdown.ncmec.org) to help remove images. Report to the **CyberTipline** (report.cybertip.org) or the FBI.
 7. **Revisit it** every few months, and whenever there's a new device, app or birthday.
 
-## How do you know it worked?
-
-Your kid has told you about something weird they saw online, and you reacted calmly. That's the real test.
+> [!success] How do you know it worked?
+> Your kid has told you about something weird they saw online, and you reacted calmly. That's the real test.
 
 ## Go further
 

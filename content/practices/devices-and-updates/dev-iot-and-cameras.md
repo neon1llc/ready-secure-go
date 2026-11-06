@@ -28,11 +28,10 @@ sources:
 
 Cameras, doorbells, baby monitors, smart TVs, thermostats, printers, door locks: each one is a small computer on your network, usually with weaker security than your laptop and almost never updated. Some ship with a default password that's printed in the manual and listed online. Cameras raise the stakes, because they record your home or office.
 
-## Ask yourself
-
-- How many devices are on your Wi-Fi right now? (Your router's app will tell you. It's usually more than people guess.)
-- Who can see your camera feeds? Is there an old shared login, or a former employee or roommate with app access?
-- Does your camera recorder (DVR/NVR) need to be reachable from the internet, or does the app work without it?
+> [!question] Ask yourself
+> - How many devices are on your Wi-Fi right now? (Your router's app will tell you. It's usually more than people guess.)
+> - Who can see your camera feeds? Is there an old shared login, or a former employee or roommate with app access?
+> - Does your camera recorder (DVR/NVR) need to be reachable from the internet, or does the app work without it?
 
 ## Do it
 
@@ -49,13 +48,11 @@ Cameras, doorbells, baby monitors, smart TVs, thermostats, printers, door locks:
    - Know where recordings are stored and for how long.
 7. **Buying new:** look for a commitment to security updates for a stated number of years. The U.S. Cyber Trust Mark is a helpful sign.
 
-## How do you know it worked?
+> [!success] How do you know it worked?
+> No device on your list still uses a default password, camera apps show only the people you expect, and your router shows smart devices on the separate network.
 
-No device on your list still uses a default password, camera apps show only the people you expect, and your router shows smart devices on the separate network.
-
-## Attacker's-eye view
-
-Botnets scan the internet nonstop for devices with factory passwords (MITRE ATT&CK T1078.001, Default Accounts) or known holes in exposed recorders (T1190). They aren't targeting *you*; they're harvesting whatever answers. Changing the password and not exposing the device takes you off their list.
+> [!danger] Attacker's-eye view
+> Botnets scan the internet nonstop for devices with factory passwords (MITRE ATT&CK T1078.001, Default Accounts) or known holes in exposed recorders (T1190). They aren't targeting *you*. They're harvesting whatever answers. Changing the password and not exposing the device takes you off their list.
 
 ## Go further
 

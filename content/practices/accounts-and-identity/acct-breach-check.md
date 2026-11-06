@@ -22,10 +22,9 @@ sources:
 
 You've almost certainly been in a data breach. Most people have been in several. That isn't a reason to panic, but it is information. Knowing *which* breaches tells you which passwords to change and what kinds of scams to expect. For example, a breach that leaked your phone number and address makes a convincing "delivery problem" text more likely.
 
-## Ask yourself
-
-- Which old accounts did you sign up for years ago and forget about?
-- If a breach listed your password, did you use that password anywhere else?
+> [!question] Ask yourself
+> - Which old accounts did you sign up for years ago and forget about?
+> - If a breach listed your password, did you use that password anywhere else?
 
 ## Do it
 
@@ -36,13 +35,11 @@ You've almost certainly been in a data breach. Most people have been in several.
 5. Your password manager probably has a built-in breach report too. Turn it on.
 6. Delete accounts you don't need. An account that doesn't exist can't leak.
 
-## How do you know it worked?
+> [!success] How do you know it worked?
+> Every breached site in the list either has a new unique password or has been deleted, and notifications are on.
 
-Every breached site in the list either has a new unique password or has been deleted, and notifications are on.
-
-## Attacker's-eye view
-
-Attackers start by gathering what's already public or leaked about a target (MITRE ATT&CK T1589, Gather Victim Identity Information), then try the leaked passwords elsewhere (T1110.004). You're just doing their homework first.
+> [!danger] Attacker's-eye view
+> Attackers start by gathering what's already public or leaked about a target (MITRE ATT&CK T1589, Gather Victim Identity Information), then try the leaked passwords elsewhere (T1110.004). You're just doing their homework first.
 
 ## Go further
 
