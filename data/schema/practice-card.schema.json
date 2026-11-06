@@ -1,0 +1,47 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/neon1llc/neon1-ready/data/schema/practice-card.schema.json",
+  "title": "neon1 ready practice card front matter",
+  "type": "object",
+  "required": ["id", "title", "summary", "level", "lights", "spaces", "sources"],
+  "properties": {
+    "id": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
+    "title": { "type": "string", "minLength": 5 },
+    "summary": { "type": "string", "minLength": 10 },
+    "level": { "type": "integer", "minimum": 0, "maximum": 4 },
+    "lights": {
+      "type": "array", "minItems": 1,
+      "items": { "enum": ["accounts-and-identity", "devices-and-updates", "data-and-backups", "networks-and-wifi", "scams-and-social-engineering", "privacy-and-footprint", "people-and-culture", "physical-and-travel", "respond-and-recover", "govern-and-build"] }
+    },
+    "spaces": {
+      "type": "array", "minItems": 1,
+      "items": { "enum": ["me", "home-and-family", "seniors-and-caregivers", "classroom-and-school", "home-office", "small-business", "nonprofit-and-community", "growing-organization", "public-and-on-the-go", "builders"] }
+    },
+    "time": { "type": "string" },
+    "cost": { "type": "string" },
+    "tags": { "type": "array", "items": { "type": "string" } },
+    "maps": {
+      "type": "object",
+      "properties": {
+        "nist_csf": { "type": "array", "items": { "type": "string", "pattern": "^(GV|ID|PR|DE|RS|RC)\\.[A-Z]{2}-\\d{2}$" } },
+        "cis": { "type": "array", "items": { "type": "string", "pattern": "^\\d{1,2}\\.\\d{1,2}$" } },
+        "e8": { "type": "array", "items": { "type": "string" } },
+        "soc2": { "type": "array", "items": { "type": "string", "pattern": "^(CC\\d\\.\\d|A1\\.\\d|C1\\.\\d|PI1\\.\\d|P\\d\\.\\d)$" } },
+        "attack": { "type": "array", "items": { "type": "string", "pattern": "^T\\d{4}(\\.\\d{3})?$" } }
+      }
+    },
+    "sources": {
+      "type": "array", "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["title", "url", "license", "use"],
+        "properties": {
+          "title": { "type": "string" },
+          "url": { "type": "string", "pattern": "^https://" },
+          "license": { "enum": ["public-domain", "CC0", "CC-BY-4.0", "CC-BY-SA-4.0", "MIT", "OGL-3.0", "ATTACK-TOU", "reference-only"] },
+          "use": { "enum": ["copy", "adapt", "reference"] }
+        }
+      }
+    }
+  }
+}
