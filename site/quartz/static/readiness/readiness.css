@@ -1,0 +1,366 @@
+/* site/quartz/static/readiness/readiness.css - neon1 styles for the readiness check, light and dark. */
+
+
+/* Brand tokens, matching neon1.tech and the site theme */
+:root {
+  --deep: #003b00;
+  --brand: #035704;
+  --mark: #327641;
+  --glow: #00e676;
+  --neon: #6cffa8;
+  --bg: #f2f4f2;
+  --card: #ffffff;
+  --ink: #12241a;
+  --muted: #56665c;
+  --line: #d5e2d7;
+  --wash: #e6efe7;
+  --accent: var(--brand);
+  --fill: var(--brand);
+  --half: #9fd4ad;
+  --body: "Aptos", "Inter", "Segoe UI", system-ui, sans-serif;
+  --mono: "JetBrains Mono", ui-monospace, Menlo, monospace;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0d0208;
+    --card: #101a13;
+    --ink: #d6f5dc;
+    --muted: #84a98c;
+    --line: #22382a;
+    --wash: #13261a;
+    --accent: var(--neon);
+    --fill: var(--glow);
+    --half: #1f6b3b;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font: 16px/1.6 var(--body);
+}
+
+main,
+footer {
+  max-width: 46rem;
+  margin: 0 auto;
+  padding: 0 16px;
+}
+
+
+/* Header band */
+.band {
+  display: flex;
+  align-items: center;
+  padding: 14px 16px;
+  background: var(--deep);
+  color: var(--neon);
+}
+
+.home {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  color: inherit;
+  text-decoration: none;
+  font: 700 17px var(--mono);
+  letter-spacing: 0.06em;
+}
+
+.home svg {
+  width: 26px;
+  height: 26px;
+}
+
+.kind {
+  margin-left: auto;
+  font: 500 12px var(--mono);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #f2f4f2;
+  opacity: 0.85;
+}
+
+
+/* Headings and text */
+h1 {
+  margin: 28px 0 6px;
+  font-size: 2rem;
+  line-height: 1.2;
+}
+
+h2 {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 32px 0 10px;
+  font: 700 1.2rem var(--mono);
+}
+
+h3 {
+  margin: 24px 0 6px;
+  font-size: 1.05rem;
+}
+
+.step {
+  display: inline-grid;
+  place-items: center;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  background: var(--brand);
+  color: #fff;
+  font-size: 0.9rem;
+}
+
+.lede {
+  font-size: 1.1rem;
+  color: var(--muted);
+}
+
+.hint {
+  margin-top: 0;
+  font-size: 0.92rem;
+  color: var(--muted);
+}
+
+a {
+  color: var(--accent);
+}
+
+
+/* Space chips */
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.chips button {
+  padding: 8px 14px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--card);
+  color: var(--ink);
+  font: 600 0.92rem var(--body);
+  cursor: pointer;
+}
+
+.chips button[aria-checked="true"] {
+  border-color: var(--brand);
+  background: var(--brand);
+  color: #fff;
+}
+
+
+/* One block per Light, one row per practice */
+.light {
+  margin: 0 0 14px;
+  padding: 12px 14px;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: var(--card);
+}
+
+.light h3 {
+  margin: 0 0 6px;
+  font: 700 0.95rem var(--mono);
+  color: var(--accent);
+}
+
+.q {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 6px 12px;
+  align-items: center;
+  padding: 8px 0;
+  border-top: 1px solid var(--line);
+}
+
+.q:first-of-type {
+  border-top: 0;
+}
+
+.q .what a {
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.q .what small {
+  display: block;
+  color: var(--muted);
+}
+
+.lvl {
+  margin-right: 6px;
+  padding: 1px 6px;
+  border-radius: 4px;
+  background: var(--wash);
+  font: 600 0.72rem var(--mono);
+  color: var(--accent);
+}
+
+.answers {
+  display: inline-flex;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.answers button {
+  padding: 6px 10px;
+  border: 0;
+  border-left: 1px solid var(--line);
+  background: transparent;
+  color: var(--muted);
+  font: 600 0.8rem var(--body);
+  cursor: pointer;
+}
+
+.answers button:first-child {
+  border-left: 0;
+}
+
+.answers button[aria-pressed="true"] {
+  background: var(--brand);
+  color: #fff;
+}
+
+.answers button[data-a="skip"][aria-pressed="true"] {
+  background: var(--muted);
+}
+
+@media (max-width: 560px) {
+  .q {
+    grid-template-columns: 1fr;
+  }
+}
+
+
+/* Score */
+.score {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 14px;
+  border-left: 4px solid var(--glow);
+  border-radius: 8px;
+  background: var(--wash);
+}
+
+.badge {
+  flex: none;
+  display: grid;
+  place-items: center;
+  width: 84px;
+  height: 84px;
+  border-radius: 50%;
+  background: var(--deep);
+  color: var(--neon);
+  font: 700 0.9rem/1.2 var(--mono);
+  text-align: center;
+  box-shadow: 0 0 18px rgba(0, 230, 118, 0.35);
+}
+
+.badge b {
+  display: block;
+  font-size: 1.8rem;
+}
+
+.score p {
+  margin: 0;
+}
+
+
+/* Personal grid: Lights by levels */
+.grid {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 4px;
+  font-size: 0.88rem;
+}
+
+.grid th {
+  font: 600 0.72rem var(--mono);
+  text-align: left;
+  color: var(--muted);
+}
+
+.grid td.cell {
+  width: 15%;
+  height: 26px;
+  border: 1px solid var(--line);
+  border-radius: 5px;
+}
+
+.grid td.full {
+  background: var(--fill);
+  border-color: var(--fill);
+}
+
+.grid td.half {
+  background: linear-gradient(90deg, var(--half) 50%, transparent 50%);
+}
+
+.grid td.none {
+  border-style: dashed;
+  opacity: 0.4;
+}
+
+
+/* Next steps and buttons */
+.next li {
+  margin: 6px 0;
+}
+
+.actions {
+  display: flex;
+  gap: 10px;
+  margin: 24px 0;
+}
+
+.actions button {
+  padding: 10px 16px;
+  border: 1px solid var(--brand);
+  border-radius: 8px;
+  background: var(--brand);
+  color: #fff;
+  font: 600 0.95rem var(--body);
+  cursor: pointer;
+}
+
+.actions button.ghost {
+  background: transparent;
+  color: var(--accent);
+}
+
+footer {
+  margin-top: 40px;
+  padding-bottom: 32px;
+  font-size: 0.85rem;
+  color: var(--muted);
+}
+
+
+/* Printing keeps the score, grid and next steps */
+@media print {
+  .band,
+  #space-h,
+  .chips,
+  #questions,
+  .actions,
+  .hint {
+    display: none !important;
+  }
+
+  body {
+    background: #fff;
+    color: #12241a;
+  }
+}

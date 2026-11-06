@@ -8,7 +8,7 @@ Most security advice falls into two camps. Either it's written for experts, or i
 
 ## Where are you?
 
-Pick the one that sounds most like you. You can always wander.
+Pick the one that sounds most like you. You can always wander. Or take the five-minute [readiness check](check/index.md) and get your level and next three steps.
 
 - [Me](spaces/me/index.md): just you, your phone, your accounts
 - [Home & Family](spaces/home-and-family/index.md): the household, the kids, the router in the closet
