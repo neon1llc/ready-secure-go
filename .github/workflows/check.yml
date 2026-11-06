@@ -29,3 +29,11 @@ jobs:
       - name: Build site
         run: npm run build
         working-directory: site
+      - name: Install document tools
+        run: |
+          sudo apt-get update -q && sudo apt-get install -y -q pandoc
+          npx playwright install --with-deps chromium
+        working-directory: site
+      - name: Build PDF and Word handouts
+        run: npm run documents
+        working-directory: site
