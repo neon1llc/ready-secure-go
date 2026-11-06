@@ -1,6 +1,6 @@
 // site/quartz/components/AtAGlance.tsx - Shows a summary box with level, time, cost and spaces above a page.
 //
-// Practice cards get the full box. Other pages with a summary or description get just the summary.
+// Practice cards get the full box. Playbooks, kits, tracks and printables get the summary and download links.
 
 import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { pathToRoot, joinSegments } from "../util/path"
@@ -9,6 +9,9 @@ import style from "./styles/atAGlance.scss"
 
 // Level names, indexed by the card's integer level
 const LEVELS = ["Dark", "Spark", "Glow", "Bright", "Neon"]
+
+// Folders whose pages are also built as downloadable documents by tools/build-docs.mjs
+const DOC_FOLDERS = ["practices/", "playbooks/", "teach/", "printables/", "tracks/"]
 
 // Words kept lowercase when a space key becomes a label
 const SMALL_WORDS = new Set(["the"])
@@ -33,9 +36,10 @@ export default (() => {
     const summary = (fm.summary ?? fm.description) as string | undefined
     const level = typeof fm.level === "number" ? (fm.level as number) : undefined
     const spaces = (fm.spaces as string[] | undefined) ?? []
+    const isDoc = DOC_FOLDERS.some((f) => slug.startsWith(f)) && !slug.endsWith("index")
 
     // Nothing to show on plain pages such as the glossary
-    if (!summary && level === undefined) return null
+    if (!summary && level === undefined && !isDoc) return null
 
     return (
       <aside class={`at-a-glance ${displayClass ?? ""}`}>
@@ -67,6 +71,17 @@ export default (() => {
                 {label(s)}
               </a>
             ))}
+          </p>
+        )}
+
+        {isDoc && (
+          <p class="glance-download">
+            <a href={joinSegments(root, "downloads", slug + ".pdf")} download>
+              Download PDF
+            </a>
+            <a href={joinSegments(root, "downloads", slug + ".docx")} download>
+              Download Word
+            </a>
           </p>
         )}
       </aside>

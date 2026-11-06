@@ -53,10 +53,21 @@ Teaching? [`content/teach/`](content/teach/index.md) has workshop kits for paren
   npm run serve      # then open http://localhost:8080
   ```
 
+- **As handouts:** every practice card, playbook, teach kit, track page and printable also comes as a branded PDF and Word file, ready to print, email or hand out at a session. On the site, use the download buttons at the top of each page. To build them yourself:
+
+  ```
+  cd site
+  npm ci
+  npx playwright install chromium   # once, for PDFs
+  npm run build:all                  # site, then handouts in public/downloads
+  ```
+
+  Word files need [pandoc](https://pandoc.org). See [documents/README.md](documents/README.md) for how the handouts are made.
+
 ## Licenses
 
 - **Content** (everything in `content/`): [CC BY-SA 4.0](LICENSE). Share it, teach from it, adapt it. Credit neon1 ready with a link, and share your changes under the same license.
-- **Code** (`site/`, `tools/`): [MIT](LICENSE-CODE).
+- **Code** (`site/`, `tools/`, `documents/`): [MIT](LICENSE-CODE). The bundled Inter and JetBrains Mono fonts are under the SIL Open Font License.
 - **The neon1 name and logo** aren't covered by either license. See [TRADEMARK.md](TRADEMARK.md).
 - Material adapted from others is credited on each page and in [ATTRIBUTIONS.md](ATTRIBUTIONS.md).
 

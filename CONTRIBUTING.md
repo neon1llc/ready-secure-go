@@ -12,7 +12,7 @@ Thanks for wanting to make this better. A few ground rules keep it trustworthy.
 ## How to write here
 
 - **Talk to a person, not a committee.** Short sentences. Explain why before how. Ask the reader a question they'll want to answer.
-- **Plain words, real depth.** Define a technical term the first time it appears, then use it. Don't dumb it down; open it up.
+- **Plain words, real depth.** Define a technical term the first time it appears, then use it. Don't dumb it down. Open it up.
 - **Every step can be checked.** Each practice ends with a "How do you know it worked?" line.
 - **No fear selling.** Say what the risk is and how likely it is. Skip the hacker-in-a-hoodie drama.
 - **No product shilling.** Name tools when it helps and say why. Prefer free and open options, and always give more than one.
@@ -23,7 +23,7 @@ All content here is CC BY-SA 4.0. Anything you bring in must be compatible:
 
 | You can copy and adapt | Link only, don't copy |
 |---|---|
-| Public domain (U.S. federal works such as NIST, CISA, FTC), CC0, CC BY, CC BY-SA, MIT, UK Open Government Licence, MITRE ATT&CK (with its notice) | Anything "NonCommercial" (NC) or "NoDerivatives" (ND), such as the CIS Controls; paid standards such as ISO 27001; anything with no license at all |
+| Public domain (U.S. federal works such as NIST, CISA, FTC), CC0, CC BY, CC BY-SA, MIT, UK Open Government Licence, MITRE ATT&CK (with its notice) | Anything "NonCommercial" (NC) or "NoDerivatives" (ND), such as the CIS Controls. Paid standards such as ISO 27001. Anything with no license at all. |
 
 When you adapt something, add it to the card's `sources` list with its license and `use: adapt`, and add a row to `ATTRIBUTIONS.md` if the source is new.
 
@@ -33,7 +33,11 @@ When you adapt something, add it to the card's `sources` list with its license a
 cd site && npm ci && cd ..
 node tools/lint-cards.mjs     # checks every practice card's front matter
 cd site && npm run serve      # preview at http://localhost:8080
+npm run documents             # from site/, after a build: PDF and Word handouts
+node tools/build-docs.mjs --only scam-family --no-docx   # one handout while you work on it
 ```
+
+Handouts follow the Markdown, so a well-structured page makes a good handout with no extra work. Keep to the card template: short numbered steps that open with a bold lead, and callouts for questions, checks and the attacker's view.
 
 ## Branches and commits
 
