@@ -1,0 +1,1664 @@
+{
+  "nodes": [
+    {
+      "id": "light:accounts-and-identity",
+      "type": "light",
+      "label": "Accounts & Identity"
+    },
+    {
+      "id": "light:data-and-backups",
+      "type": "light",
+      "label": "Data & Backups"
+    },
+    {
+      "id": "light:devices-and-updates",
+      "type": "light",
+      "label": "Devices & Updates"
+    },
+    {
+      "id": "light:govern-and-build",
+      "type": "light",
+      "label": "Govern & Build"
+    },
+    {
+      "id": "light:networks-and-wifi",
+      "type": "light",
+      "label": "Networks & Wi-Fi"
+    },
+    {
+      "id": "light:people-and-culture",
+      "type": "light",
+      "label": "People & Culture"
+    },
+    {
+      "id": "light:physical-and-travel",
+      "type": "light",
+      "label": "Physical & Travel"
+    },
+    {
+      "id": "light:privacy-and-footprint",
+      "type": "light",
+      "label": "Privacy & Footprint"
+    },
+    {
+      "id": "light:respond-and-recover",
+      "type": "light",
+      "label": "Respond & Recover"
+    },
+    {
+      "id": "light:scams-and-social-engineering",
+      "type": "light",
+      "label": "Scams & Social Engineering"
+    },
+    {
+      "id": "space:builders",
+      "type": "space",
+      "label": "Builders"
+    },
+    {
+      "id": "space:classroom-and-school",
+      "type": "space",
+      "label": "Classroom & School"
+    },
+    {
+      "id": "space:growing-organization",
+      "type": "space",
+      "label": "Growing Organization"
+    },
+    {
+      "id": "space:home-and-family",
+      "type": "space",
+      "label": "Home & Family"
+    },
+    {
+      "id": "space:home-office",
+      "type": "space",
+      "label": "Home Office"
+    },
+    {
+      "id": "space:me",
+      "type": "space",
+      "label": "Me"
+    },
+    {
+      "id": "space:nonprofit-and-community",
+      "type": "space",
+      "label": "Nonprofit & Community"
+    },
+    {
+      "id": "space:public-and-on-the-go",
+      "type": "space",
+      "label": "Public & On the Go"
+    },
+    {
+      "id": "space:seniors-and-caregivers",
+      "type": "space",
+      "label": "Seniors & Caregivers"
+    },
+    {
+      "id": "space:small-business",
+      "type": "space",
+      "label": "Small Business"
+    },
+    {
+      "id": "practice:acct-admin-separation",
+      "type": "practice",
+      "label": "Keep admin power out of everyday accounts",
+      "level": 2
+    },
+    {
+      "id": "practice:acct-breach-check",
+      "type": "practice",
+      "label": "Find out what's already leaked about you",
+      "level": 1
+    },
+    {
+      "id": "practice:acct-passkeys",
+      "type": "practice",
+      "label": "Switch important accounts to passkeys",
+      "level": 2
+    },
+    {
+      "id": "practice:acct-password-manager",
+      "type": "practice",
+      "label": "Let a password manager remember for you",
+      "level": 1
+    },
+    {
+      "id": "practice:acct-recovery-check",
+      "type": "practice",
+      "label": "Make sure you can get back into your own accounts",
+      "level": 1
+    },
+    {
+      "id": "practice:acct-two-step-login",
+      "type": "practice",
+      "label": "Turn on two-step login, starting with your email",
+      "level": 1
+    },
+    {
+      "id": "practice:data-3-2-1-backup",
+      "type": "practice",
+      "label": "Back up what you can't lose, the 3-2-1 way",
+      "level": 1
+    },
+    {
+      "id": "practice:data-share-safely",
+      "type": "practice",
+      "label": "Share files on purpose, not \"anyone with the link\"",
+      "level": 2
+    },
+    {
+      "id": "practice:data-test-a-restore",
+      "type": "practice",
+      "label": "Prove your backup works by restoring from it",
+      "level": 3
+    },
+    {
+      "id": "practice:dev-auto-updates",
+      "type": "practice",
+      "label": "Turn on automatic updates, everywhere",
+      "level": 1
+    },
+    {
+      "id": "practice:dev-find-and-wipe",
+      "type": "practice",
+      "label": "Set up find-my-device and remote wipe before you need it",
+      "level": 1
+    },
+    {
+      "id": "practice:dev-iot-and-cameras",
+      "type": "practice",
+      "label": "Secure your cameras and smart devices",
+      "level": 2
+    },
+    {
+      "id": "practice:dev-retire-old-devices",
+      "type": "practice",
+      "label": "Retire devices that can't get updates, and wipe them first",
+      "level": 2
+    },
+    {
+      "id": "practice:dev-screen-lock-and-encryption",
+      "type": "practice",
+      "label": "Lock your screens and encrypt your devices",
+      "level": 1
+    },
+    {
+      "id": "practice:build-owasp-top10-habits",
+      "type": "practice",
+      "label": "Build the OWASP Top 10 habits into how you ship",
+      "level": 2
+    },
+    {
+      "id": "practice:build-secrets-out-of-code",
+      "type": "practice",
+      "label": "Keep secrets out of code and chat",
+      "level": 1
+    },
+    {
+      "id": "practice:gov-cloud-account-basics",
+      "type": "practice",
+      "label": "Lock down the root of your cloud account",
+      "level": 2
+    },
+    {
+      "id": "practice:gov-inventory",
+      "type": "practice",
+      "label": "Know what you have",
+      "level": 2
+    },
+    {
+      "id": "practice:gov-vendor-review",
+      "type": "practice",
+      "label": "Ask your vendors the five questions that matter",
+      "level": 2
+    },
+    {
+      "id": "practice:net-business-remote-access",
+      "type": "practice",
+      "label": "Close the doors you left open to the internet",
+      "level": 2
+    },
+    {
+      "id": "practice:net-guest-network",
+      "type": "practice",
+      "label": "Give guests and gadgets their own Wi-Fi",
+      "level": 2
+    },
+    {
+      "id": "practice:net-public-wifi",
+      "type": "practice",
+      "label": "Use public Wi-Fi without worrying about it",
+      "level": 1
+    },
+    {
+      "id": "practice:net-router-basics",
+      "type": "practice",
+      "label": "Set up your router like you mean it",
+      "level": 1
+    },
+    {
+      "id": "practice:ppl-family-tech-talk",
+      "type": "practice",
+      "label": "Have the family tech talk, and keep having it",
+      "level": 1
+    },
+    {
+      "id": "practice:ppl-onboarding-offboarding",
+      "type": "practice",
+      "label": "Give access on day one and take it all back on the last day",
+      "level": 2
+    },
+    {
+      "id": "practice:ppl-security-awareness-that-works",
+      "type": "practice",
+      "label": "Run security awareness people actually remember",
+      "level": 2
+    },
+    {
+      "id": "practice:phys-office-access",
+      "type": "practice",
+      "label": "Control who can walk into your space",
+      "level": 2
+    },
+    {
+      "id": "practice:phys-travel-kit",
+      "type": "practice",
+      "label": "Travel light, travel locked",
+      "level": 2
+    },
+    {
+      "id": "practice:priv-account-privacy-review",
+      "type": "practice",
+      "label": "Do a privacy checkup on your big accounts and phone",
+      "level": 2
+    },
+    {
+      "id": "practice:priv-credit-freeze",
+      "type": "practice",
+      "label": "Freeze your credit (and your kids' credit)",
+      "level": 1
+    },
+    {
+      "id": "practice:priv-dark-web-reality",
+      "type": "practice",
+      "label": "Understand what's on the dark web about you, and what to do about it",
+      "level": 2
+    },
+    {
+      "id": "practice:priv-data-broker-opt-out",
+      "type": "practice",
+      "label": "Get yourself off data broker sites",
+      "level": 2
+    },
+    {
+      "id": "practice:resp-incident-contact-sheet",
+      "type": "practice",
+      "label": "Write your \"if something goes wrong\" sheet, on paper",
+      "level": 1
+    },
+    {
+      "id": "practice:resp-tabletop-exercise",
+      "type": "practice",
+      "label": "Practice a bad day with a tabletop exercise",
+      "level": 3
+    },
+    {
+      "id": "practice:scam-family-code-word",
+      "type": "practice",
+      "label": "Agree on a family code word for emergencies",
+      "level": 1
+    },
+    {
+      "id": "practice:scam-pause-and-verify",
+      "type": "practice",
+      "label": "Learn the scam reflex, pause and verify",
+      "level": 1
+    },
+    {
+      "id": "practice:scam-payment-change-verification",
+      "type": "practice",
+      "label": "Never change payment details on the strength of an email",
+      "level": 1
+    },
+    {
+      "id": "practice:scam-report-phishing",
+      "type": "practice",
+      "label": "Make reporting a phish easy, quick and blame-free",
+      "level": 1
+    }
+  ],
+  "edges": [
+    {
+      "source": "practice:acct-admin-separation",
+      "target": "light:accounts-and-identity",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:acct-admin-separation",
+      "target": "light:govern-and-build",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:acct-admin-separation",
+      "target": "space:home-office",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:acct-admin-separation",
+      "target": "space:small-business",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:acct-admin-separation",
+      "target": "space:nonprofit-and-community",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:acct-admin-separation",
+      "target": "space:growing-organization",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:acct-admin-separation",
+      "target": "space:builders",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:acct-breach-check",
+      "target": "light:accounts-and-identity",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:acct-breach-check",
+      "target": "light:privacy-and-footprint",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:acct-breach-check",
+      "target": "space:me",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:acct-breach-check",
+      "target": "space:home-and-family",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:acct-breach-check",
+      "target": "space:seniors-and-caregivers",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:acct-breach-check",
+      "target": "space:home-office",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:acct-breach-check",
+      "target": "space:small-business",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:acct-passkeys",
+      "target": "light:accounts-and-identity",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:acct-passkeys",
+      "target": "space:me",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:acct-passkeys",
+      "target": "space:home-and-family",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:acct-passkeys",
+      "target": "space:home-office",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:acct-passkeys",
+      "target": "space:small-business",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:acct-passkeys",
+      "target": "space:growing-organization",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:acct-passkeys",
+      "target": "space:builders",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:acct-password-manager",
+      "target": "light:accounts-and-identity",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:acct-password-manager",
+      "target": "space:me",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:acct-password-manager",
+      "target": "space:home-and-family",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:acct-password-manager",
+      "target": "space:seniors-and-caregivers",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:acct-password-manager",
+      "target": "space:classroom-and-school",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:acct-password-manager",
+      "target": "space:home-office",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:acct-password-manager",
+      "target": "space:small-business",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:acct-password-manager",
+      "target": "space:nonprofit-and-community",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:acct-password-manager",
+      "target": "space:growing-organization",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:acct-recovery-check",
+      "target": "light:accounts-and-identity",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:acct-recovery-check",
+      "target": "space:me",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:acct-recovery-check",
+      "target": "space:home-and-family",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:acct-recovery-check",
+      "target": "space:seniors-and-caregivers",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:acct-recovery-check",
+      "target": "space:home-office",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:acct-recovery-check",
+      "target": "space:small-business",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:acct-recovery-check",
+      "target": "space:nonprofit-and-community",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:acct-two-step-login",
+      "target": "light:accounts-and-identity",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:acct-two-step-login",
+      "target": "space:me",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:acct-two-step-login",
+      "target": "space:home-and-family",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:acct-two-step-login",
+      "target": "space:seniors-and-caregivers",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:acct-two-step-login",
+      "target": "space:classroom-and-school",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:acct-two-step-login",
+      "target": "space:home-office",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:acct-two-step-login",
+      "target": "space:small-business",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:acct-two-step-login",
+      "target": "space:nonprofit-and-community",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:acct-two-step-login",
+      "target": "space:growing-organization",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:acct-two-step-login",
+      "target": "space:public-and-on-the-go",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:acct-two-step-login",
+      "target": "space:builders",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:data-3-2-1-backup",
+      "target": "light:data-and-backups",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:data-3-2-1-backup",
+      "target": "light:respond-and-recover",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:data-3-2-1-backup",
+      "target": "space:me",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:data-3-2-1-backup",
+      "target": "space:home-and-family",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:data-3-2-1-backup",
+      "target": "space:seniors-and-caregivers",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:data-3-2-1-backup",
+      "target": "space:classroom-and-school",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:data-3-2-1-backup",
+      "target": "space:home-office",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:data-3-2-1-backup",
+      "target": "space:small-business",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:data-3-2-1-backup",
+      "target": "space:nonprofit-and-community",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:data-3-2-1-backup",
+      "target": "space:growing-organization",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:data-share-safely",
+      "target": "light:data-and-backups",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:data-share-safely",
+      "target": "light:privacy-and-footprint",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:data-share-safely",
+      "target": "space:me",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:data-share-safely",
+      "target": "space:classroom-and-school",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:data-share-safely",
+      "target": "space:home-office",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:data-share-safely",
+      "target": "space:small-business",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:data-share-safely",
+      "target": "space:nonprofit-and-community",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:data-share-safely",
+      "target": "space:growing-organization",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:data-test-a-restore",
+      "target": "light:data-and-backups",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:data-test-a-restore",
+      "target": "light:respond-and-recover",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:data-test-a-restore",
+      "target": "space:me",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:data-test-a-restore",
+      "target": "space:home-office",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:data-test-a-restore",
+      "target": "space:small-business",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:data-test-a-restore",
+      "target": "space:nonprofit-and-community",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:data-test-a-restore",
+      "target": "space:growing-organization",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:data-test-a-restore",
+      "target": "space:builders",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:dev-auto-updates",
+      "target": "light:devices-and-updates",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:dev-auto-updates",
+      "target": "space:me",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:dev-auto-updates",
+      "target": "space:home-and-family",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:dev-auto-updates",
+      "target": "space:seniors-and-caregivers",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:dev-auto-updates",
+      "target": "space:classroom-and-school",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:dev-auto-updates",
+      "target": "space:home-office",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:dev-auto-updates",
+      "target": "space:small-business",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:dev-auto-updates",
+      "target": "space:nonprofit-and-community",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:dev-auto-updates",
+      "target": "space:growing-organization",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:dev-find-and-wipe",
+      "target": "light:devices-and-updates",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:dev-find-and-wipe",
+      "target": "light:respond-and-recover",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:dev-find-and-wipe",
+      "target": "space:me",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:dev-find-and-wipe",
+      "target": "space:home-and-family",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:dev-find-and-wipe",
+      "target": "space:seniors-and-caregivers",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:dev-find-and-wipe",
+      "target": "space:home-office",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:dev-find-and-wipe",
+      "target": "space:small-business",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:dev-find-and-wipe",
+      "target": "space:public-and-on-the-go",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:dev-iot-and-cameras",
+      "target": "light:devices-and-updates",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:dev-iot-and-cameras",
+      "target": "light:networks-and-wifi",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:dev-iot-and-cameras",
+      "target": "light:physical-and-travel",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:dev-iot-and-cameras",
+      "target": "space:home-and-family",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:dev-iot-and-cameras",
+      "target": "space:seniors-and-caregivers",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:dev-iot-and-cameras",
+      "target": "space:home-office",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:dev-iot-and-cameras",
+      "target": "space:small-business",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:dev-iot-and-cameras",
+      "target": "space:nonprofit-and-community",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:dev-iot-and-cameras",
+      "target": "space:growing-organization",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:dev-retire-old-devices",
+      "target": "light:devices-and-updates",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:dev-retire-old-devices",
+      "target": "light:data-and-backups",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:dev-retire-old-devices",
+      "target": "space:me",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:dev-retire-old-devices",
+      "target": "space:home-and-family",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:dev-retire-old-devices",
+      "target": "space:seniors-and-caregivers",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:dev-retire-old-devices",
+      "target": "space:classroom-and-school",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:dev-retire-old-devices",
+      "target": "space:small-business",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:dev-retire-old-devices",
+      "target": "space:nonprofit-and-community",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:dev-retire-old-devices",
+      "target": "space:growing-organization",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:dev-screen-lock-and-encryption",
+      "target": "light:devices-and-updates",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:dev-screen-lock-and-encryption",
+      "target": "light:data-and-backups",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:dev-screen-lock-and-encryption",
+      "target": "space:me",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:dev-screen-lock-and-encryption",
+      "target": "space:home-and-family",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:dev-screen-lock-and-encryption",
+      "target": "space:seniors-and-caregivers",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:dev-screen-lock-and-encryption",
+      "target": "space:classroom-and-school",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:dev-screen-lock-and-encryption",
+      "target": "space:home-office",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:dev-screen-lock-and-encryption",
+      "target": "space:small-business",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:dev-screen-lock-and-encryption",
+      "target": "space:nonprofit-and-community",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:dev-screen-lock-and-encryption",
+      "target": "space:growing-organization",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:dev-screen-lock-and-encryption",
+      "target": "space:public-and-on-the-go",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:build-owasp-top10-habits",
+      "target": "light:govern-and-build",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:build-owasp-top10-habits",
+      "target": "space:builders",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:build-owasp-top10-habits",
+      "target": "space:growing-organization",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:build-secrets-out-of-code",
+      "target": "light:govern-and-build",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:build-secrets-out-of-code",
+      "target": "space:builders",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:build-secrets-out-of-code",
+      "target": "space:growing-organization",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:gov-cloud-account-basics",
+      "target": "light:govern-and-build",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:gov-cloud-account-basics",
+      "target": "light:accounts-and-identity",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:gov-cloud-account-basics",
+      "target": "space:builders",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:gov-cloud-account-basics",
+      "target": "space:growing-organization",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:gov-cloud-account-basics",
+      "target": "space:small-business",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:gov-inventory",
+      "target": "light:govern-and-build",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:gov-inventory",
+      "target": "light:devices-and-updates",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:gov-inventory",
+      "target": "space:home-office",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:gov-inventory",
+      "target": "space:small-business",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:gov-inventory",
+      "target": "space:nonprofit-and-community",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:gov-inventory",
+      "target": "space:growing-organization",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:gov-inventory",
+      "target": "space:classroom-and-school",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:gov-inventory",
+      "target": "space:builders",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:gov-vendor-review",
+      "target": "light:govern-and-build",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:gov-vendor-review",
+      "target": "space:small-business",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:gov-vendor-review",
+      "target": "space:nonprofit-and-community",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:gov-vendor-review",
+      "target": "space:growing-organization",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:gov-vendor-review",
+      "target": "space:classroom-and-school",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:net-business-remote-access",
+      "target": "light:networks-and-wifi",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:net-business-remote-access",
+      "target": "light:govern-and-build",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:net-business-remote-access",
+      "target": "space:small-business",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:net-business-remote-access",
+      "target": "space:nonprofit-and-community",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:net-business-remote-access",
+      "target": "space:growing-organization",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:net-business-remote-access",
+      "target": "space:builders",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:net-guest-network",
+      "target": "light:networks-and-wifi",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:net-guest-network",
+      "target": "space:home-and-family",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:net-guest-network",
+      "target": "space:home-office",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:net-guest-network",
+      "target": "space:small-business",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:net-guest-network",
+      "target": "space:nonprofit-and-community",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:net-guest-network",
+      "target": "space:classroom-and-school",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:net-public-wifi",
+      "target": "light:networks-and-wifi",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:net-public-wifi",
+      "target": "light:physical-and-travel",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:net-public-wifi",
+      "target": "space:me",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:net-public-wifi",
+      "target": "space:public-and-on-the-go",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:net-public-wifi",
+      "target": "space:home-office",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:net-public-wifi",
+      "target": "space:seniors-and-caregivers",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:net-router-basics",
+      "target": "light:networks-and-wifi",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:net-router-basics",
+      "target": "light:devices-and-updates",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:net-router-basics",
+      "target": "space:home-and-family",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:net-router-basics",
+      "target": "space:seniors-and-caregivers",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:net-router-basics",
+      "target": "space:home-office",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:net-router-basics",
+      "target": "space:small-business",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:net-router-basics",
+      "target": "space:nonprofit-and-community",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:ppl-family-tech-talk",
+      "target": "light:people-and-culture",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:ppl-family-tech-talk",
+      "target": "light:scams-and-social-engineering",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:ppl-family-tech-talk",
+      "target": "space:home-and-family",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:ppl-family-tech-talk",
+      "target": "space:classroom-and-school",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:ppl-family-tech-talk",
+      "target": "space:seniors-and-caregivers",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:ppl-onboarding-offboarding",
+      "target": "light:people-and-culture",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:ppl-onboarding-offboarding",
+      "target": "light:accounts-and-identity",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:ppl-onboarding-offboarding",
+      "target": "light:govern-and-build",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:ppl-onboarding-offboarding",
+      "target": "space:small-business",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:ppl-onboarding-offboarding",
+      "target": "space:nonprofit-and-community",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:ppl-onboarding-offboarding",
+      "target": "space:growing-organization",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:ppl-onboarding-offboarding",
+      "target": "space:classroom-and-school",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:ppl-security-awareness-that-works",
+      "target": "light:people-and-culture",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:ppl-security-awareness-that-works",
+      "target": "space:classroom-and-school",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:ppl-security-awareness-that-works",
+      "target": "space:small-business",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:ppl-security-awareness-that-works",
+      "target": "space:nonprofit-and-community",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:ppl-security-awareness-that-works",
+      "target": "space:growing-organization",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:phys-office-access",
+      "target": "light:physical-and-travel",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:phys-office-access",
+      "target": "space:small-business",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:phys-office-access",
+      "target": "space:nonprofit-and-community",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:phys-office-access",
+      "target": "space:growing-organization",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:phys-office-access",
+      "target": "space:classroom-and-school",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:phys-office-access",
+      "target": "space:home-office",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:phys-travel-kit",
+      "target": "light:physical-and-travel",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:phys-travel-kit",
+      "target": "light:networks-and-wifi",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:phys-travel-kit",
+      "target": "space:me",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:phys-travel-kit",
+      "target": "space:public-and-on-the-go",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:phys-travel-kit",
+      "target": "space:home-office",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:phys-travel-kit",
+      "target": "space:small-business",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:phys-travel-kit",
+      "target": "space:growing-organization",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:priv-account-privacy-review",
+      "target": "light:privacy-and-footprint",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:priv-account-privacy-review",
+      "target": "space:me",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:priv-account-privacy-review",
+      "target": "space:home-and-family",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:priv-account-privacy-review",
+      "target": "space:seniors-and-caregivers",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:priv-account-privacy-review",
+      "target": "space:classroom-and-school",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:priv-account-privacy-review",
+      "target": "space:public-and-on-the-go",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:priv-credit-freeze",
+      "target": "light:privacy-and-footprint",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:priv-credit-freeze",
+      "target": "light:accounts-and-identity",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:priv-credit-freeze",
+      "target": "space:me",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:priv-credit-freeze",
+      "target": "space:home-and-family",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:priv-credit-freeze",
+      "target": "space:seniors-and-caregivers",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:priv-dark-web-reality",
+      "target": "light:privacy-and-footprint",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:priv-dark-web-reality",
+      "target": "light:accounts-and-identity",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:priv-dark-web-reality",
+      "target": "space:me",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:priv-dark-web-reality",
+      "target": "space:home-and-family",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:priv-dark-web-reality",
+      "target": "space:seniors-and-caregivers",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:priv-dark-web-reality",
+      "target": "space:small-business",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:priv-dark-web-reality",
+      "target": "space:growing-organization",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:priv-data-broker-opt-out",
+      "target": "light:privacy-and-footprint",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:priv-data-broker-opt-out",
+      "target": "space:me",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:priv-data-broker-opt-out",
+      "target": "space:home-and-family",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:priv-data-broker-opt-out",
+      "target": "space:seniors-and-caregivers",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:priv-data-broker-opt-out",
+      "target": "space:classroom-and-school",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:resp-incident-contact-sheet",
+      "target": "light:respond-and-recover",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:resp-incident-contact-sheet",
+      "target": "space:me",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:resp-incident-contact-sheet",
+      "target": "space:home-and-family",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:resp-incident-contact-sheet",
+      "target": "space:seniors-and-caregivers",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:resp-incident-contact-sheet",
+      "target": "space:home-office",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:resp-incident-contact-sheet",
+      "target": "space:small-business",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:resp-incident-contact-sheet",
+      "target": "space:nonprofit-and-community",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:resp-incident-contact-sheet",
+      "target": "space:growing-organization",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:resp-incident-contact-sheet",
+      "target": "space:classroom-and-school",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:resp-tabletop-exercise",
+      "target": "light:respond-and-recover",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:resp-tabletop-exercise",
+      "target": "light:people-and-culture",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:resp-tabletop-exercise",
+      "target": "space:home-and-family",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:resp-tabletop-exercise",
+      "target": "space:small-business",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:resp-tabletop-exercise",
+      "target": "space:nonprofit-and-community",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:resp-tabletop-exercise",
+      "target": "space:growing-organization",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:resp-tabletop-exercise",
+      "target": "space:classroom-and-school",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:scam-family-code-word",
+      "target": "light:scams-and-social-engineering",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:scam-family-code-word",
+      "target": "space:home-and-family",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:scam-family-code-word",
+      "target": "space:seniors-and-caregivers",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:scam-family-code-word",
+      "target": "space:small-business",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:scam-pause-and-verify",
+      "target": "light:scams-and-social-engineering",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:scam-pause-and-verify",
+      "target": "light:people-and-culture",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:scam-pause-and-verify",
+      "target": "space:me",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:scam-pause-and-verify",
+      "target": "space:home-and-family",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:scam-pause-and-verify",
+      "target": "space:seniors-and-caregivers",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:scam-pause-and-verify",
+      "target": "space:classroom-and-school",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:scam-pause-and-verify",
+      "target": "space:home-office",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:scam-pause-and-verify",
+      "target": "space:small-business",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:scam-pause-and-verify",
+      "target": "space:nonprofit-and-community",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:scam-pause-and-verify",
+      "target": "space:growing-organization",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:scam-pause-and-verify",
+      "target": "space:public-and-on-the-go",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:scam-payment-change-verification",
+      "target": "light:scams-and-social-engineering",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:scam-payment-change-verification",
+      "target": "light:govern-and-build",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:scam-payment-change-verification",
+      "target": "space:home-office",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:scam-payment-change-verification",
+      "target": "space:small-business",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:scam-payment-change-verification",
+      "target": "space:nonprofit-and-community",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:scam-payment-change-verification",
+      "target": "space:growing-organization",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:scam-payment-change-verification",
+      "target": "space:classroom-and-school",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:scam-report-phishing",
+      "target": "light:scams-and-social-engineering",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:scam-report-phishing",
+      "target": "light:people-and-culture",
+      "type": "in-light"
+    },
+    {
+      "source": "practice:scam-report-phishing",
+      "target": "space:classroom-and-school",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:scam-report-phishing",
+      "target": "space:small-business",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:scam-report-phishing",
+      "target": "space:nonprofit-and-community",
+      "type": "for-space"
+    },
+    {
+      "source": "practice:scam-report-phishing",
+      "target": "space:growing-organization",
+      "type": "for-space"
+    }
+  ]
+}
