@@ -1,0 +1,64 @@
+<!doctype html>
+<!-- site/quartz/static/readiness/index.html - The readiness check: pick a Space, mark what you've done, see your level and next steps. -->
+<!-- -->
+<!-- Practice data comes from practices.json, written by tools/build-indexes.mjs. Answers stay in this browser only. -->
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Readiness check · neon1 ready</title>
+  <meta name="description" content="Pick where you are, mark what you've already done, and see your neon1 level and the next three things to do.">
+  <link rel="icon" href="../icon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=JetBrains+Mono:wght@500;700&display=swap">
+  <link rel="stylesheet" href="readiness.css">
+</head>
+<body>
+  <header class="band">
+    <a class="home" href="../../">
+      <svg viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" aria-hidden="true"><path d="M6 6a24 24 0 0 1 24 24v30M6 12a18 18 0 0 1 18 18v30M6 18a12 12 0 0 1 12 12v30M6 24a6 6 0 0 1 6 6v30"/><path d="M34 6a24 24 0 0 1 24 24v30M34 12a18 18 0 0 1 18 18v30M34 18a12 12 0 0 1 12 12v30M34 24a6 6 0 0 1 6 6v30"/></svg>
+      neon1 ready
+    </a>
+    <span class="kind">Readiness check</span>
+  </header>
+
+  <main>
+    <h1>How ready are you?</h1>
+    <p class="lede">Pick where you are. Then go down the list and mark what's already true. It takes about five minutes, and nothing you click leaves this browser.</p>
+
+    <section aria-labelledby="space-h">
+      <h2 id="space-h"><span class="step">1</span> Where are you?</h2>
+      <div id="spaces" class="chips" role="radiogroup" aria-label="Space"></div>
+    </section>
+
+    <section id="questions" aria-labelledby="q-h" hidden>
+      <h2 id="q-h"><span class="step">2</span> What's already true?</h2>
+      <p class="hint">Be honest. "Started" counts for something, and "Doesn't fit" takes a practice out of your score.</p>
+      <div id="lights"></div>
+    </section>
+
+    <section id="results" aria-labelledby="r-h" aria-live="polite" hidden>
+      <h2 id="r-h"><span class="step">3</span> Where you stand</h2>
+      <div class="score">
+        <div id="badge" class="badge"></div>
+        <p id="verdict"></p>
+      </div>
+      <h3>Your grid</h3>
+      <p class="hint">One row per area. A filled cell means everything at that level is done. A half cell means you've started.</p>
+      <table id="grid" class="grid"></table>
+      <h3>Do these next</h3>
+      <ol id="next" class="next"></ol>
+      <p class="actions">
+        <button type="button" id="print">Print my results</button>
+        <button type="button" id="reset" class="ghost">Start over</button>
+      </p>
+    </section>
+  </main>
+
+  <footer>
+    From <a href="../../">neon1 ready</a> by neon1 LLC. Content under CC BY-SA 4.0. See the <a href="../../levels/grid">maturity grid</a> for every practice at once.
+  </footer>
+
+  <script src="readiness.js"></script>
+</body>
+</html>
