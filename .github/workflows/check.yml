@@ -1,0 +1,31 @@
+name: check
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: site/package-lock.json
+      - name: Install site dependencies
+        run: npm ci
+        working-directory: site
+      - name: Lint practice cards
+        run: node tools/lint-cards.mjs
+      - name: Check generated indexes are current
+        run: |
+          node tools/build-indexes.mjs
+          git diff --exit-code -- content data
+      - name: Build site
+        run: npm run build
+        working-directory: site
