@@ -28,10 +28,9 @@ sources:
 
 When something goes wrong, people panic, and the information they need is often locked inside the computer that's broken or hacked. A single printed page turns panic into a checklist. For a business, it's also the seed of an incident response plan, which insurers and auditors will ask about.
 
-## Ask yourself
-
-- If your email were hacked right now, who would you call first? Do you have their number somewhere other than your phone?
-- For a business: who's allowed to decide to shut systems down, call the insurer or call a lawyer?
+> [!question] Ask yourself
+> - If your email were hacked right now, who would you call first? Do you have their number somewhere other than your phone?
+> - For a business: who's allowed to decide to shut systems down, call the insurer or call a lawyer?
 
 ## Do it
 
@@ -55,9 +54,8 @@ When something goes wrong, people panic, and the information they need is often 
 
 Print it. Keep one copy at home and one somewhere else. Review it twice a year.
 
-## How do you know it worked?
-
-You can find the sheet in under a minute without touching a computer, and the numbers on it are current.
+> [!success] How do you know it worked?
+> You can find the sheet in under a minute without touching a computer, and the numbers on it are current.
 
 ## Go further
 

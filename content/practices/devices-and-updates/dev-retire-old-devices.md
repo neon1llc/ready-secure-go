@@ -28,10 +28,9 @@ sources:
 
 When a manufacturer stops shipping updates, every new security hole stays open forever. Windows 10 reached end of support in October 2025, so millions of PCs stopped getting fixes unless they enrolled in paid extended updates. Old phones, tablets, routers and camera recorders hit the same wall. And the device you got rid of may still hold your photos, saved passwords and client files.
 
-## Ask yourself
-
-- Which of your devices are more than five or six years old?
-- What happened to the last phone or laptop you replaced? Is it in a drawer, or did someone else get it?
+> [!question] Ask yourself
+> - Which of your devices are more than five or six years old?
+> - What happened to the last phone or laptop you replaced? Is it in a drawer, or did someone else get it?
 
 ## Do it
 
@@ -44,9 +43,8 @@ When a manufacturer stops shipping updates, every new security hole stays open f
 4. **Hard drives from old PCs and copiers:** use the drive's secure-erase tool or physically destroy it. Office copiers and printers often have hard drives too.
 5. **Offices:** keep a disposal log (device, date, how wiped, by whom). Auditors ask for this.
 
-## How do you know it worked?
-
-Every device you use is in support, and every device you've given away was reset and signed out.
+> [!success] How do you know it worked?
+> Every device you use is in support, and every device you've given away was reset and signed out.
 
 ## Go further
 

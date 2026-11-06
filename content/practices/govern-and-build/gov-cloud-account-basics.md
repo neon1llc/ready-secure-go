@@ -28,11 +28,10 @@ sources:
 
 The root user of a cloud account can do anything, including delete everything and run up enormous bills. Leaked cloud keys get abused within minutes, often to mine cryptocurrency on your credit card. Most cloud breaches aren't clever. They're a leaked key, a missing MFA, or a storage bucket left public.
 
-## Ask yourself
-
-- Who knows the root password for your AWS (or Azure or Google Cloud) account? Is MFA on it?
-- Does anyone have long-lived access keys sitting on their laptop or in a code repository?
-- Would you notice if your bill jumped tenfold overnight?
+> [!question] Ask yourself
+> - Who knows the root password for your AWS (or Azure or Google Cloud) account? Is MFA on it?
+> - Does anyone have long-lived access keys sitting on their laptop or in a code repository?
+> - Would you notice if your bill jumped tenfold overnight?
 
 ## Do it
 
@@ -45,13 +44,11 @@ The root user of a cloud account can do anything, including delete everything an
 7. **Billing alarms:** set budgets and alerts so a surprise shows up in hours, not at month-end.
 8. **Microsoft 365 and Google Workspace** are cloud tenants too. CISA's SCuBA baselines are a free, practical checklist for them.
 
-## How do you know it worked?
+> [!success] How do you know it worked?
+> Root has hardware MFA and no keys, every human logs in through their own identity with MFA, CloudTrail is on in every region, and a budget alert exists.
 
-Root has hardware MFA and no keys, every human logs in through their own identity with MFA, CloudTrail is on in every region, and a budget alert exists.
-
-## Attacker's-eye view
-
-Stolen cloud credentials (MITRE ATT&CK T1078.004, Cloud Accounts) followed by creating new keys or users to keep access (T1098, Account Manipulation) is the most common cloud intrusion pattern. Logging is how you'd see it. MFA and no long-lived keys are how you'd prevent it.
+> [!danger] Attacker's-eye view
+> Stolen cloud credentials (MITRE ATT&CK T1078.004, Cloud Accounts) followed by creating new keys or users to keep access (T1098, Account Manipulation) is the most common cloud intrusion pattern. Logging is how you'd see it. MFA and no long-lived keys are how you'd prevent it.
 
 ## Go further
 

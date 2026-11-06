@@ -24,10 +24,9 @@ sources:
 
 On a single network, every device can usually talk to every other device. A visitor's infected laptop or a cheap smart plug with a security hole is then one hop away from your work computer. Splitting the network is like giving guests the living room instead of the keys to every room.
 
-## Ask yourself
-
-- Do clients, students or customers use the same Wi-Fi as your office computers or point-of-sale system?
-- Where do your smart TV, cameras and speakers connect?
+> [!question] Ask yourself
+> - Do clients, students or customers use the same Wi-Fi as your office computers or point-of-sale system?
+> - Where do your smart TV, cameras and speakers connect?
 
 ## Do it
 
@@ -37,13 +36,11 @@ On a single network, every device can usually talk to every other device. A visi
 4. **Offices:** keep staff devices, guests and payment systems on separate networks (VLANs on business routers). Card payment systems in particular should never share Wi-Fi with guests.
 5. Change the guest password every few months, or use a router feature that shows a QR code that rotates.
 
-## How do you know it worked?
+> [!success] How do you know it worked?
+> From a phone on the guest network, you can't see or reach your computers, printers or file shares.
 
-From a phone on the guest network, you can't see or reach your computers, printers or file shares.
-
-## Attacker's-eye view
-
-Once inside a network, attackers move from machine to machine (MITRE ATT&CK T1021, Remote Services, and T1570, Lateral Tool Transfer). Separate networks put walls in their way.
+> [!danger] Attacker's-eye view
+> Once inside a network, attackers move from machine to machine (MITRE ATT&CK T1021, Remote Services, and T1570, Lateral Tool Transfer). Separate networks put walls in their way.
 
 ## Go further
 

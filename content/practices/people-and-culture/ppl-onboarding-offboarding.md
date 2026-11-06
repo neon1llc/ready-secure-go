@@ -24,10 +24,9 @@ sources:
 
 Former employees, volunteers and contractors with working logins are one of the most common findings in any security assessment I do. Sometimes it's harmless. Sometimes a disgruntled ex-employee deletes files, or a former contractor's reused password gets leaked and someone walks right in. SOC 2 auditors check this first, by sampling people who left and asking you to prove their access was removed on time.
 
-## Ask yourself
-
-- If someone left today, could you list every system they had access to? (Email, files, payroll, the website, social media, the bank, the alarm code, the Wi-Fi password, the shared password vault?)
-- Who removes access, and how do they find out someone left?
+> [!question] Ask yourself
+> - If someone left today, could you list every system they had access to? (Email, files, payroll, the website, social media, the bank, the alarm code, the Wi-Fi password, the shared password vault?)
+> - Who removes access, and how do they find out someone left?
 
 ## Do it
 
@@ -42,13 +41,11 @@ Former employees, volunteers and contractors with working logins are one of the 
 5. **Single sign-on** (Google Workspace or Microsoft Entra ID logging into everything else) makes this dramatically easier, because one switch turns off most access.
 6. **Quarterly access review:** list who has access to each important system and confirm each person still needs it. Keep the record.
 
-## How do you know it worked?
+> [!success] How do you know it worked?
+> Pick someone who left in the past year. You can show the date each of their accounts was disabled, and it's within a day of their last day.
 
-Pick someone who left in the past year. You can show the date each of their accounts was disabled, and it's within a day of their last day.
-
-## Attacker's-eye view
-
-A forgotten account is a working key (MITRE ATT&CK T1078, Valid Accounts) that nobody is watching.
+> [!danger] Attacker's-eye view
+> A forgotten account is a working key (MITRE ATT&CK T1078, Valid Accounts) that nobody is watching.
 
 ## Go further
 

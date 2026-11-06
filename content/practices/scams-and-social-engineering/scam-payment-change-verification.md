@@ -27,10 +27,9 @@ sources:
 
 **Business email compromise** (BEC) is one of the costliest kinds of internet crime the FBI tracks, by a wide margin. It looks boring: a vendor emails that they've "changed banks", a "CEO" asks for a quick wire, a "parent" asks the school office to update direct deposit. Often the email really does come from the vendor's or employee's account, because that account was hacked first.
 
-## Ask yourself
-
-- If your bookkeeper got an email from a real vendor saying "please use our new account", what would they do today?
-- Who can send money out of your organization, and does anyone check?
+> [!question] Ask yourself
+> - If your bookkeeper got an email from a real vendor saying "please use our new account", what would they do today?
+> - Who can send money out of your organization, and does anyone check?
 
 ## Do it
 
@@ -41,13 +40,11 @@ sources:
 5. **Banks:** turn on payee-change alerts and ask about positive pay or callback verification.
 6. **If money already went out:** call your bank *immediately* and ask for a wire recall, then report at **ic3.gov**. Speed matters. The first 24 to 72 hours give the best chance of getting it back.
 
-## How do you know it worked?
+> [!success] How do you know it worked?
+> Everyone who handles money can recite the rule, and there's a record of callbacks for the last few payee changes.
 
-Everyone who handles money can recite the rule, and there's a record of callbacks for the last few payee changes.
-
-## Attacker's-eye view
-
-BEC combines phishing (MITRE ATT&CK T1566), messages sent from inside a hacked mailbox (T1534, Internal Spearphishing) and the end goal of stealing money (T1657, Financial Theft). It's a business-process attack, so a business-process control stops it.
+> [!danger] Attacker's-eye view
+> BEC combines phishing (MITRE ATT&CK T1566), messages sent from inside a hacked mailbox (T1534, Internal Spearphishing) and the end goal of stealing money (T1657, Financial Theft). It's a business-process attack, so a business-process control stops it.
 
 ## Go further
 

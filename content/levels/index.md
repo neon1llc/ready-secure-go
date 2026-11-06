@@ -14,11 +14,10 @@ Every practice card has a level. Every Space has a path that climbs through them
 | 3 | **Bright** | You check and practice: you've tested a restore, frozen your credit, and run a "what if" with the family. | Managed and tested: logging and alerts, regular access reviews, tabletop exercises, restore tests, risk reviewed by leadership. Ready for an audit like SOC 2. |
 | 4 | **Neon** | You help others: you set up a parent's phone, you teach your kid's class, you spot scams for your group chat. | Measured and improving: metrics, continuous testing, security built into how products and vendors are chosen, and you share what you learn. |
 
-## Ask yourself
-
-- If your email password leaked tonight, what would stop someone from getting in?
-- If your laptop died tomorrow, what would you lose forever?
-- If someone in your office got a convincing fake invoice, who would they ask before paying it?
+> [!question] Ask yourself
+> - If your email password leaked tonight, what would stop someone from getting in?
+> - If your laptop died tomorrow, what would you lose forever?
+> - If someone in your office got a convincing fake invoice, who would they ask before paying it?
 
 If you hesitated on any of those, the Spark cards in your Space are where to start.
 
