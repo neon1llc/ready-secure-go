@@ -34,3 +34,7 @@ cd site && npm ci && cd ..
 node tools/lint-cards.mjs     # checks every practice card's front matter
 cd site && npm run serve      # preview at http://localhost:8080
 ```
+
+## Branches and commits
+
+See [VCS-ETIQUETTE.md](VCS-ETIQUETTE.md) for branch names, commit messages, and how the rules change at `v1.0.0`.
