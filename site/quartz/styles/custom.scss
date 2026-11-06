@@ -106,3 +106,32 @@ article table {
     break-inside: avoid;
   }
 }
+
+
+// Call-to-action link for the readiness check
+a.check-start {
+  display: inline-block;
+  padding: 0.6rem 1.2rem;
+  border-radius: 8px;
+  background: var(--secondary) !important;
+  color: var(--light) !important;
+  font-weight: 600;
+}
+
+
+// The maturity grid packs many links into each cell, so they go lighter and smaller
+body[data-slug="levels/grid"] article table {
+  font-size: 0.85rem;
+  line-height: 1.45;
+
+  td a.internal {
+    display: block;
+    margin-bottom: 0.4rem;
+    padding: 0;
+    background: none;
+  }
+
+  td br {
+    display: none;
+  }
+}
