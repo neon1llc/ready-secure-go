@@ -14,7 +14,9 @@
     "test": "tsx --test",
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1",
     "build": "npx quartz build -d ../content -o ../public",
-    "serve": "npx quartz build -d ../content -o ../public --serve"
+    "serve": "npx quartz build -d ../content -o ../public --serve",
+    "documents": "node ../tools/build-docs.mjs",
+    "build:all": "npm run build && npm run documents"
   },
   "engines": {
     "npm": ">=10.9.2",
@@ -104,6 +106,7 @@
     "@types/ws": "^8.18.1",
     "@types/yargs": "^17.0.33",
     "esbuild": "^0.25.9",
+    "playwright": "1.63.0",
     "prettier": "^3.6.2",
     "tsx": "^4.20.5",
     "typescript": "^5.9.2"
