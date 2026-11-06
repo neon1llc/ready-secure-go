@@ -24,11 +24,10 @@ sources:
 
 Every assessment I do starts here, because every other control depends on it. The laptop nobody patches is the one nobody remembered. The forgotten free trial still has your customer list in it. The old website on a cheap host gets hacked and starts serving malware with your name on it.
 
-## Ask yourself
-
-- How many devices does your organization own? How many personal devices touch work email?
-- How many online services do you use? Count the ones on credit card statements, not just the ones IT set up.
-- Who owns your domain name and website hosting, and do you have the logins?
+> [!question] Ask yourself
+> - How many devices does your organization own? How many personal devices touch work email?
+> - How many online services do you use? Count the ones on credit card statements, not just the ones IT set up.
+> - Who owns your domain name and website hosting, and do you have the logins?
 
 ## Do it
 
@@ -47,9 +46,8 @@ Then:
 
 Growing organizations: device management (Intune, Jamf, Google endpoint management) and your identity provider's app list can automate much of this.
 
-## How do you know it worked?
-
-If someone asks "do we use X, and who owns it?", you can answer in under a minute.
+> [!success] How do you know it worked?
+> If someone asks "do we use X, and who owns it?", you can answer in under a minute.
 
 ## Go further
 

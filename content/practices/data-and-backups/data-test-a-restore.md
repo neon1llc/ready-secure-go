@@ -25,10 +25,9 @@ sources:
 
 Backups fail quietly. The drive filled up eight months ago. The job only covered the Desktop. The encryption password lives in the head of someone who left. You don't want to find out during an emergency.
 
-## Ask yourself
-
-- How long would it take to get back to working if your main computer or server died today? Have you ever timed it?
-- Who knows how to do the restore? What if they're on vacation?
+> [!question] Ask yourself
+> - How long would it take to get back to working if your main computer or server died today? Have you ever timed it?
+> - Who knows how to do the restore? What if they're on vacation?
 
 ## Do it
 
@@ -39,9 +38,8 @@ Backups fail quietly. The drive filled up eight months ago. The job only covered
 5. **Repeat on a schedule:** a file restore every quarter, a full system restore once a year. Rotate who does it.
 6. **Businesses:** record the date, scope, result and time taken. That record is evidence for SOC 2 availability criteria and cyber insurance questionnaires.
 
-## How do you know it worked?
-
-You have a dated note saying "restored X in Y minutes, it opened fine", and someone other than the usual person could follow your notes.
+> [!success] How do you know it worked?
+> You have a dated note saying "restored X in Y minutes, it opened fine", and someone other than the usual person could follow your notes.
 
 ## Go further
 

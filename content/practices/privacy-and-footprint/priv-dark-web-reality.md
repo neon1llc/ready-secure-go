@@ -28,11 +28,10 @@ sources:
 
 You can't delete anything from those places. What you *can* do is make the stolen data useless.
 
-## Ask yourself
-
-- If your old password is for sale, does it still open anything?
-- If your Social Security number is out there, is your credit frozen?
-- For a business: if an employee's login was sold, would MFA stop the buyer?
+> [!question] Ask yourself
+> - If your old password is for sale, does it still open anything?
+> - If your Social Security number is out there, is your credit frozen?
+> - For a business: if an employee's login was sold, would MFA stop the buyer?
 
 ## Do it
 
@@ -45,13 +44,11 @@ You can't delete anything from those places. What you *can* do is make the stole
 3. **Businesses:** Have I Been Pwned offers free domain search for domains you own, so you can see which company addresses appear in breaches. Many identity providers also flag leaked credentials.
 4. **Don't go browsing criminal markets yourself** to "check". There's nothing to gain and real risk.
 
-## How do you know it worked?
+> [!success] How do you know it worked?
+> For every alert you've received, the leaked thing has been changed, frozen or replaced.
 
-For every alert you've received, the leaked thing has been changed, frozen or replaced.
-
-## Attacker's-eye view
-
-Buying leaked credentials and identity data (MITRE ATT&CK T1589), then logging in with them (T1078, Valid Accounts), is cheaper than any hack. Unique passwords, MFA and credit freezes make the goods worthless.
+> [!danger] Attacker's-eye view
+> Buying leaked credentials and identity data (MITRE ATT&CK T1589), then logging in with them (T1078, Valid Accounts), is cheaper than any hack. Unique passwords, MFA and credit freezes make the goods worthless.
 
 ## Go further
 

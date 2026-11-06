@@ -32,11 +32,10 @@ sources:
 
 The OWASP Top 10 is the most widely used list of the most serious web application risks, built from data across thousands of applications. The same few mistakes keep showing up year after year: broken access control, injection, misconfiguration, outdated components, weak authentication. They're cheap to prevent while building and expensive to fix after a breach.
 
-## Ask yourself
-
-- Can a logged-in user change an ID in a URL and see someone else's data?
-- Where does user input touch a database query, a shell command or an HTML page?
-- When did you last update your dependencies, and would you know if one had a known hole?
+> [!question] Ask yourself
+> - Can a logged-in user change an ID in a URL and see someone else's data?
+> - Where does user input touch a database query, a shell command or an HTML page?
+> - When did you last update your dependencies, and would you know if one had a known hole?
 
 ## Do it
 
@@ -61,13 +60,11 @@ Then:
 2. Run SAST (Semgrep, CodeQL), dependency scanning and secret scanning in CI.
 3. Use OWASP ASVS Level 1 as a target for most apps, and Level 2 for apps holding sensitive data.
 
-## How do you know it worked?
+> [!success] How do you know it worked?
+> Your pull request template has a short security checklist, CI fails on new critical findings, and your last dependency update is less than a month old.
 
-Your pull request template has a short security checklist, CI fails on new critical findings, and your last dependency update is less than a month old.
-
-## Attacker's-eye view
-
-Exploit Public-Facing Application (MITRE ATT&CK T1190) is how most web breaches begin, often leading to running the attacker's commands (T1059). Each habit above closes a door they routinely check.
+> [!danger] Attacker's-eye view
+> Exploit Public-Facing Application (MITRE ATT&CK T1190) is how most web breaches begin, often leading to running the attacker's commands (T1059). Each habit above closes a door they routinely check.
 
 ## Go further
 

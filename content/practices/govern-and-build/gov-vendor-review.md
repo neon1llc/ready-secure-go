@@ -24,11 +24,10 @@ sources:
 
 Your security is only as good as the companies holding your data. Payroll providers, IT support firms, school apps, donor databases, website plugins: when one of them is breached, it's your data and your customers' trust. Some of the most damaging attacks of recent years came through a trusted vendor's access or software.
 
-## Ask yourself
-
-- Which vendors could log into your systems right now? (Your IT company's remote tool counts.)
-- Which vendors hold sensitive data about your clients, students, patients or donors?
-- If one of them were breached, how would you find out?
+> [!question] Ask yourself
+> - Which vendors could log into your systems right now? (Your IT company's remote tool counts.)
+> - Which vendors hold sensitive data about your clients, students, patients or donors?
+> - If one of them were breached, how would you find out?
 
 ## Do it
 
@@ -46,13 +45,11 @@ Then:
 - **Review yearly** for important vendors. Read the "exceptions" and "complementary user entity controls" sections of their SOC 2 reports, which list what *you* are expected to do.
 - **Students and children's data:** check for privacy commitments (FERPA and COPPA in the U.S.) and signed data privacy agreements.
 
-## How do you know it worked?
+> [!success] How do you know it worked?
+> Your vendor tab ([Know what you have](gov-inventory.md)) shows, for every important vendor, the date you last reviewed them and where their answers are kept.
 
-Your vendor tab ([Know what you have](gov-inventory.md)) shows, for every important vendor, the date you last reviewed them and where their answers are kept.
-
-## Attacker's-eye view
-
-Trusted Relationship (MITRE ATT&CK T1199) and Supply Chain Compromise (T1195) let attackers skip your defenses entirely by coming in through someone you already let in.
+> [!danger] Attacker's-eye view
+> Trusted Relationship (MITRE ATT&CK T1199) and Supply Chain Compromise (T1195) let attackers skip your defenses entirely by coming in through someone you already let in.
 
 ## Go further
 

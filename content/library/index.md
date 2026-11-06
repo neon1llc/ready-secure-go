@@ -10,16 +10,16 @@ You don't need any of these to get started. They matter when you need to show yo
 | Framework | What it is | Who it's for | How it's used here |
 |---|---|---|---|
 | **SOC 2** (AICPA Trust Services Criteria) | An independent CPA firm's report on how you protect customer data | Companies selling services to other businesses | The [SOC 2 track](../tracks/soc2/index.md), and `soc2` IDs on each card |
-| **OWASP** (Top 10, ASVS, SAMM, Cheat Sheets) | Free, community-built application security standards and guidance | Anyone building software or websites | The [Builders](../spaces/builders/index.md) space; adapted under CC BY-SA 4.0 |
+| **OWASP** (Top 10, ASVS, SAMM, Cheat Sheets) | Free, community-built application security standards and guidance | Anyone building software or websites | The [Builders](../spaces/builders/index.md) space. Adapted under CC BY-SA 4.0 |
 | **MITRE ATT&CK** | A knowledge base of real attacker tactics and techniques, from real-world observation | Defenders, and anyone curious how attacks really work | The "Attacker's-eye view" on each card, with `attack` technique IDs |
 
 ## Crosswalks
 
 | Framework | What it is | How it's used here |
 |---|---|---|
-| **NIST Cybersecurity Framework 2.0** | The U.S. government's widely used outcome framework: Govern, Identify, Protect, Detect, Respond, Recover | `nist_csf` IDs on each card; [levels](../levels/index.md) line up with CSF tiers |
-| **CIS Critical Security Controls v8.1** | A prioritized list of safeguards, grouped into Implementation Groups 1 to 3 | `cis` safeguard numbers on each card (referenced only; the Controls are CC BY-NC-ND) |
-| **ACSC Essential Eight** | Australia's eight priority mitigations with maturity levels 0 to 3 | `e8` tags on cards; inspired the level pattern |
+| **NIST Cybersecurity Framework 2.0** | The U.S. government's widely used outcome framework: Govern, Identify, Protect, Detect, Respond, Recover | `nist_csf` IDs on each card. [Levels](../levels/index.md) line up with CSF tiers |
+| **CIS Critical Security Controls v8.1** | A prioritized list of safeguards, grouped into Implementation Groups 1 to 3 | `cis` safeguard numbers on each card (referenced only, since the Controls are CC BY-NC-ND) |
+| **ACSC Essential Eight** | Australia's eight priority mitigations with maturity levels 0 to 3 | `e8` tags on cards. It inspired the level pattern |
 | **CISA Cross-Sector Cybersecurity Performance Goals** | A short list of high-impact practices for organizations | Source for many organization practices |
 | **ISO/IEC 27001** | International certification for information security management systems | Mentioned where it overlaps with SOC 2 (referenced only) |
 

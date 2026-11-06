@@ -25,22 +25,19 @@ sources:
 
 Two or three sentences. What goes wrong without it, and how likely that is.
 
-## Ask yourself
-
-- A question that makes the reader look at their own situation.
+> [!question] Ask yourself
+> - A question that makes the reader look at their own situation.
 
 ## Do it
 
-1. Concrete step.
-2. Concrete step.
+1. **Short lead.** Concrete step, one idea per number.
+2. **Short lead.** Concrete step.
 
-## How do you know it worked?
+> [!success] How do you know it worked?
+> One check anyone can do.
 
-One check anyone can do.
-
-## Attacker's-eye view
-
-What an attacker tries, and how this gets in the way.
+> [!danger] Attacker's-eye view
+> What an attacker tries, and how this gets in the way.
 
 ## Go further
 

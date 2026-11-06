@@ -22,10 +22,9 @@ sources:
 
 Cloning a voice now takes only a few seconds of audio from a social media video. "Grandparent scams" and "family emergency" calls use those cloned voices: it sounds exactly like your kid, crying, saying they've been arrested or hurt and need money now. Businesses get the same trick with a cloned "CEO" asking for an urgent transfer.
 
-## Ask yourself
-
-- Could you tell a perfect copy of your child's or parent's voice from the real thing, when they sound panicked?
-- What would you ask to be sure?
+> [!question] Ask yourself
+> - Could you tell a perfect copy of your child's or parent's voice from the real thing, when they sound panicked?
+> - What would you ask to be sure?
 
 ## Do it
 
@@ -35,13 +34,11 @@ Cloning a voice now takes only a few seconds of audio from a social media video.
 4. **Also:** hang up and call the person back on their known number. Call another family member.
 5. **Businesses:** do the same for payment approvals. A verbal code, or better, a rule that money only moves after a callback to a known number. See [Never change payment details on the strength of an email](scam-payment-change-verification.md).
 
-## How do you know it worked?
+> [!success] How do you know it worked?
+> Ask a family member, out of the blue, "what's our word?" They know it.
 
-Ask a family member, out of the blue, "what's our word?" They know it.
-
-## Attacker's-eye view
-
-Impersonation (MITRE ATT&CK T1656) is getting cheaper and more convincing. A shared secret is low-tech, but a clone can't know it.
+> [!danger] Attacker's-eye view
+> Impersonation (MITRE ATT&CK T1656) is getting cheaper and more convincing. A shared secret is low-tech, but a clone can't know it.
 
 ## Go further
 

@@ -29,11 +29,10 @@ sources:
 
 Whatever account you're logged into when you click a bad link, the malware gets that account's power. If you browse and read email as an administrator, one mistake can take over the whole computer, or the whole Microsoft 365 or Google Workspace tenant. If you use a regular account, the damage usually stays small.
 
-## Ask yourself
-
-- Who in your office can install software or change settings for everyone? Do they need to, every day?
-- Does the person who left last spring still have admin rights somewhere?
-- Is your cloud or email admin account the same one you read email with?
+> [!question] Ask yourself
+> - Who in your office can install software or change settings for everyone? Do they need to, every day?
+> - Does the person who left last spring still have admin rights somewhere?
+> - Is your cloud or email admin account the same one you read email with?
 
 ## Do it
 
@@ -43,13 +42,11 @@ Whatever account you're logged into when you click a bad link, the malware gets 
 4. **Review quarterly:** list everyone with admin rights in each system, and remove anyone who doesn't need them.
 5. **Cloud:** never use the AWS root user or equivalent day to day. See [Lock down the root of your cloud account](../govern-and-build/gov-cloud-account-basics.md).
 
-## How do you know it worked?
+> [!success] How do you know it worked?
+> You can produce a short list of every admin account in each system, and none of them is anyone's daily login.
 
-You can produce a short list of every admin account in each system, and none of them is anyone's daily login.
-
-## Attacker's-eye view
-
-Once in, attackers look for admin credentials to spread and dig in (MITRE ATT&CK T1078.003, Local Accounts, and T1068, Exploitation for Privilege Escalation). Separating admin accounts means the account they land on usually can't do much.
+> [!danger] Attacker's-eye view
+> Once in, attackers look for admin credentials to spread and dig in (MITRE ATT&CK T1078.003, Local Accounts, and T1068, Exploitation for Privilege Escalation). Separating admin accounts means the account they land on usually can't do much.
 
 ## Go further
 

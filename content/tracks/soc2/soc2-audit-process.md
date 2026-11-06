@@ -35,9 +35,8 @@ A common path: readiness, then a Type I, then a Type II with a shorter first win
 - **Bridge letters** cover the gap between your report's end date and today, when customers ask.
 - Keep running controls continuously. The next window starts when the last one ends.
 
-## Ask yourself
-
-- When does your biggest prospect need the report? Count backward from that date.
-- Who will be the auditor's point of contact, and how much of their time will this take?
+> [!question] Ask yourself
+> - When does your biggest prospect need the report? Count backward from that date.
+> - Who will be the auditor's point of contact, and how much of their time will this take?
 
 Next: [The SOC 2 readiness checklist](soc2-readiness-checklist.md)

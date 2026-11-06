@@ -1,7 +1,7 @@
 ---
 id: phys-office-access
 title: Control who can walk into your space
-summary: Know who has keys, badges and codes; log visitors; lock up network gear and paper records; and treat the front door as part of security.
+summary: Know who holds keys, badges and codes, log visitors, and lock up network gear and paper records.
 level: 2
 lights: [physical-and-travel]
 spaces: [small-business, nonprofit-and-community, growing-organization, classroom-and-school, home-office]
@@ -29,12 +29,11 @@ The best firewall in the world doesn't help if someone can walk in, plug a devic
 
 When I do discovery for a client, I always walk the space. One small SOC 2 client passed their audit with simple measures, but I still recommended passcard entry so they'd know exactly who came in and when, and could turn off a lost card in seconds instead of rekeying locks.
 
-## Ask yourself
-
-- How many keys to your office exist? Who has them? What about people who left?
-- Could a stranger carrying a box get in behind an employee (that's called "tailgating")? Would anyone say something?
-- Where is your network equipment? Is it in an unlocked closet, or under the reception desk?
-- What's in the recycling bin?
+> [!question] Ask yourself
+> - How many keys to your office exist? Who has them? What about people who left?
+> - Could a stranger carrying a box get in behind an employee (that's called "tailgating")? Would anyone say something?
+> - Where is your network equipment? Is it in an unlocked closet, or under the reception desk?
+> - What's in the recycling bin?
 
 ## Do it
 
@@ -47,13 +46,11 @@ When I do discovery for a client, I always walk the space. One small SOC 2 clien
 7. **Unknown USB drives:** never plug them in. Hand them to whoever handles IT.
 8. **Teach people** that it's polite, not rude, to ask "can I help you find someone?"
 
-## How do you know it worked?
+> [!success] How do you know it worked?
+> You have a current list of every key, code and badge holder, a visitor log, and a locked home for the network gear.
 
-You have a current list of every key, code and badge holder, a visitor log, and a locked home for the network gear.
-
-## Attacker's-eye view
-
-Physical access enables attacks that are hard to stop remotely: plugging in rogue hardware (MITRE ATT&CK T1200, Hardware Additions) or infected USB drives (T1091, Replication Through Removable Media). Social engineers count on politeness to get through the door.
+> [!danger] Attacker's-eye view
+> Physical access enables attacks that are hard to stop remotely: plugging in rogue hardware (MITRE ATT&CK T1200, Hardware Additions) or infected USB drives (T1091, Replication Through Removable Media). Social engineers count on politeness to get through the door.
 
 ## Go further
 

@@ -10,7 +10,7 @@ If your child came to you, **thank them.** That was brave, and it's the most imp
 
 ## If someone is threatening to share images (sextortion)
 
-1. **Don't pay and don't send anything more.** Paying almost never ends it; it usually leads to more demands.
+1. **Don't pay and don't send anything more.** Paying almost never ends it. It usually leads to more demands.
 2. **Stop responding,** but **don't delete** the account or messages yet. Take screenshots of the profile, usernames, messages and any payment requests.
 3. **Report:**
    - **NCMEC CyberTipline:** report.cybertip.org or 1-800-843-5678

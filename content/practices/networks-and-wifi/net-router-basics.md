@@ -28,11 +28,10 @@ sources:
 
 Your router is the front door between your home or office and the whole internet. Everything you do passes through it. Yet most people set it up once, when the installer left, and never look at it again.
 
-## Ask yourself
-
-- Do you know how to log into your router? Is the admin password still the one on the sticker?
-- Who has your Wi-Fi password? The neighbors from three years ago? Every guest who ever visited?
-- When did the router last get a firmware update?
+> [!question] Ask yourself
+> - Do you know how to log into your router? Is the admin password still the one on the sticker?
+> - Who has your Wi-Fi password? The neighbors from three years ago? Every guest who ever visited?
+> - When did the router last get a firmware update?
 
 ## Do it
 
@@ -46,13 +45,11 @@ Your router is the front door between your home or office and the whole internet
 8. **Set up a guest network** for visitors and smart devices. See [Give guests and gadgets their own Wi-Fi](net-guest-network.md).
 9. If your ISP rents you the router, check that it's still getting updates, or ask for a newer one.
 
-## How do you know it worked?
+> [!success] How do you know it worked?
+> You can log into the router with a password from your password manager. It shows WPA3 or WPA2, the latest firmware, auto-update on, and WPS and remote admin off.
 
-You can log into the router with a password from your password manager. It shows WPA3 or WPA2, the latest firmware, auto-update on, and WPS and remote admin off.
-
-## Attacker's-eye view
-
-Routers with default passwords or old firmware get hijacked by botnets (MITRE ATT&CK T1078.001 and T1190). A hijacked router can quietly redirect your traffic to fake sites (T1557, Adversary-in-the-Middle). Ten minutes of setup prevents a problem you'd probably never notice.
+> [!danger] Attacker's-eye view
+> Routers with default passwords or old firmware get hijacked by botnets (MITRE ATT&CK T1078.001 and T1190). A hijacked router can quietly redirect your traffic to fake sites (T1557, Adversary-in-the-Middle). Ten minutes of setup prevents a problem you'd probably never notice.
 
 ## Go further
 

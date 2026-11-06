@@ -26,11 +26,10 @@ sources:
 
 What you share online adds up. A birthday post, a check-in at your kid's school, a photo of a new car in front of your house, the answers to "what was your first pet's name?" quizzes. Together they become a profile that makes scams, account recovery attacks and even physical stalking easier. Most of it is shared by default settings, not by choice.
 
-## Ask yourself
-
-- Search your own name, then your name plus your city. What comes up?
-- Which apps on your phone can see your location *all the time*? Do they need to?
-- Could a stranger work out your home address, your daily routine or your kid's school from your public posts?
+> [!question] Ask yourself
+> - Search your own name, then your name plus your city. What comes up?
+> - Which apps on your phone can see your location *all the time*? Do they need to?
+> - Could a stranger work out your home address, your daily routine or your kid's school from your public posts?
 
 ## Do it
 
@@ -42,13 +41,11 @@ What you share online adds up. A birthday post, a check-in at your kid's school,
 6. **Security questions:** don't answer them truthfully. Make up answers and store them in your password manager.
 7. **Kids' accounts:** use the platform's teen settings and family pairing, and go through it *with* them. See [Have the family tech talk, and keep having it](../people-and-culture/ppl-family-tech-talk.md).
 
-## How do you know it worked?
+> [!success] How do you know it worked?
+> A logged-out search of your name shows only what you're comfortable with, and no app has "Always" location without a good reason.
 
-A logged-out search of your name shows only what you're comfortable with, and no app has "Always" location without a good reason.
-
-## Attacker's-eye view
-
-Before targeting someone, attackers research them on public sites and social media (MITRE ATT&CK T1593, Search Open Websites/Domains, and T1589, Gather Victim Identity Information). Less public detail means less convincing scams.
+> [!danger] Attacker's-eye view
+> Before targeting someone, attackers research them on public sites and social media (MITRE ATT&CK T1593, Search Open Websites/Domains, and T1589, Gather Victim Identity Information). Less public detail means less convincing scams.
 
 ## Go further
 
