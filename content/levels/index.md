@@ -19,7 +19,7 @@ Every practice card has a level. Every Space has a path that climbs through them
 > - If your laptop died tomorrow, what would you lose forever?
 > - If someone in your office got a convincing fake invoice, who would they ask before paying it?
 
-If you hesitated on any of those, the Spark cards in your Space are where to start.
+If you hesitated on any of those, the Spark cards in your Space are where to start. The [readiness check](../check/index.md) finds your level in five minutes, and the [maturity grid](grid.md) lays out every practice by area and level.
 
 ## Lining up with frameworks
 

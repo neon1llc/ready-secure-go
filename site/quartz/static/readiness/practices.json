@@ -1,0 +1,750 @@
+{
+  "lights": {
+    "accounts-and-identity": "Accounts & Identity",
+    "data-and-backups": "Data & Backups",
+    "devices-and-updates": "Devices & Updates",
+    "govern-and-build": "Govern & Build",
+    "networks-and-wifi": "Networks & Wi-Fi",
+    "people-and-culture": "People & Culture",
+    "physical-and-travel": "Physical & Travel",
+    "privacy-and-footprint": "Privacy & Footprint",
+    "respond-and-recover": "Respond & Recover",
+    "scams-and-social-engineering": "Scams & Social Engineering"
+  },
+  "spaces": {
+    "builders": "Builders",
+    "classroom-and-school": "Classroom & School",
+    "growing-organization": "Growing Organization",
+    "home-and-family": "Home & Family",
+    "home-office": "Home Office",
+    "me": "Me",
+    "nonprofit-and-community": "Nonprofit & Community",
+    "public-and-on-the-go": "Public & On the Go",
+    "seniors-and-caregivers": "Seniors & Caregivers",
+    "small-business": "Small Business"
+  },
+  "practices": [
+    {
+      "id": "scam-family-code-word",
+      "title": "Agree on a family code word for emergencies",
+      "summary": "A secret word only your family knows beats a voice clone. Use it whenever an \"emergency\" call asks for money.",
+      "level": 1,
+      "lights": [
+        "scams-and-social-engineering"
+      ],
+      "spaces": [
+        "home-and-family",
+        "seniors-and-caregivers",
+        "small-business"
+      ],
+      "time": "10 min at dinner",
+      "path": "practices/scams-and-social-engineering/scam-family-code-word"
+    },
+    {
+      "id": "data-3-2-1-backup",
+      "title": "Back up what you can't lose, the 3-2-1 way",
+      "summary": "Three copies, on two kinds of storage, with one kept somewhere else, and at least one that ransomware can't reach.",
+      "level": 1,
+      "lights": [
+        "data-and-backups",
+        "respond-and-recover"
+      ],
+      "spaces": [
+        "me",
+        "home-and-family",
+        "seniors-and-caregivers",
+        "classroom-and-school",
+        "home-office",
+        "small-business",
+        "nonprofit-and-community",
+        "growing-organization"
+      ],
+      "time": "1 hour to set up, then automatic",
+      "path": "practices/data-and-backups/data-3-2-1-backup"
+    },
+    {
+      "id": "acct-breach-check",
+      "title": "Find out what's already leaked about you",
+      "summary": "Check your email addresses against known breaches, then change any reused passwords that showed up.",
+      "level": 1,
+      "lights": [
+        "accounts-and-identity",
+        "privacy-and-footprint"
+      ],
+      "spaces": [
+        "me",
+        "home-and-family",
+        "seniors-and-caregivers",
+        "home-office",
+        "small-business"
+      ],
+      "time": "15 min",
+      "path": "practices/accounts-and-identity/acct-breach-check"
+    },
+    {
+      "id": "priv-credit-freeze",
+      "title": "Freeze your credit (and your kids' credit)",
+      "summary": "A free credit freeze at all three bureaus stops anyone, including you, from opening new credit in your name until you lift it.",
+      "level": 1,
+      "lights": [
+        "privacy-and-footprint",
+        "accounts-and-identity"
+      ],
+      "spaces": [
+        "me",
+        "home-and-family",
+        "seniors-and-caregivers"
+      ],
+      "time": "30 min for all three bureaus",
+      "path": "practices/privacy-and-footprint/priv-credit-freeze"
+    },
+    {
+      "id": "ppl-family-tech-talk",
+      "title": "Have the family tech talk, and keep having it",
+      "summary": "Agree as a family on devices, apps, sharing and what to do when something online feels wrong, with the door always open.",
+      "level": 1,
+      "lights": [
+        "people-and-culture",
+        "scams-and-social-engineering"
+      ],
+      "spaces": [
+        "home-and-family",
+        "classroom-and-school",
+        "seniors-and-caregivers"
+      ],
+      "time": "30 min to start, then ongoing",
+      "path": "practices/people-and-culture/ppl-family-tech-talk"
+    },
+    {
+      "id": "build-secrets-out-of-code",
+      "title": "Keep secrets out of code and chat",
+      "summary": "Passwords, API keys and tokens belong in a secrets manager, never in source code, config files, tickets or chat. Scan to catch slips.",
+      "level": 1,
+      "lights": [
+        "govern-and-build"
+      ],
+      "spaces": [
+        "builders",
+        "growing-organization"
+      ],
+      "time": "1 hour to set up scanning",
+      "path": "practices/govern-and-build/build-secrets-out-of-code"
+    },
+    {
+      "id": "scam-pause-and-verify",
+      "title": "Learn the scam reflex, pause and verify",
+      "summary": "Almost every scam pushes urgency, secrecy or an unusual payment. When you feel that pressure, stop and check through a channel you already trust.",
+      "level": 1,
+      "lights": [
+        "scams-and-social-engineering",
+        "people-and-culture"
+      ],
+      "spaces": [
+        "me",
+        "home-and-family",
+        "seniors-and-caregivers",
+        "classroom-and-school",
+        "home-office",
+        "small-business",
+        "nonprofit-and-community",
+        "growing-organization",
+        "public-and-on-the-go"
+      ],
+      "time": "10 min to learn, a lifetime to practice",
+      "path": "practices/scams-and-social-engineering/scam-pause-and-verify"
+    },
+    {
+      "id": "acct-password-manager",
+      "title": "Let a password manager remember for you",
+      "summary": "One strong password you memorize, and a different random one for every account, kept by an app that fills them in for you.",
+      "level": 1,
+      "lights": [
+        "accounts-and-identity"
+      ],
+      "spaces": [
+        "me",
+        "home-and-family",
+        "seniors-and-caregivers",
+        "classroom-and-school",
+        "home-office",
+        "small-business",
+        "nonprofit-and-community",
+        "growing-organization"
+      ],
+      "time": "30 min to set up, then a few minutes a week as you log in",
+      "path": "practices/accounts-and-identity/acct-password-manager"
+    },
+    {
+      "id": "dev-screen-lock-and-encryption",
+      "title": "Lock your screens and encrypt your devices",
+      "summary": "A passcode plus full-disk encryption turns a lost or stolen device from a data breach into just a lost device.",
+      "level": 1,
+      "lights": [
+        "devices-and-updates",
+        "data-and-backups"
+      ],
+      "spaces": [
+        "me",
+        "home-and-family",
+        "seniors-and-caregivers",
+        "classroom-and-school",
+        "home-office",
+        "small-business",
+        "nonprofit-and-community",
+        "growing-organization",
+        "public-and-on-the-go"
+      ],
+      "time": "15 min per device (encryption runs in the background)",
+      "path": "practices/devices-and-updates/dev-screen-lock-and-encryption"
+    },
+    {
+      "id": "scam-report-phishing",
+      "title": "Make reporting a phish easy, quick and blame-free",
+      "summary": "Give people one simple way to report suspicious messages, thank them every time, and act on what they send.",
+      "level": 1,
+      "lights": [
+        "scams-and-social-engineering",
+        "people-and-culture"
+      ],
+      "spaces": [
+        "classroom-and-school",
+        "small-business",
+        "nonprofit-and-community",
+        "growing-organization"
+      ],
+      "time": "1 hour to set up",
+      "path": "practices/scams-and-social-engineering/scam-report-phishing"
+    },
+    {
+      "id": "acct-recovery-check",
+      "title": "Make sure you can get back into your own accounts",
+      "summary": "Update recovery emails and phone numbers, save backup codes, and remove old ones an ex, a former employee or a stranger could use.",
+      "level": 1,
+      "lights": [
+        "accounts-and-identity"
+      ],
+      "spaces": [
+        "me",
+        "home-and-family",
+        "seniors-and-caregivers",
+        "home-office",
+        "small-business",
+        "nonprofit-and-community"
+      ],
+      "time": "20 min",
+      "path": "practices/accounts-and-identity/acct-recovery-check"
+    },
+    {
+      "id": "scam-payment-change-verification",
+      "title": "Never change payment details on the strength of an email",
+      "summary": "Any request to change bank details, pay a new invoice urgently or buy gift cards gets verified by calling a known number, every time.",
+      "level": 1,
+      "lights": [
+        "scams-and-social-engineering",
+        "govern-and-build"
+      ],
+      "spaces": [
+        "home-office",
+        "small-business",
+        "nonprofit-and-community",
+        "growing-organization",
+        "classroom-and-school"
+      ],
+      "time": "30 min to write the rule, seconds to follow it",
+      "path": "practices/scams-and-social-engineering/scam-payment-change-verification"
+    },
+    {
+      "id": "dev-find-and-wipe",
+      "title": "Set up find-my-device and remote wipe before you need it",
+      "summary": "Turn on location and remote erase now, so a lost phone or laptop can be found, locked or wiped from any browser.",
+      "level": 1,
+      "lights": [
+        "devices-and-updates",
+        "respond-and-recover"
+      ],
+      "spaces": [
+        "me",
+        "home-and-family",
+        "seniors-and-caregivers",
+        "home-office",
+        "small-business",
+        "public-and-on-the-go"
+      ],
+      "time": "10 min",
+      "path": "practices/devices-and-updates/dev-find-and-wipe"
+    },
+    {
+      "id": "net-router-basics",
+      "title": "Set up your router like you mean it",
+      "summary": "New admin password, strong Wi-Fi encryption, current firmware, and the risky convenience features turned off.",
+      "level": 1,
+      "lights": [
+        "networks-and-wifi",
+        "devices-and-updates"
+      ],
+      "spaces": [
+        "home-and-family",
+        "seniors-and-caregivers",
+        "home-office",
+        "small-business",
+        "nonprofit-and-community"
+      ],
+      "time": "45 min",
+      "path": "practices/networks-and-wifi/net-router-basics"
+    },
+    {
+      "id": "dev-auto-updates",
+      "title": "Turn on automatic updates, everywhere",
+      "summary": "Let phones, computers, browsers, apps and routers fix their own security holes without waiting for you.",
+      "level": 1,
+      "lights": [
+        "devices-and-updates"
+      ],
+      "spaces": [
+        "me",
+        "home-and-family",
+        "seniors-and-caregivers",
+        "classroom-and-school",
+        "home-office",
+        "small-business",
+        "nonprofit-and-community",
+        "growing-organization"
+      ],
+      "time": "20 min",
+      "path": "practices/devices-and-updates/dev-auto-updates"
+    },
+    {
+      "id": "acct-two-step-login",
+      "title": "Turn on two-step login, starting with your email",
+      "summary": "Add a second proof, like an app code, a security key or a passkey, so a stolen password alone isn't enough.",
+      "level": 1,
+      "lights": [
+        "accounts-and-identity"
+      ],
+      "spaces": [
+        "me",
+        "home-and-family",
+        "seniors-and-caregivers",
+        "classroom-and-school",
+        "home-office",
+        "small-business",
+        "nonprofit-and-community",
+        "growing-organization",
+        "public-and-on-the-go",
+        "builders"
+      ],
+      "time": "5 to 10 min per account",
+      "path": "practices/accounts-and-identity/acct-two-step-login"
+    },
+    {
+      "id": "net-public-wifi",
+      "title": "Use public Wi-Fi without worrying about it",
+      "summary": "Modern encryption makes most public Wi-Fi fine for everyday browsing. Know the few real risks, and when to use your phone's hotspot.",
+      "level": 1,
+      "lights": [
+        "networks-and-wifi",
+        "physical-and-travel"
+      ],
+      "spaces": [
+        "me",
+        "public-and-on-the-go",
+        "home-office",
+        "seniors-and-caregivers"
+      ],
+      "time": "5 min to learn",
+      "path": "practices/networks-and-wifi/net-public-wifi"
+    },
+    {
+      "id": "resp-incident-contact-sheet",
+      "title": "Write your \"if something goes wrong\" sheet, on paper",
+      "summary": "One page with who to call, how to reach them without your computer, and the first three things to do.",
+      "level": 1,
+      "lights": [
+        "respond-and-recover"
+      ],
+      "spaces": [
+        "me",
+        "home-and-family",
+        "seniors-and-caregivers",
+        "home-office",
+        "small-business",
+        "nonprofit-and-community",
+        "growing-organization",
+        "classroom-and-school"
+      ],
+      "time": "30 min",
+      "path": "practices/respond-and-recover/resp-incident-contact-sheet"
+    },
+    {
+      "id": "gov-vendor-review",
+      "title": "Ask your vendors the five questions that matter",
+      "summary": "Before you hand a vendor your data or system access, ask a few plain questions, and keep the answers.",
+      "level": 2,
+      "lights": [
+        "govern-and-build"
+      ],
+      "spaces": [
+        "small-business",
+        "nonprofit-and-community",
+        "growing-organization",
+        "classroom-and-school"
+      ],
+      "time": "15 min per vendor",
+      "path": "practices/govern-and-build/gov-vendor-review"
+    },
+    {
+      "id": "build-owasp-top10-habits",
+      "title": "Build the OWASP Top 10 habits into how you ship",
+      "summary": "Turn the most common web app risks into everyday habits, with checks in code review and CI instead of a once-a-year scramble.",
+      "level": 2,
+      "lights": [
+        "govern-and-build"
+      ],
+      "spaces": [
+        "builders",
+        "growing-organization"
+      ],
+      "time": "ongoing",
+      "path": "practices/govern-and-build/build-owasp-top10-habits"
+    },
+    {
+      "id": "net-business-remote-access",
+      "title": "Close the doors you left open to the internet",
+      "summary": "Find what your office exposes to the internet, put remote access behind MFA, and never expose remote desktop or camera recorders directly.",
+      "level": 2,
+      "lights": [
+        "networks-and-wifi",
+        "govern-and-build"
+      ],
+      "spaces": [
+        "small-business",
+        "nonprofit-and-community",
+        "growing-organization",
+        "builders"
+      ],
+      "time": "2 hours",
+      "path": "practices/networks-and-wifi/net-business-remote-access"
+    },
+    {
+      "id": "phys-office-access",
+      "title": "Control who can walk into your space",
+      "summary": "Know who holds keys, badges and codes, log visitors, and lock up network gear and paper records.",
+      "level": 2,
+      "lights": [
+        "physical-and-travel"
+      ],
+      "spaces": [
+        "small-business",
+        "nonprofit-and-community",
+        "growing-organization",
+        "classroom-and-school",
+        "home-office"
+      ],
+      "time": "half a day to assess",
+      "path": "practices/physical-and-travel/phys-office-access"
+    },
+    {
+      "id": "priv-account-privacy-review",
+      "title": "Do a privacy checkup on your big accounts and phone",
+      "summary": "Walk through the privacy settings on your phone, Google, Apple, Facebook, Instagram, TikTok and similar, and turn off what you didn't mean to share.",
+      "level": 2,
+      "lights": [
+        "privacy-and-footprint"
+      ],
+      "spaces": [
+        "me",
+        "home-and-family",
+        "seniors-and-caregivers",
+        "classroom-and-school",
+        "public-and-on-the-go"
+      ],
+      "time": "1 hour, once or twice a year",
+      "path": "practices/privacy-and-footprint/priv-account-privacy-review"
+    },
+    {
+      "id": "priv-data-broker-opt-out",
+      "title": "Get yourself off data broker sites",
+      "summary": "People-search sites sell your address, phone, relatives and age to anyone. Opt out of the biggest ones, or use a service to do it for you.",
+      "level": 2,
+      "lights": [
+        "privacy-and-footprint"
+      ],
+      "spaces": [
+        "me",
+        "home-and-family",
+        "seniors-and-caregivers",
+        "classroom-and-school"
+      ],
+      "time": "2 to 4 hours by hand, or a paid service",
+      "path": "practices/privacy-and-footprint/priv-data-broker-opt-out"
+    },
+    {
+      "id": "ppl-onboarding-offboarding",
+      "title": "Give access on day one and take it all back on the last day",
+      "summary": "Use a short checklist so new people get only the access they need, and people who leave lose all of it the day they go.",
+      "level": 2,
+      "lights": [
+        "people-and-culture",
+        "accounts-and-identity",
+        "govern-and-build"
+      ],
+      "spaces": [
+        "small-business",
+        "nonprofit-and-community",
+        "growing-organization",
+        "classroom-and-school"
+      ],
+      "time": "1 hour to write, 15 min each time",
+      "path": "practices/people-and-culture/ppl-onboarding-offboarding"
+    },
+    {
+      "id": "net-guest-network",
+      "title": "Give guests and gadgets their own Wi-Fi",
+      "summary": "A separate network for visitors and smart devices keeps them away from your computers and files.",
+      "level": 2,
+      "lights": [
+        "networks-and-wifi"
+      ],
+      "spaces": [
+        "home-and-family",
+        "home-office",
+        "small-business",
+        "nonprofit-and-community",
+        "classroom-and-school"
+      ],
+      "time": "20 min",
+      "path": "practices/networks-and-wifi/net-guest-network"
+    },
+    {
+      "id": "acct-admin-separation",
+      "title": "Keep admin power out of everyday accounts",
+      "summary": "Use a regular account for daily work and a separate, well-protected account only when you need to install, configure or manage.",
+      "level": 2,
+      "lights": [
+        "accounts-and-identity",
+        "govern-and-build"
+      ],
+      "spaces": [
+        "home-office",
+        "small-business",
+        "nonprofit-and-community",
+        "growing-organization",
+        "builders"
+      ],
+      "time": "1 hour for a small office",
+      "path": "practices/accounts-and-identity/acct-admin-separation"
+    },
+    {
+      "id": "gov-inventory",
+      "title": "Know what you have",
+      "summary": "Keep a simple list of your devices, software, cloud accounts and vendors, with an owner for each. You can't protect what you don't know about.",
+      "level": 2,
+      "lights": [
+        "govern-and-build",
+        "devices-and-updates"
+      ],
+      "spaces": [
+        "home-office",
+        "small-business",
+        "nonprofit-and-community",
+        "growing-organization",
+        "classroom-and-school",
+        "builders"
+      ],
+      "time": "half a day to start, 15 min a month to keep current",
+      "path": "practices/govern-and-build/gov-inventory"
+    },
+    {
+      "id": "gov-cloud-account-basics",
+      "title": "Lock down the root of your cloud account",
+      "summary": "Protect the AWS root user (or equivalent) with MFA and never use it, give people their own access, turn on logging and set billing alerts.",
+      "level": 2,
+      "lights": [
+        "govern-and-build",
+        "accounts-and-identity"
+      ],
+      "spaces": [
+        "builders",
+        "growing-organization",
+        "small-business"
+      ],
+      "time": "1 to 2 hours",
+      "path": "practices/govern-and-build/gov-cloud-account-basics"
+    },
+    {
+      "id": "dev-retire-old-devices",
+      "title": "Retire devices that can't get updates, and wipe them first",
+      "summary": "Replace hardware that no longer gets security updates, and properly erase anything you sell, donate or recycle.",
+      "level": 2,
+      "lights": [
+        "devices-and-updates",
+        "data-and-backups"
+      ],
+      "spaces": [
+        "me",
+        "home-and-family",
+        "seniors-and-caregivers",
+        "classroom-and-school",
+        "small-business",
+        "nonprofit-and-community",
+        "growing-organization"
+      ],
+      "time": "30 min per device",
+      "path": "practices/devices-and-updates/dev-retire-old-devices"
+    },
+    {
+      "id": "ppl-security-awareness-that-works",
+      "title": "Run security awareness people actually remember",
+      "summary": "Short, real, frequent and friendly beats one annual video. Teach the why, practice the reflexes, and celebrate reporting.",
+      "level": 2,
+      "lights": [
+        "people-and-culture"
+      ],
+      "spaces": [
+        "classroom-and-school",
+        "small-business",
+        "nonprofit-and-community",
+        "growing-organization"
+      ],
+      "time": "15 min a month",
+      "path": "practices/people-and-culture/ppl-security-awareness-that-works"
+    },
+    {
+      "id": "dev-iot-and-cameras",
+      "title": "Secure your cameras and smart devices",
+      "summary": "Change default passwords, update firmware, turn off what you don't use, and keep cameras and smart gadgets on their own network.",
+      "level": 2,
+      "lights": [
+        "devices-and-updates",
+        "networks-and-wifi",
+        "physical-and-travel"
+      ],
+      "spaces": [
+        "home-and-family",
+        "seniors-and-caregivers",
+        "home-office",
+        "small-business",
+        "nonprofit-and-community",
+        "growing-organization"
+      ],
+      "time": "1 to 2 hours",
+      "path": "practices/devices-and-updates/dev-iot-and-cameras"
+    },
+    {
+      "id": "data-share-safely",
+      "title": "Share files on purpose, not \"anyone with the link\"",
+      "summary": "Check who can see your shared files and folders, tighten links, and set expirations for sensitive ones.",
+      "level": 2,
+      "lights": [
+        "data-and-backups",
+        "privacy-and-footprint"
+      ],
+      "spaces": [
+        "me",
+        "classroom-and-school",
+        "home-office",
+        "small-business",
+        "nonprofit-and-community",
+        "growing-organization"
+      ],
+      "time": "30 min",
+      "path": "practices/data-and-backups/data-share-safely"
+    },
+    {
+      "id": "acct-passkeys",
+      "title": "Switch important accounts to passkeys",
+      "summary": "Passkeys replace passwords with a key your device holds. Nothing to remember, and nothing a fake website can steal.",
+      "level": 2,
+      "lights": [
+        "accounts-and-identity"
+      ],
+      "spaces": [
+        "me",
+        "home-and-family",
+        "home-office",
+        "small-business",
+        "growing-organization",
+        "builders"
+      ],
+      "time": "5 min per account",
+      "path": "practices/accounts-and-identity/acct-passkeys"
+    },
+    {
+      "id": "phys-travel-kit",
+      "title": "Travel light, travel locked",
+      "summary": "Before a trip, back up, update and lock down your devices, take only what you need, and plan for loss.",
+      "level": 2,
+      "lights": [
+        "physical-and-travel",
+        "networks-and-wifi"
+      ],
+      "spaces": [
+        "me",
+        "public-and-on-the-go",
+        "home-office",
+        "small-business",
+        "growing-organization"
+      ],
+      "time": "30 min before a trip",
+      "path": "practices/physical-and-travel/phys-travel-kit"
+    },
+    {
+      "id": "priv-dark-web-reality",
+      "title": "Understand what's on the dark web about you, and what to do about it",
+      "summary": "The \"dark web\" is mostly marketplaces trading stolen logins, card numbers and personal data. Monitoring tells you what leaked. Action is what protects you.",
+      "level": 2,
+      "lights": [
+        "privacy-and-footprint",
+        "accounts-and-identity"
+      ],
+      "spaces": [
+        "me",
+        "home-and-family",
+        "seniors-and-caregivers",
+        "small-business",
+        "growing-organization"
+      ],
+      "time": "30 min to understand and act",
+      "path": "practices/privacy-and-footprint/priv-dark-web-reality"
+    },
+    {
+      "id": "resp-tabletop-exercise",
+      "title": "Practice a bad day with a tabletop exercise",
+      "summary": "Walk your team (or family) through a realistic scenario around a table and find the gaps before a real incident does.",
+      "level": 3,
+      "lights": [
+        "respond-and-recover",
+        "people-and-culture"
+      ],
+      "spaces": [
+        "home-and-family",
+        "small-business",
+        "nonprofit-and-community",
+        "growing-organization",
+        "classroom-and-school"
+      ],
+      "time": "60 to 90 min",
+      "path": "practices/respond-and-recover/resp-tabletop-exercise"
+    },
+    {
+      "id": "data-test-a-restore",
+      "title": "Prove your backup works by restoring from it",
+      "summary": "A backup you've never restored is a guess. Pick a file or a machine and bring it back on purpose.",
+      "level": 3,
+      "lights": [
+        "data-and-backups",
+        "respond-and-recover"
+      ],
+      "spaces": [
+        "me",
+        "home-office",
+        "small-business",
+        "nonprofit-and-community",
+        "growing-organization",
+        "builders"
+      ],
+      "time": "30 min (a file) to half a day (a whole system)",
+      "path": "practices/data-and-backups/data-test-a-restore"
+    }
+  ]
+}
