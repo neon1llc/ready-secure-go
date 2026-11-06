@@ -60,4 +60,4 @@ Teaching? [`content/teach/`](content/teach/index.md) has workshop kits for paren
 - **The neon1 name and logo** aren't covered by either license. See [TRADEMARK.md](TRADEMARK.md).
 - Material adapted from others is credited on each page and in [ATTRIBUTIONS.md](ATTRIBUTIONS.md).
 
-Found something wrong or outdated? See [SECURITY.md](SECURITY.md). Want to help? See [CONTRIBUTING.md](CONTRIBUTING.md).
+Found something wrong or outdated? See [SECURITY.md](SECURITY.md). Want to help? See [CONTRIBUTING.md](CONTRIBUTING.md) and [VCS-ETIQUETTE.md](VCS-ETIQUETTE.md).
