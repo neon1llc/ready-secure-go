@@ -1,0 +1,92 @@
+// site/quartz/components/styles/atAGlance.scss - Styles the summary box shown above practice cards and documents.
+
+@use "../../styles/variables.scss" as *;
+
+
+// Box frame, tinted with the page highlight color
+.at-a-glance {
+  margin: 0.5rem 0 1.75rem;
+  padding: 1rem 1.25rem;
+  border-left: 4px solid var(--secondary);
+  border-radius: 10px;
+  background: var(--highlight);
+
+  p {
+    margin: 0.4rem 0;
+  }
+
+  span {
+    font-family: var(--codeFont);
+    font-size: 0.75rem;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: var(--gray);
+    margin-right: 0.35rem;
+  }
+}
+
+
+// One-sentence summary leads the box
+.glance-summary {
+  font-size: 1.1rem;
+  font-weight: 500;
+  color: var(--dark);
+}
+
+
+// Level, time and cost as a wrapping row of facts
+.glance-facts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1.5rem;
+  list-style: none;
+  padding: 0;
+  margin: 0.6rem 0;
+
+  li {
+    margin: 0;
+  }
+}
+
+
+// Level brightens with the number
+.glance-level {
+  font-weight: 600;
+
+  &.level-1 { color: var(--tertiary); }
+  &.level-2,
+  &.level-3,
+  &.level-4 {
+    color: var(--secondary);
+    text-shadow: 0 0 10px var(--textHighlight);
+  }
+}
+
+
+// Space links as small pills
+.glance-spaces {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.glance-chip {
+  font-size: 0.85rem;
+  padding: 0.1rem 0.6rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 99px;
+  background: var(--light) !important;
+}
+
+
+// Download link styled as a button
+.glance-download a {
+  display: inline-block;
+  font-family: var(--codeFont);
+  font-size: 0.85rem;
+  padding: 0.35rem 0.9rem;
+  border: 1px solid var(--secondary);
+  border-radius: 8px;
+  background: transparent !important;
+}

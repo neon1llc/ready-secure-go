@@ -1,3 +1,108 @@
-@use "./base.scss";
+// site/quartz/styles/custom.scss - neon1 reading styles: steps, callouts, tables and comfortable line length.
 
-// put your custom CSS here!
+@use "./base.scss";
+@use "./variables.scss" as *;
+
+
+// Shorter lines read faster
+article {
+  max-width: 44rem;
+
+  p,
+  li {
+    line-height: 1.7;
+  }
+
+  h2 {
+    margin-top: 2.25rem;
+    padding-bottom: 0.3rem;
+    border-bottom: 1px solid var(--lightgray);
+  }
+}
+
+
+// Numbered steps become separated blocks with a bold lead on its own line
+article > ol > li {
+  margin: 0 0 0.9rem;
+  padding: 0.6rem 0.9rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 10px;
+
+  &::marker {
+    font-family: var(--codeFont);
+    font-weight: 700;
+    color: var(--secondary);
+  }
+
+  & > strong:first-child,
+  & > p:first-child > strong:first-child {
+    color: var(--dark);
+    font-weight: 650;
+  }
+}
+
+
+// Callouts in brand colors
+.callout {
+  border-radius: 10px;
+
+  &[data-callout="question"] {
+    --color: var(--secondary);
+    --border: var(--secondary);
+    --bg: var(--highlight);
+  }
+
+  &[data-callout="success"] {
+    --color: var(--tertiary);
+    --border: var(--tertiary);
+    --bg: var(--highlight);
+  }
+
+  &[data-callout="danger"] {
+    --color: #e0565b;
+    --border: #e0565b33;
+    --bg: #e0565b10;
+  }
+}
+
+
+// Tables get room to breathe and zebra rows
+article table {
+  width: 100%;
+  border-collapse: collapse;
+
+  th {
+    text-align: left;
+    font-family: var(--codeFont);
+    font-size: 0.85rem;
+  }
+
+  td,
+  th {
+    padding: 0.5rem 0.75rem;
+    border-bottom: 1px solid var(--lightgray);
+    vertical-align: top;
+  }
+
+  tr:nth-child(even) td {
+    background: var(--highlight);
+  }
+}
+
+
+// Print: drop navigation and keep content together
+@media print {
+  .left,
+  .right,
+  header,
+  footer,
+  .page-header .breadcrumb-container {
+    display: none !important;
+  }
+
+  article > ol > li,
+  .callout,
+  .at-a-glance {
+    break-inside: avoid;
+  }
+}
