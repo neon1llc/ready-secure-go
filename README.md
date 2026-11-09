@@ -66,9 +66,13 @@ Teaching? [`content/teach/`](content/teach/index.md) has workshop kits for paren
 
 ## Licenses
 
-- **Content** (everything in `content/`): [CC BY-SA 4.0](LICENSE). Share it, teach from it, adapt it. Credit Ready, Secure, Go with a link, and share your changes under the same license.
-- **Code** (`site/`, `tools/`, `documents/`): [MIT](LICENSE-CODE). The bundled Inter and JetBrains Mono fonts are under the SIL Open Font License.
-- **The neon1 name and logo** aren't covered by either license. See [TRADEMARK.md](TRADEMARK.md).
-- Material adapted from others is credited on each page and in [ATTRIBUTIONS.md](ATTRIBUTIONS.md).
+| What | License | What it means |
+|---|---|---|
+| Content (everything in `content/`) | [CC BY-SA 4.0](LICENSE) | Share it, teach from it, adapt it, even commercially. Credit it as *"Based on Ready, Secure, Go by neon1 (neon1.tech), CC BY-SA 4.0"* and share your changes under the same license. |
+| Code (`site/`, `tools/`, `documents/`) | [MIT](LICENSE-CODE) | Use it for anything, keeping the copyright notice. The bundled Inter and JetBrains Mono fonts are under the SIL Open Font License. |
+| The Ready, Secure, Go and neon1 names and the neon1 logo | Reserved | Not covered by either license. See [TRADEMARK.md](TRADEMARK.md). |
+| Material adapted from others | Its own license | Credited on each page and in [ATTRIBUTIONS.md](ATTRIBUTIONS.md). |
+
+Ready, Secure, Go is © 2026 neon1 LLC. Keep the [NOTICE](NOTICE) file in copies and adaptations.
 
 Found something wrong or outdated? See [SECURITY.md](SECURITY.md). Want to help? See [CONTRIBUTING.md](CONTRIBUTING.md) and [VCS-ETIQUETTE.md](VCS-ETIQUETTE.md).

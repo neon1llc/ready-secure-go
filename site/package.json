@@ -5,7 +5,7 @@
   "version": "4.5.2",
   "type": "module",
   "author": "neon1 LLC",
-  "license": "MIT",
+  "license": "(CC-BY-SA-4.0 AND MIT)",
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
     "docs": "npx quartz build --serve -d docs",
