@@ -2,18 +2,18 @@ import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
 /**
- * neon1 ready site configuration (built on Quartz 4.5.2, MIT; see LICENSE-QUARTZ.txt).
+ * Ready, Secure, Go site configuration (built on Quartz 4.5.2, MIT; see LICENSE-QUARTZ.txt).
  * Content lives in ../content and is built with: npm run build
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "neon1 ready",
+    pageTitle: "Ready, Secure, Go",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    baseUrl: "neon1llc.github.io/neon1-ready",
+    baseUrl: "neon1llc.github.io/ready-secure-go",
     ignorePatterns: ["private", "templates", ".obsidian", "_templates"],
     defaultDateType: "modified",
     theme: {

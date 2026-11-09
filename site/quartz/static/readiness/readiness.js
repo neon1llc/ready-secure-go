@@ -21,7 +21,7 @@ const VERDICTS = [
   "You're at Neon. Now the best move is helping someone else get to Spark.",
 ]
 
-const STORE_KEY = "neon1-ready-check"
+const STORE_KEY = "ready-secure-go-check"
 
 const $ = (id) => document.getElementById(id)
 let data = null

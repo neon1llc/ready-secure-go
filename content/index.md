@@ -1,5 +1,5 @@
 ---
-title: neon1 ready
+title: Ready, Secure, Go
 ---
 
 **Security readiness for every space.**
