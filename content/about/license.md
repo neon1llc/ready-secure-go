@@ -7,7 +7,7 @@ I want this to travel. Print it, teach from it, translate it, put it on your sch
 ## The short version
 
 - **Words and checklists** are [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). You can share and adapt them, even commercially, as long as you:
-  1. **Credit it**, for example: *"From neon1 ready by neon1 (neon1.tech), CC BY-SA 4.0."* Add *"adapted"* if you changed it.
+  1. **Credit it**, for example: *"From Ready, Secure, Go by neon1 (neon1.tech), CC BY-SA 4.0."* Add *"adapted"* if you changed it.
   2. **Share alike.** If you publish a changed version, use the same license.
 - **Code** (the site and tools) is MIT.
 - **The neon1 name and logo** aren't part of either license. You can hand out unmodified pages as they are. If you change the material, drop the logo and say it's adapted. Details are in `TRADEMARK.md` in the repository.

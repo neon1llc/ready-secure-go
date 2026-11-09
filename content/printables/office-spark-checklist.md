@@ -21,4 +21,4 @@ tags: [printable, checklist]
 
 ---
 
-*neon1 ready · neon1.tech · CC BY-SA 4.0*
+*Ready, Secure, Go · neon1.tech · CC BY-SA 4.0*

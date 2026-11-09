@@ -1,6 +1,6 @@
 {
-  "name": "neon1-ready-site",
-  "description": "Static site for neon1 ready",
+  "name": "ready-secure-go-site",
+  "description": "Static site for Ready, Secure, Go",
   "private": true,
   "version": "4.5.2",
   "type": "module",

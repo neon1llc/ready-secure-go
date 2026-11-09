@@ -4,7 +4,7 @@
 
 **You're welcome to:**
 
-- Say that your work is based on or adapted from neon1 ready, with a link back. That's the whole point.
+- Say that your work is based on or adapted from Ready, Secure, Go, with a link back. That's the whole point.
 - Print and hand out unmodified pages, logo included, for workshops, classrooms, community groups and offices.
 - Mention neon1 when you review it, teach from it or write about it.
 

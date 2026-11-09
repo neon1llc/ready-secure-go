@@ -1,6 +1,6 @@
 ---
 title: Library
-description: "The frameworks, standards and sources behind neon1 ready, what each is for, and how we use it."
+description: "The frameworks, standards and sources behind Ready, Secure, Go, what each is for, and how we use it."
 ---
 
 You don't need any of these to get started. They matter when you need to show your work to customers, insurers, auditors or regulators, or when you want to go deeper.
