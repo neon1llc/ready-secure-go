@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://github.com/neon1llc/neon1-ready/data/schema/practice-card.schema.json",
-  "title": "neon1 ready practice card front matter",
+  "$id": "https://github.com/neon1llc/ready-secure-go/data/schema/practice-card.schema.json",
+  "title": "Ready, Secure, Go practice card front matter",
   "type": "object",
   "required": ["id", "title", "summary", "level", "lights", "spaces", "sources"],
   "properties": {

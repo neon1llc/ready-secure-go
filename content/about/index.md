@@ -20,9 +20,11 @@ This collection is those sessions written down, opened up and made free for anyo
 - **Look at the whole picture.** When I work with a client, I always look at everything: accounts, devices, networks, cameras, the front door, the people, the vendors. Attackers don't care which department owns a problem.
 - **No fear selling.** Honest risk, honest odds, honest fixes.
 
-## The name
+## The names
 
-The name comes from two characters. Neo, "the One" in *The Matrix*, is an ordinary person who chooses to help other people see clearly. Andrew, the robot in *Bicentennial Man*, spends two hundred years being of service and never stops being curious.
+**Ready, Secure, Go** borrows the start of a race. Get ready, lock down what matters, then get on with your day. Security should be the warm-up, not the whole event.
+
+**neon1**, the company behind it, comes from two characters. Neo, "the One" in *The Matrix*, is an ordinary person who chooses to help other people see clearly. Andrew, the robot in *Bicentennial Man*, spends two hundred years being of service and never stops being curious.
 
 Neo also means new, and neon is hard to miss. The 1 is whoever I'm working with. That's you.
 
@@ -30,6 +32,6 @@ Neo also means new, and neon is hard to miss. The 1 is whoever I'm working with.
 
 ## Who's behind it
 
-neon1 ready is published by neon1 LLC (doing business as neon1). If you'd like a session for your school, office, community group or family, or help getting ready for an audit, reach out at [neon1.tech](https://neon1.tech). Sessions for schools, students and community groups are often free.
+Ready, Secure, Go is published by neon1 LLC (doing business as neon1). If you'd like a session for your school, office, community group or family, or help getting ready for an audit, reach out at [neon1.tech](https://neon1.tech). Sessions for schools, students and community groups are often free.
 
 See also: [License and how to share this](license.md).

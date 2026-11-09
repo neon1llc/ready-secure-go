@@ -28,7 +28,7 @@ const rehypeRaw = (await import(pathToFileURL(require.resolve("rehype-raw")))).d
 const { toHtml } = await import(pathToFileURL(require.resolve("hast-util-to-html")))
 
 // Where readers land when a handout links to another page
-const SITE_URL = "https://neon1llc.github.io/neon1-ready"
+const SITE_URL = "https://neon1llc.github.io/ready-secure-go"
 
 // Content folders that become handouts, with the label printed in the header band
 const KINDS = {
@@ -197,18 +197,18 @@ function pageHtml(doc) {
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>${esc(doc.title)} · neon1 ready</title>
+  <title>${esc(doc.title)} · Ready, Secure, Go</title>
   <base href="${pathToFileURL(join(root, "documents")).href}/">
   <link rel="stylesheet" href="document.css">
 </head>
 <body>
-  <header class="band">${mark}<span class="wordmark">neon1 ready</span><span class="kind">${esc(doc.kind)}</span></header>
+  <header class="band">${mark}<span class="wordmark">Ready, Secure, Go</span><span class="kind">${esc(doc.kind)}</span></header>
   <h1>${esc(doc.title)}</h1>
   ${doc.summary ? `<p class="summary">${esc(doc.summary)}</p>` : ""}
   ${glanceHtml(doc.fm)}
   <main>${doc.body}</main>
   ${refsHtml(doc.fm)}
-  <p class="colophon">From neon1 ready by neon1 LLC. Shared under CC BY-SA 4.0. Latest version at <a href="${doc.url}">${esc(doc.url.replace(/^https:\/\//, ""))}</a>.</p>
+  <p class="colophon">From Ready, Secure, Go by neon1 LLC. Shared under CC BY-SA 4.0. Latest version at <a href="${doc.url}">${esc(doc.url.replace(/^https:\/\//, ""))}</a>.</p>
 </body>
 </html>`
 }
@@ -217,7 +217,7 @@ function pageHtml(doc) {
 // Running footer on every page. Chromium needs inline styles here.
 function footerHtml(title) {
   return `<div style="width:100%;margin:0 0.75in;display:flex;justify-content:space-between;font:7.5pt Aptos,Inter,Helvetica,sans-serif;color:#56665c;">
-    <span>neon1 ready · ${esc(title)}</span>
+    <span>Ready, Secure, Go · ${esc(title)}</span>
     <span>CC BY-SA 4.0 · page <span class="pageNumber"></span> of <span class="totalPages"></span></span>
   </div>`
 }
@@ -260,7 +260,7 @@ async function buildPdfs(docs) {
 
   const browser = await chromium.launch()
   const page = await browser.newPage()
-  const scratch = join(tmpdir(), "neon1-ready-docs")
+  const scratch = join(tmpdir(), "ready-secure-go-docs")
   mkdirSync(scratch, { recursive: true })
 
   for (const doc of docs) {
@@ -300,7 +300,7 @@ function buildDocx(docs) {
     const out = join(outDir, doc.slug + ".docx")
     mkdirSync(dirname(out), { recursive: true })
     const html = `<html><body>${glanceDocx(doc.fm)}${doc.body}${refsHtml(doc.fm)}
-      <p>From neon1 ready by neon1 LLC. Shared under CC BY-SA 4.0. Latest version at <a href="${doc.url}">${esc(doc.url)}</a>.</p></body></html>`
+      <p>From Ready, Secure, Go by neon1 LLC. Shared under CC BY-SA 4.0. Latest version at <a href="${doc.url}">${esc(doc.url)}</a>.</p></body></html>`
     const meta = ["-M", `title=${doc.title}`, ...(doc.summary ? ["-M", `subtitle=${doc.summary}`] : [])]
     const run = spawnSync("pandoc", ["-f", "html", "-t", "docx", "--reference-doc", reference, ...meta, "-o", out], {
       input: html,
