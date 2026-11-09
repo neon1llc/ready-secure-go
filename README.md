@@ -1,4 +1,4 @@
-# neon1 ready
+# Ready, Secure, Go
 
 **Security readiness for every space.** Plain-language, technically honest security guidance for wherever you are: your own phone, a family's home network, a classroom, a ten-person office, a nonprofit on no budget, or a company heading into a SOC 2 audit.
 
@@ -66,7 +66,7 @@ Teaching? [`content/teach/`](content/teach/index.md) has workshop kits for paren
 
 ## Licenses
 
-- **Content** (everything in `content/`): [CC BY-SA 4.0](LICENSE). Share it, teach from it, adapt it. Credit neon1 ready with a link, and share your changes under the same license.
+- **Content** (everything in `content/`): [CC BY-SA 4.0](LICENSE). Share it, teach from it, adapt it. Credit Ready, Secure, Go with a link, and share your changes under the same license.
 - **Code** (`site/`, `tools/`, `documents/`): [MIT](LICENSE-CODE). The bundled Inter and JetBrains Mono fonts are under the SIL Open Font License.
 - **The neon1 name and logo** aren't covered by either license. See [TRADEMARK.md](TRADEMARK.md).
 - Material adapted from others is credited on each page and in [ATTRIBUTIONS.md](ATTRIBUTIONS.md).

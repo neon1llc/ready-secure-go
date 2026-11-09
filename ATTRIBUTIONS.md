@@ -1,6 +1,6 @@
 # Attributions
 
-neon1 ready stands on a lot of generous work. Pages that adapt a source say so at the bottom and list it in their `sources`. This file is the full list.
+Ready, Secure, Go stands on a lot of generous work. Pages that adapt a source say so at the bottom and list it in their `sources`. This file is the full list.
 
 ## Adapted (copied and changed) under compatible licenses
 

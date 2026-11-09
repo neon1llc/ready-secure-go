@@ -1,6 +1,6 @@
 # Version control etiquette
 
-How changes get into neon1 ready. The rules get stricter at `v1.0.0`, because people will depend on the content and the site from then on.
+How changes get into Ready, Secure, Go. The rules get stricter at `v1.0.0`, because people will depend on the content and the site from then on.
 
 ## Always
 
