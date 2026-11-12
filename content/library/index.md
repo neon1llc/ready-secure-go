@@ -40,7 +40,7 @@ These are honest approximations to help you find related requirements, not offic
 
 ## Free sources worth bookmarking
 
-- **For everyone:** CISA Secure Our World, FTC consumer advice, EFF Surveillance Self-Defense, Privacy Guides, the Personal Security Checklist.
+- **For everyone:** CISA's four core steps (Cybersecurity Awareness Month), FTC consumer advice, EFF Surveillance Self-Defense, Privacy Guides, the Personal Security Checklist.
 - **For small organizations:** NIST CSF 2.0 Small Business Quick Start Guide, the UK NCSC Small Business Guide, FTC Cybersecurity for Small Business, CISA's free services (vulnerability scanning, tabletop exercise packages).
 - **For schools:** CISA's K-12 cybersecurity resources.
 - **For builders:** the OWASP Cheat Sheet Series, OWASP ASVS, MITRE ATT&CK, the OpenSSF best practices.

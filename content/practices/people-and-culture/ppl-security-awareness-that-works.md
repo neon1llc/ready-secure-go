@@ -19,7 +19,7 @@ sources:
     license: public-domain
     use: reference
   - title: UK NCSC, Top Tips for Staff (free e-learning)
-    url: https://www.ncsc.gov.uk/training/top-tips-for-staff-web/
+    url: https://www.ncsc.gov.uk/information/top-tips-for-staff
     license: OGL-3.0
     use: reference
 ---
