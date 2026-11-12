@@ -2,6 +2,13 @@
 
 Ready, Secure, Go releases use `v0.MINOR.PATCH` until the first complete release, v1.0.0, following neon1's [versioning standard](https://neon1.tech/knowledge/standards/versioning/). Each version below has an annotated tag on the commit it names; the release workflow adds missing tags and never moves one.
 
+## v0.1.1 - 2026-11-12
+
+### Fixed
+- Two sources had stopped working: CISA's Back Up Business Data page (now at its new address) and the NCSC's Top Tips for Staff training (now on the NCSC's information page).
+- CISA retired Secure Our World and archived its pages. "Share files on purpose" now cites Google's and Microsoft's own sharing guides, "Have the family tech talk" cites NCMEC's NetSmartz, and the library names CISA's four core steps.
+- Sources that redirect now link their current addresses: CISA Cyber Hygiene Services, the OWASP Top 10, and the OWASP ASVS.
+
 ## v0.1.0 - 2026-11-09
 <!-- commit: c53b68299f5c0ecf35eeb5733cdd301a4c0980ca -->
 
