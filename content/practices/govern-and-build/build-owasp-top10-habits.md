@@ -15,7 +15,7 @@ maps:
   attack: [T1190, T1059]
 sources:
   - title: OWASP Top 10
-    url: https://owasp.org/Top10/
+    url: https://top10.owasp.org/
     license: CC-BY-SA-4.0
     use: adapt
   - title: OWASP Cheat Sheet Series
@@ -23,7 +23,7 @@ sources:
     license: CC-BY-SA-4.0
     use: adapt
   - title: OWASP Application Security Verification Standard (ASVS)
-    url: https://owasp.org/www-project-application-security-verification-standard/
+    url: https://asvs.owasp.org/
     license: CC-BY-SA-4.0
     use: reference
 ---

@@ -14,8 +14,8 @@ maps:
   soc2: [CC6.6]
   attack: [T1133, T1190, T1110]
 sources:
-  - title: CISA Cyber Hygiene Vulnerability Scanning (free)
-    url: https://www.cisa.gov/resources-tools/services/cisa-vulnerability-scanning
+  - title: CISA Cyber Hygiene Services, including free vulnerability scanning
+    url: https://www.cisa.gov/cyber-hygiene-services
     license: public-domain
     use: reference
   - title: CISA Cross-Sector Cybersecurity Performance Goals
