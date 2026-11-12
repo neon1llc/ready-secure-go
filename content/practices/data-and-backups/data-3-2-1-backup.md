@@ -16,7 +16,7 @@ maps:
   attack: [T1486, T1490]
 sources:
   - title: CISA, Back Up Business Data
-    url: https://www.cisa.gov/resources-tools/resources/back-business-data
+    url: https://www.cisa.gov/audiences/small-and-medium-businesses/secure-your-business/back-up-business-data
     license: public-domain
     use: adapt
   - title: ACSC Essential Eight, Regular backups

@@ -14,9 +14,13 @@ maps:
   soc2: [CC6.1, C1.1]
   attack: [T1530]
 sources:
-  - title: CISA, Protect Sensitive Information (Secure Our World)
-    url: https://www.cisa.gov/secure-our-world
-    license: public-domain
+  - title: Google Drive Help, Share and manage access to files and folders
+    url: https://support.google.com/drive/answer/7166529
+    license: reference-only
+    use: reference
+  - title: Microsoft Support, Share files and folders in Microsoft OneDrive
+    url: https://support.microsoft.com/en-us/onedrive/share-files-and-folders-in-microsoft-onedrive
+    license: reference-only
     use: reference
 ---
 

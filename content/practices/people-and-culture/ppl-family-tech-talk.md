@@ -16,9 +16,9 @@ sources:
     url: https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-scams-and-crimes/sextortion
     license: public-domain
     use: adapt
-  - title: CISA Secure Our World, Teach Kids About Online Safety
-    url: https://www.cisa.gov/secure-our-world
-    license: public-domain
+  - title: NCMEC NetSmartz, online safety lessons for kids and families
+    url: https://www.missingkids.org/netsmartz
+    license: reference-only
     use: reference
   - title: NCMEC Take It Down
     url: https://takeitdown.ncmec.org
