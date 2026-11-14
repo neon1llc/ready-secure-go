@@ -4,6 +4,8 @@
 
 From [neon1](https://neon1.tech). *1 is glad to be of service.*
 
+**Status:** the scope is stable. This repository gets accuracy and source updates, and no new modules for now.
+
 ---
 
 ## Start where you are
