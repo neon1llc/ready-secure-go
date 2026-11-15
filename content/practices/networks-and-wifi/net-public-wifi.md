@@ -25,7 +25,7 @@ sources:
 
 ## Why this matters
 
-Ten years ago, public Wi-Fi really was risky. Today almost every site and app encrypts traffic with HTTPS, so someone on the same cafe network can see *which* sites you visit but not what you type. The real risks now are different: fake networks with convincing names, fake login pages, and your device sharing more than you think.
+Public Wi-Fi used to be riskier. Today almost every site and app uses HTTPS, so someone on the same cafe network can see *which* sites you visit but not what you type. The real risks now are fake networks with convincing names, fake login pages, and your device sharing more than you think.
 
 > [!question] Ask yourself
 > - How do you know "Airport_Free_WiFi" is actually the airport's?
@@ -39,11 +39,11 @@ Ten years ago, public Wi-Fi really was risky. Today almost every site and app en
 3. **Look for HTTPS** and pay attention to certificate warnings. If your browser warns you, don't click through.
 4. **Turn off sharing:** set AirDrop to "Contacts Only" or "Receiving Off", and turn off file and printer sharing. Windows: choose "Public network" when asked.
 5. **Use your phone's hotspot** for banking, work admin, or anything sensitive. It's your own network.
-6. **VPNs:** a VPN moves your trust from the cafe to the VPN company. That helps on hostile networks and when traveling, but it doesn't make you anonymous or stop phishing. If your employer gives you one, use it. If you pay for one, pick a reputable, audited provider.
+6. **VPNs:** a VPN moves your trust from the cafe to the VPN company. That helps on hostile networks and when traveling, but it doesn't make you anonymous or stop phishing. Use one your employer gives you. If you pay for one, pick a reputable, audited provider.
 7. **Forget the network** when you leave, so your device doesn't auto-join a look-alike later.
 
 > [!success] How do you know it worked?
-> Your device is set to "Public network" (or similar), sharing is off, and you have a habit: sensitive things go over the hotspot.
+> Your device is set to "Public network" (or similar), sharing is off, and sensitive things go over the hotspot.
 
 > [!danger] Attacker's-eye view
 > The classic attack is putting yourself between a victim and the internet (MITRE ATT&CK T1557, Adversary-in-the-Middle) with an "evil twin" network. HTTPS defeats most of it. Fake login portals and clicked-through warnings are how what's left gets through.

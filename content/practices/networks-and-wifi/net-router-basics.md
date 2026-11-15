@@ -26,7 +26,7 @@ sources:
 
 ## Why this matters
 
-Your router is the front door between your home or office and the whole internet. Everything you do passes through it. Yet most people set it up once, when the installer left, and never look at it again.
+Your router is the front door between your home or office and the internet, and everything you do passes through it. Most people set it up once and never look at it again.
 
 > [!question] Ask yourself
 > - Do you know how to log into your router? Is the admin password still the one on the sticker?
@@ -39,7 +39,7 @@ Your router is the front door between your home or office and the whole internet
 2. **Change the admin password** to a unique one in your password manager.
 3. **Wi-Fi security:** choose **WPA3** (or "WPA2/WPA3"). If you only see WEP or WPA, the router is too old. Replace it.
 4. **Wi-Fi password:** long, unique, and not your address or last name. Change it if lots of people have had it over the years.
-5. **Network name:** fine to be fun, but don't use your name or address.
+5. **Network name:** don't use your name or address.
 6. **Firmware:** update now and turn on automatic updates.
 7. **Turn off:** WPS (the push-button pairing), remote administration from the internet, and UPnP unless something you rely on needs it.
 8. **Set up a guest network** for visitors and smart devices. See [Give guests and gadgets their own Wi-Fi](net-guest-network.md).

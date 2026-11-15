@@ -24,9 +24,7 @@ sources:
 
 ## Why this matters
 
-"We found your info on the dark web!" sounds terrifying and sells a lot of subscriptions. The reality is calmer. The dark web is websites reachable only through special software like Tor. Some of it is legitimate (privacy tools, news sites avoiding censorship). The part people worry about is criminal marketplaces and forums where stolen data gets traded: email and password combos, credit cards, full identity bundles, access to hacked company networks.
-
-You can't delete anything from those places. What you *can* do is make the stolen data useless.
+"We found your info on the dark web!" sounds terrifying and sells subscriptions. The reality is calmer. The dark web is websites reachable only through special software like Tor. Some of it is legitimate, such as privacy tools and news sites avoiding censorship. The part people worry about is criminal marketplaces and forums trading stolen data: email and password combos, credit cards, identity bundles, and access to hacked company networks. You can't delete anything from them, but you *can* make the stolen data useless.
 
 > [!question] Ask yourself
 > - If your old password is for sale, does it still open anything?
@@ -42,13 +40,13 @@ You can't delete anything from those places. What you *can* do is make the stole
    - Card number leaked: ask your bank for a new card.
 2. **Free monitoring is enough for most people:** Have I Been Pwned notifications, your password manager's breach report, and the free alerts from your credit bureaus or bank.
 3. **Businesses:** Have I Been Pwned offers free domain search for domains you own, so you can see which company addresses appear in breaches. Many identity providers also flag leaked credentials.
-4. **Don't go browsing criminal markets yourself** to "check". There's nothing to gain and real risk.
+4. **Don't browse criminal markets yourself** to "check". There's nothing to gain and real risk.
 
 > [!success] How do you know it worked?
-> For every alert you've received, the leaked thing has been changed, frozen or replaced.
+> For every alert you've received, the leaked item has been changed, frozen, or replaced.
 
 > [!danger] Attacker's-eye view
-> Buying leaked credentials and identity data (MITRE ATT&CK T1589), then logging in with them (T1078, Valid Accounts), is cheaper than any hack. Unique passwords, MFA and credit freezes make the goods worthless.
+> Buying leaked credentials and identity data (MITRE ATT&CK T1589), then logging in with them (T1078, Valid Accounts), is cheaper than any hack. Unique passwords, MFA, and credit freezes make the goods worthless.
 
 ## Go further
 

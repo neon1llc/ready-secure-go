@@ -26,7 +26,7 @@ sources:
 
 ## Why this matters
 
-Exposed remote desktop (RDP), old VPN appliances and port-forwarded camera recorders are among the most common ways ransomware gets into small and mid-sized organizations. Attackers scan the entire internet constantly. If a door is open, it gets tried within hours.
+Exposed remote desktop (RDP), old VPN appliances, and port-forwarded camera recorders are among the most common ways ransomware gets into small and mid-sized organizations. Attackers scan the whole internet constantly, and an open door gets tried within hours.
 
 > [!question] Ask yourself
 > - How do people work from home? Do you know exactly how their connection reaches the office?
@@ -46,7 +46,7 @@ Exposed remote desktop (RDP), old VPN appliances and port-forwarded camera recor
 > An outside scan of your office IP shows only what you intended (often nothing at all), and every remote login requires MFA.
 
 > [!danger] Attacker's-eye view
-> External Remote Services (MITRE ATT&CK T1133) and Exploit Public-Facing Application (T1190) are front doors attackers love, often combined with password guessing (T1110). Removing exposure is cheaper than any amount of detection.
+> External Remote Services (MITRE ATT&CK T1133) and Exploit Public-Facing Application (T1190) are front doors attackers love, often combined with password guessing (T1110). Removing exposure is cheaper than detection.
 
 ## Go further
 

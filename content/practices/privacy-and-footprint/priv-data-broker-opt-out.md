@@ -24,7 +24,7 @@ sources:
 
 ## Why this matters
 
-Data brokers collect public records, purchase histories, app data and social media, then sell profiles: your address, phone numbers, age, relatives, sometimes income estimates. People-search sites sell those profiles to anyone for a few dollars. That's how scammers know your grandson's name, and how a stalker or angry ex finds a new address. Teachers, healthcare workers and anyone in a public-facing job have good reason to care.
+Data brokers collect public records, purchase histories, app data, and social media, then sell profiles: your address, phone numbers, age, relatives, sometimes income estimates. People-search sites sell them to anyone for a few dollars. That's how scammers know your grandson's name and how a stalker or angry ex finds a new address. Teachers, healthcare workers, and anyone in a public-facing job have good reason to care.
 
 > [!question] Ask yourself
 > - Search your full name and city on a people-search site. How accurate is it? Who's listed as your relatives?
@@ -37,7 +37,7 @@ Data brokers collect public records, purchase histories, app data and social med
 3. **California residents** can use the state's **DROP** platform to send one deletion request to every registered data broker. Other states are adding similar rights, so check yours.
 4. **Or use a removal service** (for example DeleteMe, Optery, Kanary, EasyOptOuts) that files and re-files opt-outs for you. Look for transparency about which sites they cover.
 5. **Repeat** every few months. Brokers re-add people as new data comes in.
-6. **Google:** use "Results about you" to request removal of search results showing your phone, address or email.
+6. **Google:** use "Results about you" to request removal of search results showing your phone, address, or email.
 
 > [!success] How do you know it worked?
 > Searching your name on the major people-search sites no longer shows your current address and phone number.
