@@ -26,10 +26,10 @@ sources:
 
 ## Why this matters
 
-Cameras, doorbells, baby monitors, smart TVs, thermostats, printers, door locks: each one is a small computer on your network, usually with weaker security than your laptop and almost never updated. Some ship with a default password that's printed in the manual and listed online. Cameras raise the stakes, because they record your home or office.
+Cameras, doorbells, baby monitors, smart TVs, thermostats, printers, and door locks are each a small computer on your network, usually with weaker security than your laptop and almost never updated. Some ship with a default password printed in the manual and listed online. Cameras raise the stakes because they record your home or office.
 
 > [!question] Ask yourself
-> - How many devices are on your Wi-Fi right now? (Your router's app will tell you. It's usually more than people guess.)
+> - How many devices are on your Wi-Fi right now? (Your router's app will tell you. It's usually more than you'd guess.)
 > - Who can see your camera feeds? Is there an old shared login, or a former employee or roommate with app access?
 > - Does your camera recorder (DVR/NVR) need to be reachable from the internet, or does the app work without it?
 
@@ -46,13 +46,13 @@ Cameras, doorbells, baby monitors, smart TVs, thermostats, printers, door locks:
    - Prefer systems with end-to-end encryption options.
    - Don't port-forward a DVR/NVR to the internet. Use the vendor's app or a VPN instead.
    - Know where recordings are stored and for how long.
-7. **Buying new:** look for a commitment to security updates for a stated number of years. The U.S. Cyber Trust Mark is a helpful sign.
+7. **Buying new:** look for a stated number of years of security updates. The U.S. Cyber Trust Mark is a helpful sign.
 
 > [!success] How do you know it worked?
 > No device on your list still uses a default password, camera apps show only the people you expect, and your router shows smart devices on the separate network.
 
 > [!danger] Attacker's-eye view
-> Botnets scan the internet nonstop for devices with factory passwords (MITRE ATT&CK T1078.001, Default Accounts) or known holes in exposed recorders (T1190). They aren't targeting *you*. They're harvesting whatever answers. Changing the password and not exposing the device takes you off their list.
+> Botnets scan the internet nonstop for devices with factory passwords (MITRE ATT&CK T1078.001, Default Accounts) or known holes in exposed recorders (T1190). They aren't targeting *you*. They harvest whatever answers. Changing the password and not exposing the device takes you off their list.
 
 ## Go further
 

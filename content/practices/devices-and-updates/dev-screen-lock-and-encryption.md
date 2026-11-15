@@ -22,7 +22,7 @@ sources:
 
 ## Why this matters
 
-Laptops get left in cabs and phones get stolen from cafe tables. Without encryption, anyone can pull the drive and read everything, *even if there's a login password*. With encryption on and a screen lock set, the data is gibberish without your passcode.
+Laptops get left in cabs and phones get stolen from cafe tables. Without encryption, anyone can pull the drive and read everything, *even with a login password*. With encryption and a screen lock, the data is gibberish without your passcode.
 
 > [!question] Ask yourself
 > - If your laptop vanished right now, what's on it? Client files? Tax returns? Saved passwords in the browser?
@@ -41,7 +41,7 @@ Laptops get left in cabs and phones get stolen from cafe tables. Without encrypt
 > FileVault or BitLocker shows "On", your phone asks for a passcode after restart, and the screen locks itself when you step away.
 
 > [!danger] Attacker's-eye view
-> Physical access is the easiest kind of access. A thief can plug in a drive and copy files (MITRE ATT&CK T1005, Data from Local System) or plug hardware into an unlocked machine (T1200, Hardware Additions). Encryption plus a locked screen makes the physical device worth only its resale value.
+> Physical access is the easiest kind. A thief can plug in a drive and copy files (MITRE ATT&CK T1005, Data from Local System) or plug hardware into an unlocked machine (T1200, Hardware Additions). Encryption and a locked screen leave the device worth only its resale value.
 
 ## Go further
 

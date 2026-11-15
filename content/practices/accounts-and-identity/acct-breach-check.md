@@ -20,7 +20,7 @@ sources:
 
 ## Why this matters
 
-You've almost certainly been in a data breach. Most people have been in several. That isn't a reason to panic, but it is information. Knowing *which* breaches tells you which passwords to change and what kinds of scams to expect. For example, a breach that leaked your phone number and address makes a convincing "delivery problem" text more likely.
+You've almost certainly been in a data breach, and most people have been in several. Knowing *which* ones tells you which passwords to change and what scams to expect. A breach that leaked your phone number and address makes a convincing "delivery problem" text more likely.
 
 > [!question] Ask yourself
 > - Which old accounts did you sign up for years ago and forget about?
@@ -32,14 +32,14 @@ You've almost certainly been in a data breach. Most people have been in several.
 2. For each breach listed, note **what leaked**: passwords, phone numbers, addresses, security questions.
 3. If passwords leaked and you reused that password anywhere, change it everywhere, using [Let a password manager remember for you](acct-password-manager.md).
 4. Turn on **notifications** there so you hear about the next one.
-5. Your password manager probably has a built-in breach report too. Turn it on.
+5. Turn on your password manager's breach report, if it has one.
 6. Delete accounts you don't need. An account that doesn't exist can't leak.
 
 > [!success] How do you know it worked?
 > Every breached site in the list either has a new unique password or has been deleted, and notifications are on.
 
 > [!danger] Attacker's-eye view
-> Attackers start by gathering what's already public or leaked about a target (MITRE ATT&CK T1589, Gather Victim Identity Information), then try the leaked passwords elsewhere (T1110.004). You're just doing their homework first.
+> Attackers start by gathering what's public or leaked about a target (MITRE ATT&CK T1589, Gather Victim Identity Information), then try the leaked passwords elsewhere (T1110.004). You're doing that homework first.
 
 ## Go further
 
