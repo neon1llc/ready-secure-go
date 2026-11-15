@@ -25,7 +25,7 @@ sources:
 
 ## Why this matters
 
-Account recovery is a back door, and it's meant to be. But if the recovery email is an old address you no longer check, or the phone number belongs to a line you cancelled, *someone else* may control your back door. And the opposite happens too: people lock themselves out permanently because the only recovery option is gone.
+Account recovery is a back door. If the recovery email is an old address you don't check, or the phone number is a line you cancelled, *someone else* may control it. The opposite also happens: people lock themselves out for good because the only recovery option is gone.
 
 > [!question] Ask yourself
 > - What recovery email and phone are on your main email account right now? Are you sure?
@@ -45,7 +45,7 @@ Account recovery is a back door, and it's meant to be. But if the recovery email
 > You can name, without looking, where you'd go to recover your main email. Then look, and the answer matches.
 
 > [!danger] Attacker's-eye view
-> After breaking in, attackers often add their own recovery email or a forwarding rule so they keep access even after you change your password (MITRE ATT&CK T1098, Account Manipulation). Reviewing recovery options and signed-in devices is how you find and remove those.
+> After breaking in, attackers often add their own recovery email or a forwarding rule to keep access after you change your password (MITRE ATT&CK T1098, Account Manipulation). Reviewing recovery options and signed-in devices finds those.
 
 ## Go further
 

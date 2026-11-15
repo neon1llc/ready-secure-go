@@ -1,6 +1,6 @@
 ---
 title: The SOC 2 readiness checklist
-description: "A practical, printable checklist to see where you stand before you call an auditor."
+description: "A printable checklist to see where you stand before you call an auditor."
 tags: [soc2, checklist]
 ---
 
@@ -12,7 +12,7 @@ Tick what's true *and provable* today.
 - [ ] The reason and target date are clear (which customers, which report type, when)
 - [ ] Scope is defined: system, categories, subservice organizations ([Scoping: what's in, what's out](soc2-scope.md))
 - [ ] A system diagram and data flow exist
-- [ ] Inventory of devices, software, cloud accounts and vendors ([Know what you have](../../practices/govern-and-build/gov-inventory.md))
+- [ ] Inventory of devices, software, cloud accounts, and vendors ([Know what you have](../../practices/govern-and-build/gov-inventory.md))
 
 ## People
 
@@ -24,7 +24,7 @@ Tick what's true *and provable* today.
 ## Access
 
 - [ ] Single sign-on for core tools where possible
-- [ ] MFA enforced on email, identity provider, cloud, code repository and admin access ([Turn on two-step login, starting with your email](../../practices/accounts-and-identity/acct-two-step-login.md))
+- [ ] MFA enforced on email, identity provider, cloud, code repository, and admin access ([Turn on two-step login, starting with your email](../../practices/accounts-and-identity/acct-two-step-login.md))
 - [ ] Separate admin accounts, few of them ([Keep admin power out of everyday accounts](../../practices/accounts-and-identity/acct-admin-separation.md))
 - [ ] Quarterly access reviews scheduled and recorded
 - [ ] Physical access to offices controlled and logged ([Control who can walk into your space](../../practices/physical-and-travel/phys-office-access.md))

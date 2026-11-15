@@ -22,7 +22,7 @@ sources:
 
 ## Why this matters
 
-Every assessment I do starts here, because every other control depends on it. The laptop nobody patches is the one nobody remembered. The forgotten free trial still has your customer list in it. The old website on a cheap host gets hacked and starts serving malware with your name on it.
+Every assessment I do starts here, because every other control depends on it. The laptop nobody patches is the one nobody remembered. The forgotten free trial still has your customer list. The old website on a cheap host gets hacked and serves malware with your name on it.
 
 > [!question] Ask yourself
 > - How many devices does your organization own? How many personal devices touch work email?
@@ -41,7 +41,7 @@ Make a spreadsheet with four tabs:
 Then:
 
 - Go through **credit card and bank statements** to find services you forgot.
-- Mark anything **unowned, unsupported or unused**, then fix, replace or cancel it.
+- Mark anything **unowned, unsupported, or unused**, then fix, replace, or cancel it.
 - Review monthly (new hires, new tools) and fully once a year.
 
 Growing organizations: device management (Intune, Jamf, Google endpoint management) and your identity provider's app list can automate much of this.

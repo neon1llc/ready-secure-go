@@ -26,7 +26,7 @@ sources:
 
 ## Why this matters
 
-Most organizations do security training once a year to tick a box, and people forget it by lunch. What works is what works for any learning: short sessions, real examples from *your* environment, practice, and a reason to care at home too. People who understand *why* a scam works will catch the next one even when it looks different.
+Most organizations do security training once a year to tick a box, and people forget it by lunch. What works is short sessions, real examples from *your* environment, practice, and a reason to care at home too. People who understand *why* a scam works will catch the next one even when it looks different.
 
 > [!question] Ask yourself
 > - Could the newest person in your office tell you how to report a phishing email?
@@ -35,12 +35,12 @@ Most organizations do security training once a year to tick a box, and people fo
 
 ## Do it
 
-1. **Monthly, 10 to 15 minutes:** one topic, one real example, one action. Rotate through scams, passwords and MFA, devices, physical security, privacy and reporting.
+1. **Monthly, 10 to 15 minutes:** one topic, one real example, one action. Rotate through scams, passwords and MFA, devices, physical security, privacy, and reporting.
 2. **Use your own examples:** the phishing emails your team actually got (with names removed).
-3. **Practice:** simulated phishing can help *if* it's used to teach, not to shame. Never punish clicks. Celebrate reports.
+3. **Practice:** simulated phishing helps *if* it teaches, not shames. Never punish clicks. Celebrate reports.
 4. **Make it personal:** show people how to protect their families' accounts and phones. Habits built at home carry to work.
 5. **Onboarding:** a 15-minute security welcome on day one: how to report, the payment-verification rule ([Never change payment details on the strength of an email](../scams-and-social-engineering/scam-payment-change-verification.md)), MFA setup, where the policies live.
-6. **Leaders go first:** when the boss says "I almost fell for this one", reporting becomes normal.
+6. **Leaders go first:** when the boss says "I almost fell for this one," reporting becomes normal.
 7. **Track simply:** who attended, report counts, and how fast reports come in. SOC 2 auditors will ask for training records.
 
 > [!success] How do you know it worked?

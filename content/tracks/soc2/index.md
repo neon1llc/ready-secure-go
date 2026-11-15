@@ -1,9 +1,9 @@
 ---
 title: SOC 2 readiness
-description: "What SOC 2 is, what auditors actually look for, and how a small or growing company gets ready without drowning in paperwork."
+description: "What SOC 2 is, what auditors look for, and how a small or growing company gets ready."
 ---
 
-If you sell software or services to other businesses, sooner or later a customer will ask: *"Do you have a SOC 2 report?"* This track is the readiness work I do with companies, written down in plain words.
+If you sell software or services to other businesses, a customer will eventually ask: *"Do you have a SOC 2 report?"* This track is the readiness work I do with companies.
 
 ## The path
 
@@ -16,12 +16,12 @@ If you sell software or services to other businesses, sooner or later a customer
 7. [The readiness checklist](soc2-readiness-checklist.md)
 
 > [!question] Ask yourself
-> - Why do you want SOC 2? A specific customer deal? Your whole market? Investor diligence? The answer shapes scope and timing.
-> - Who will own this internally? It needs a named person with real time, not "everyone".
-> - Do you already do most of the right things, just without writing them down? (Most good teams do. SOC 2 is often more about proving than changing.)
+> - Why do you want SOC 2? A specific customer deal, your whole market, or investor diligence? The answer shapes scope and timing.
+> - Who will own this? It needs a named person with real time, not "everyone".
+> - Do you already do most of the right things without writing them down? Most good teams do. SOC 2 is often more about proving than changing.
 
 ## What it builds on
 
-SOC 2 isn't a separate world. The [Bright level](../../levels/index.md) practices across every Light are most of what an auditor wants to see. If your organization is solidly at Glow and climbing, you're closer than you think.
+The [Bright level](../../levels/index.md) practices across every Light are most of what an auditor wants to see. If your organization is solidly at Glow and climbing, you're closer than you think.
 
-*SOC 2 and the Trust Services Criteria are from the AICPA. This track describes them in our own words for readiness purposes. It isn't legal or audit advice, and only a licensed CPA firm can issue a SOC 2 report.*
+*SOC 2 and the Trust Services Criteria are from the AICPA. This track describes them in plain words for readiness. It isn't legal or audit advice, and only a licensed CPA firm can issue a SOC 2 report.*

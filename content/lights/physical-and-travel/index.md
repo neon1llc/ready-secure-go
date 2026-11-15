@@ -3,7 +3,7 @@ title: Physical & Travel
 description: "Doors, keys, badges, visitors, screens, paper, and keeping devices safe on the move."
 ---
 
-Attackers don't care which department owns a problem. A propped-open door, an unlocked network closet or a laptop left in a cafe can undo every digital control. Physical security is also where a lot of real-world harm starts, so I always walk the space.
+A propped-open door, an unlocked network closet, or a laptop left in a cafe can undo every digital control. I always walk the space.
 
 > [!question] Ask yourself
 > - How many keys or codes to your space exist, and who has them?

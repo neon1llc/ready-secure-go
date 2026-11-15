@@ -22,12 +22,12 @@ sources:
 
 ## Why this matters
 
-Plans that have never been practiced fail in boring ways: the backup admin password is in the hacked email, nobody has the insurer's number, two people both think the other is calling the bank. A tabletop exercise is a structured "what would we do if...?" conversation. No computers touched, no real systems at risk, and a lot learned.
+Plans that have never been practiced fail in boring ways: the backup admin password is in the hacked email, nobody has the insurer's number, or two people each think the other is calling the bank. A tabletop exercise is a structured "what would we do if...?" conversation. It touches no computers and risks no real systems.
 
 > [!question] Ask yourself
 > - Who would make the call to disconnect the whole office from the internet?
 > - How would you talk to each other if email and chat were down?
-> - What would you tell customers, parents or donors, and who would say it?
+> - What would you tell customers, parents, or donors, and who would say it?
 
 ## Do it
 
@@ -36,7 +36,7 @@ Plans that have never been practiced fail in boring ways: the backup admin passw
 3. **Reveal it in stages (injects):** "It's 8:15 a.m. and three staff can't open files. ... At 9:00 a note appears demanding payment. ... At 10:30 a reporter calls."
 4. **At each stage ask:** What do we know? What do we do? Who decides? What do we need that we don't have?
 5. **Capture gaps** honestly: missing numbers, unclear owners, untested backups.
-6. **Fix the top three** within a month, then run another scenario next year. CISA publishes free ready-made packages you can adapt.
+6. **Fix the top three** within a month, then run another scenario next year. CISA publishes free ready-made packages.
 7. **Keep the record** (date, attendees, scenario, findings, fixes). It's evidence for SOC 2 and insurers.
 
 > [!success] How do you know it worked?

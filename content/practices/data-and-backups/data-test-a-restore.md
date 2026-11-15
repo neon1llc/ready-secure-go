@@ -23,7 +23,7 @@ sources:
 
 ## Why this matters
 
-Backups fail quietly. The drive filled up eight months ago. The job only covered the Desktop. The encryption password lives in the head of someone who left. You don't want to find out during an emergency.
+Backups fail quietly. The drive filled up eight months ago, the job only covered the Desktop, or the encryption password is in the head of someone who left. Don't find out during an emergency.
 
 > [!question] Ask yourself
 > - How long would it take to get back to working if your main computer or server died today? Have you ever timed it?
@@ -36,7 +36,7 @@ Backups fail quietly. The drive filled up eight months ago. The job only covered
 3. **Open it.** Does it work? Is it the version you expected? How old was it?
 4. **Write down** how long it took, what was confusing, and what you'd need next time (passwords, license keys, installers).
 5. **Repeat on a schedule:** a file restore every quarter, a full system restore once a year. Rotate who does it.
-6. **Businesses:** record the date, scope, result and time taken. That record is evidence for SOC 2 availability criteria and cyber insurance questionnaires.
+6. **Businesses:** record the date, scope, result, and time taken. That record is evidence for SOC 2 availability criteria and cyber insurance questionnaires.
 
 > [!success] How do you know it worked?
 > You have a dated note saying "restored X in Y minutes, it opened fine", and someone other than the usual person could follow your notes.

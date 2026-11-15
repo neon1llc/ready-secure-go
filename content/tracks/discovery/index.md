@@ -3,17 +3,15 @@ title: Discovery
 description: "Walk through your whole setup the way a security professional would: every Light, every door, every account."
 ---
 
-Whenever I start working with a client, even on something small, I look at their *entire* security setup: accounts, devices, networks, cameras, the front door, the people, the vendors. Problems hide in the gaps between "IT stuff" and "office stuff". This track is that walk-through, so you can run it yourself.
-
-It works for a household, a classroom, a nonprofit or a company. Skip the questions that don't apply.
+With every client, even on something small, I look at their *entire* security setup: accounts, devices, networks, cameras, the front door, the people, and the vendors. Problems hide in the gaps between "IT stuff" and "office stuff". This track is that walk-through. It works for a household, a classroom, a nonprofit, or a company. Skip questions that don't apply.
 
 ## How to run it
 
-1. **Set aside two hours** (a home) to two days (an office of 20 to 50).
-2. **Walk it, don't just answer it.** Look at the router, the closet, the front desk, the recycling bin, the admin console.
-3. **Write answers honestly.** "I don't know" is a finding, and often the most useful one.
+1. **Set aside two hours** for a home or two days for an office of 20 to 50.
+2. **Walk it.** Look at the router, the closet, the front desk, the recycling bin, the admin console.
+3. **Answer honestly.** "I don't know" is a finding.
 4. **Mark each answer:** ✅ fine, ⚠️ needs work, ❌ urgent.
-5. **Fix the ❌ first**, then pick the top three ⚠️. Each section links to the practices that help.
+5. **Fix the ❌ first**, then the top three ⚠️. Each section links to practices that help.
 
 ## The questions
 
@@ -51,14 +49,14 @@ It works for a household, a classroom, a nonprofit or a company. Skip the questi
 
 ### Cameras, monitoring and smart devices
 - Where are cameras pointed? Who can view them, and from where? Any old users with access?
-- Are default passwords changed? Is the recorder exposed to the internet?
+- Are default passwords changed? Is the recorder reachable from the internet?
 - Where are recordings stored, and for how long? Who can export them?
 
 → [Secure your cameras and smart devices](../../practices/devices-and-updates/dev-iot-and-cameras.md)
 
 ### Scams & Social Engineering
 - Has anyone received fake invoices, gift card requests, or "CEO" messages? What happened?
-- Is there a payment-change verification rule? Does everyone know it?
+- Is there a payment-change verification rule that everyone knows?
 - How do people report suspicious messages?
 
 → [Scams & Social Engineering](../../lights/scams-and-social-engineering/index.md)
@@ -86,7 +84,7 @@ It works for a household, a classroom, a nonprofit or a company. Skip the questi
 → [Physical & Travel](../../lights/physical-and-travel/index.md)
 
 ### Respond & Recover
-- Is there a contact sheet on paper? Does it include insurance, IT, bank and lawyer?
+- Is there a paper contact sheet with insurance, IT, bank, and lawyer?
 - Has anyone ever practiced an incident?
 - Do you have cyber insurance? What does it require of you?
 
@@ -103,4 +101,4 @@ It works for a household, a classroom, a nonprofit or a company. Skip the questi
 
 ## After discovery
 
-Turn findings into a short plan: **this week** (the ❌ items), **this month** (top three ⚠️), **this quarter** (the rest worth doing). Then place yourself on the [levels](../../levels/index.md) for each Light, and do it again in a year.
+Turn findings into a plan: **this week** for the ❌ items, **this month** for the top three ⚠️, **this quarter** for the rest worth doing. Place yourself on the [levels](../../levels/index.md) for each Light, and repeat in a year.

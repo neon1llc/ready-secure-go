@@ -26,11 +26,11 @@ sources:
 
 ## Why this matters
 
-When something goes wrong, people panic, and the information they need is often locked inside the computer that's broken or hacked. A single printed page turns panic into a checklist. For a business, it's also the seed of an incident response plan, which insurers and auditors will ask about.
+When something goes wrong, the information you need is often locked inside the broken or hacked computer. A printed page turns panic into a checklist. For a business, it's also the seed of an incident response plan, which insurers and auditors ask about.
 
 > [!question] Ask yourself
 > - If your email were hacked right now, who would you call first? Do you have their number somewhere other than your phone?
-> - For a business: who's allowed to decide to shut systems down, call the insurer or call a lawyer?
+> - For a business: who's allowed to decide to shut systems down, call the insurer, or call a lawyer?
 
 ## Do it
 

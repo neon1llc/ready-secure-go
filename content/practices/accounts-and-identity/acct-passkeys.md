@@ -27,27 +27,25 @@ sources:
 
 ## Why this matters
 
-A passkey is a pair of keys. The website keeps the public half, and your phone, computer or password manager keeps the private half, unlocked with your face, fingerprint or PIN. When you log in, your device proves it has the private key *for that exact website*. A look-alike phishing site gets nothing, because the passkey simply won't work there.
-
-That's the big deal: passkeys don't just make phishing harder. They make the most common kind impossible.
+A passkey is a pair of keys. The website keeps the public half. Your phone, computer, or password manager keeps the private half, unlocked with your face, fingerprint, or PIN. When you log in, your device proves it has the private key *for that exact website*. A look-alike phishing site gets nothing, because the passkey won't work there.
 
 > [!question] Ask yourself
 > - Have you ever typed a password into a page you got to from an email link?
-> - If your phone were lost, would your passkeys come back when you set up a new one? (They do if they're synced to your Apple, Google or password-manager account.)
+> - If your phone were lost, would your passkeys come back when you set up a new one? (They do if they're synced to your Apple, Google, or password-manager account.)
 
 ## Do it
 
 1. Check where you stand: your password manager or [passkeys.directory](https://passkeys.directory) lists sites that support passkeys.
-2. Start with **Google, Microsoft, Apple, Amazon, PayPal** and your password manager. Go to the account's security settings and choose "Create a passkey".
+2. Start with **Google, Microsoft, Apple, Amazon, PayPal**, and your password manager. Go to the account's security settings and choose "Create a passkey".
 3. Store passkeys somewhere that **syncs and backs up**: iCloud Keychain, Google Password Manager, or a password manager like Bitwarden, 1Password or Proton Pass.
 4. Keep a second way in (backup codes, or a second passkey on a hardware key) for your most important accounts.
 5. **Offices:** turn on passkey or security-key sign-in for your email and identity provider (Google Workspace, Microsoft Entra ID), and require it for admins first.
 
 > [!success] How do you know it worked?
-> Sign out, then sign back in with "Use a passkey". You should get a face, fingerprint or PIN prompt and no password box.
+> Sign out, then sign back in with "Use a passkey". You should get a face, fingerprint, or PIN prompt and no password box.
 
 > [!danger] Attacker's-eye view
-> Phishing (MITRE ATT&CK T1566) works by getting you to hand over something reusable. A passkey is bound to the real site's address, so there's nothing reusable to hand over.
+> Phishing (MITRE ATT&CK T1566) works by getting you to hand over something reusable. A passkey is bound to the real site's address, so there's nothing to hand over.
 
 ## Go further
 

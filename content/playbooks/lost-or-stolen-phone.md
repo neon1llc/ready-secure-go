@@ -14,17 +14,17 @@ tags: [playbook]
 
 4. **Change your email password** first, then banking, from a trusted device, and sign out the lost device from each account's security page.
 5. **Payment apps and digital wallets:** remove the device from Apple Pay, Google Wallet, banking apps and payment apps.
-6. **Work device or work accounts on it?** Tell IT right away so they can wipe it and revoke access. Many organizations are required to log this.
+6. **Work device or work accounts on it?** Tell IT right away so they can wipe it and revoke access. Many organizations must log this.
 
 ## Report
 
-- **Theft:** file a police report (useful for insurance and carrier claims). Give them the serial number or IMEI if you have it, which is often in your Apple or Google account.
+- **Theft:** file a police report (useful for insurance and carrier claims). Give them the serial number or IMEI, which is often in your Apple or Google account.
 - Don't go to an address shown on a map to confront someone yourself. Give it to the police.
 
 ## Get back to normal
 
 - Restore your new device from your backup ([Back up what you can't lose, the 3-2-1 way](../practices/data-and-backups/data-3-2-1-backup.md)).
-- Re-set up two-step login apps and passkeys. This is where saved backup codes save the day.
+- Set up two-step login apps and passkeys again. Saved backup codes help here.
 
 ## Next time
 

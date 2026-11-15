@@ -3,7 +3,7 @@ title: Data & Backups
 description: "What you can't afford to lose, where it lives, who can see it, and how you'd get it back."
 ---
 
-Data is the thing everyone's actually after, and the thing you'll miss most. Backups are the one defense that works against almost everything: dead drives, theft, mistakes and ransomware.
+Data is what attackers want and what you'd miss most. Backups work against almost everything: dead drives, theft, mistakes, and ransomware.
 
 > [!question] Ask yourself
 > - What would you be heartbroken, or out of business, to lose?

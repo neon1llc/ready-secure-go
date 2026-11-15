@@ -4,7 +4,7 @@ description: "Stop more money from leaving, try to get back what already left, a
 tags: [playbook]
 ---
 
-First: **this happens to smart, careful people every day.** Scammers are professionals. Feeling embarrassed is normal, and it's exactly what they count on to keep you quiet. Acting fast matters more than anything else.
+**This happens to smart, careful people every day.** Scammers are professionals, and they count on your embarrassment to keep you quiet. Acting fast matters most.
 
 ## Right now
 
@@ -31,8 +31,8 @@ First: **this happens to smart, careful people every day.** Scammers are profess
 ## This week
 
 - Watch your bank and card statements closely.
-- Tell family and friends, so the same scammers can't reach them. Talking about it is how scams lose their power.
-- Expect follow-up scams: people who've paid once get targeted again, including fake "refund" and "fraud recovery" calls.
+- Tell family and friends so the same scammers can't reach them.
+- Expect follow-up scams, including fake "refund" and "fraud recovery" calls. People who've paid once get targeted again.
 
 ## Next time
 

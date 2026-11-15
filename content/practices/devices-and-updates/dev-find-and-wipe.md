@@ -25,7 +25,7 @@ sources:
 
 ## Why this matters
 
-You can only turn on remote tracking and erasing *before* the device goes missing. After that, it's too late.
+Remote tracking and erasing only work if you turn them on *before* the device goes missing.
 
 > [!question] Ask yourself
 > - If your phone disappeared, could you log into a website and see where it is right now?

@@ -26,7 +26,7 @@ sources:
 
 ## Why this matters
 
-Scams don't beat your technology. They beat your *attention*. A scammer only needs you to act before you think: click, pay, read me the code, buy the gift cards. The FBI's yearly Internet Crime Reports show losses to fraud in the billions of dollars, and they keep growing. The fix is a habit, not an app.
+Scams don't beat your technology. They beat your *attention*. A scammer only needs you to act before you think: click, pay, read out the code, buy the gift cards. The FBI's yearly Internet Crime Reports show fraud losses in the billions of dollars, and they keep growing. The fix is a habit, not an app.
 
 > [!question] Ask yourself
 > Next time something asks you to act, check for the four pressures:
@@ -36,16 +36,16 @@ Scams don't beat your technology. They beat your *attention*. A scammer only nee
 > - **Authority or emotion:** the IRS, the bank, the CEO, a crying grandchild, a romance.
 > - **Strange payment:** gift cards, wire transfers, crypto, payment apps, or "move your money to a safe account".
 >
-> If you feel any of these, that's your signal, not a reason to hurry.
+> If you feel any of these, slow down.
 
 ## Do it
 
-1. **Pause.** Real banks, agencies and bosses can wait ten minutes.
+1. **Pause.** Real banks, agencies, and bosses can wait ten minutes.
 2. **Don't use the contact info in the message.** Hang up, close the email, and contact the person or company using a number or app *you already have*: the back of your card, the official app, your saved contacts.
-3. **Never share one-time codes.** Nobody legitimate will ever call you and ask you to read back a code you just received. That code is the key to your account.
-4. **Never pay with gift cards, crypto or wires** because someone told you to. Legitimate organizations don't ask for that.
+3. **Never share one-time codes.** No legitimate caller will ask you to read back a code you just received. That code is the key to your account.
+4. **Never pay with gift cards, crypto, or wires** because someone told you to. Legitimate organizations don't ask for that.
 5. **Hover before you click.** Look at where a link really goes. When in doubt, type the website yourself.
-6. **Talk about it.** Tell family, coworkers or students about scams you've seen. Saying "I almost fell for this" makes it safe for others to ask.
+6. **Talk about it.** Tell family, coworkers, or students about scams you've seen. Saying "I almost fell for this" makes it safe for others to ask.
 7. **Report it:** forward phishing texts to **7726** (SPAM), report fraud at **ReportFraud.ftc.gov**, and report internet crime at **ic3.gov**.
 
 > [!success] How do you know it worked?

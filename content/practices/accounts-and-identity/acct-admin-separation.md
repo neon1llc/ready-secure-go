@@ -27,7 +27,7 @@ sources:
 
 ## Why this matters
 
-Whatever account you're logged into when you click a bad link, the malware gets that account's power. If you browse and read email as an administrator, one mistake can take over the whole computer, or the whole Microsoft 365 or Google Workspace tenant. If you use a regular account, the damage usually stays small.
+Malware gets the power of whatever account you're logged into when you click a bad link. If you read email as an administrator, one mistake can take over the whole computer or the whole Microsoft 365 or Google Workspace tenant. With a regular account, the damage usually stays small.
 
 > [!question] Ask yourself
 > - Who in your office can install software or change settings for everyone? Do they need to, every day?
@@ -38,7 +38,7 @@ Whatever account you're logged into when you click a bad link, the malware gets 
 
 1. **Computers:** make everyday user accounts *standard* (not administrator). Keep one admin account for installs, with a different password.
 2. **Email and cloud tenant:** create separate admin accounts (for example `pat.admin@`) protected by a security key or passkey. Don't read mail with them.
-3. **Fewer is better:** aim for two people with top-level admin, so you're not locked out if one leaves, and no more than you need.
+3. **Fewer is better:** aim for two people with top-level admin, so one leaving doesn't lock you out, and no more.
 4. **Review quarterly:** list everyone with admin rights in each system, and remove anyone who doesn't need them.
 5. **Cloud:** never use the AWS root user or equivalent day to day. See [Lock down the root of your cloud account](../govern-and-build/gov-cloud-account-basics.md).
 
@@ -46,7 +46,7 @@ Whatever account you're logged into when you click a bad link, the malware gets 
 > You can produce a short list of every admin account in each system, and none of them is anyone's daily login.
 
 > [!danger] Attacker's-eye view
-> Once in, attackers look for admin credentials to spread and dig in (MITRE ATT&CK T1078.003, Local Accounts, and T1068, Exploitation for Privilege Escalation). Separating admin accounts means the account they land on usually can't do much.
+> Once in, attackers look for admin credentials to spread (MITRE ATT&CK T1078.003, Local Accounts, and T1068, Exploitation for Privilege Escalation). With separate admin accounts, the account they land on usually can't do much.
 
 ## Go further
 

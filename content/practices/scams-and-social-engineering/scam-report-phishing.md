@@ -22,7 +22,7 @@ sources:
 
 ## Why this matters
 
-Somebody in your organization will click a bad link eventually. That's normal. What matters is how fast you find out. A culture where people report quickly, including "I clicked it, sorry", turns a breach into a near miss. A culture of blame makes people hide it.
+Somebody in your organization will eventually click a bad link. What matters is how fast you find out. When people report quickly, even with "I clicked it, sorry", a breach becomes a near miss. Blame makes people hide it.
 
 > [!question] Ask yourself
 > - If someone on your team clicked a phishing link this morning, would they tell anyone? Who?

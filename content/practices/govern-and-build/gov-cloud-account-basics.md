@@ -26,7 +26,7 @@ sources:
 
 ## Why this matters
 
-The root user of a cloud account can do anything, including delete everything and run up enormous bills. Leaked cloud keys get abused within minutes, often to mine cryptocurrency on your credit card. Most cloud breaches aren't clever. They're a leaked key, a missing MFA, or a storage bucket left public.
+The root user of a cloud account can do anything, including delete everything and run up enormous bills. Leaked cloud keys get abused within minutes, often to mine cryptocurrency on your credit card. Most cloud breaches aren't clever: a leaked key, missing MFA, or a public storage bucket.
 
 > [!question] Ask yourself
 > - Who knows the root password for your AWS (or Azure or Google Cloud) account? Is MFA on it?
@@ -48,7 +48,7 @@ The root user of a cloud account can do anything, including delete everything an
 > Root has hardware MFA and no keys, every human logs in through their own identity with MFA, CloudTrail is on in every region, and a budget alert exists.
 
 > [!danger] Attacker's-eye view
-> Stolen cloud credentials (MITRE ATT&CK T1078.004, Cloud Accounts) followed by creating new keys or users to keep access (T1098, Account Manipulation) is the most common cloud intrusion pattern. Logging is how you'd see it. MFA and no long-lived keys are how you'd prevent it.
+> Stolen cloud credentials (MITRE ATT&CK T1078.004, Cloud Accounts) followed by creating new keys or users to keep access (T1098, Account Manipulation) is the most common cloud intrusion pattern. Logging shows it. MFA and no long-lived keys prevent it.
 
 ## Go further
 

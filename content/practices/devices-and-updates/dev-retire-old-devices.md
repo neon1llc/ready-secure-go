@@ -26,7 +26,7 @@ sources:
 
 ## Why this matters
 
-When a manufacturer stops shipping updates, every new security hole stays open forever. Windows 10 reached end of support in October 2025, so millions of PCs stopped getting fixes unless they enrolled in paid extended updates. Old phones, tablets, routers and camera recorders hit the same wall. And the device you got rid of may still hold your photos, saved passwords and client files.
+When a manufacturer stops shipping updates, every new security hole stays open forever. Windows 10 reached end of support in October 2025, so millions of PCs stopped getting fixes unless enrolled in paid extended updates. Old phones, tablets, routers, and camera recorders hit the same wall. And a device you got rid of may still hold your photos, saved passwords, and client files.
 
 > [!question] Ask yourself
 > - Which of your devices are more than five or six years old?

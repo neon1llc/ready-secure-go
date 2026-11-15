@@ -24,7 +24,7 @@ sources:
 
 ## Why this matters
 
-Travel concentrates risk: unfamiliar networks, crowded places, tired attention, devices out of your sight, and sometimes border inspections. Losing a phone abroad with no backup and no second way to log in can lock you out of everything at the worst time.
+Travel concentrates risk: unfamiliar networks, crowded places, tired attention, devices out of your sight, and sometimes border inspections. Losing a phone abroad with no backup and no second way to log in can lock you out of everything.
 
 > [!question] Ask yourself
 > - If your phone were stolen on day one of a trip, could you still log into your email and bank?
@@ -38,7 +38,7 @@ Travel concentrates risk: unfamiliar networks, crowded places, tired attention, 
 4. **Charging:** use your own charger in a wall outlet, or a power bank. Avoid unknown USB ports and cables, or use a data-blocking adapter.
 5. **Networks:** see [Use public Wi-Fi without worrying about it](../networks-and-wifi/net-public-wifi.md). Use your phone hotspot or a reputable VPN for sensitive work.
 6. **In public:** keep devices locked and in sight, watch out for shoulder-surfing, and use a privacy screen on planes and trains.
-7. **Borders:** know your rights and your employer's policy. Power devices fully off before crossing, since that's when encryption protects them best.
+7. **Borders:** know your rights and your employer's policy. Power devices fully off before crossing, since encryption protects them best then.
 8. **Hotels:** don't leave devices unattended and unlocked in the room. Use the safe or take them with you.
 
 > [!success] How do you know it worked?

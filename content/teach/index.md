@@ -1,11 +1,9 @@
 ---
 title: Teach it
-description: "Workshop kits for parents, teachers, small offices and seniors' groups, ready to run, adapt and share."
+description: "Workshop kits for parents, teachers, small offices, and seniors' groups."
 ---
 
-The fastest way to learn something is to teach it. These kits are the sessions I've run for schools, families, offices and community groups, written so anyone comfortable in front of a room can run them.
-
-Every kit follows the same lesson shape: objectives, a hook, the explanation, something interactive, a worked example, practice, common misconceptions, a check for understanding, and sources.
+These kits are the sessions I've run for schools, families, offices, and community groups, written so anyone comfortable in front of a room can run them. Each has objectives, a hook, an explanation, an interactive part, a worked example, practice, misconceptions, a check for understanding, and sources.
 
 ## Kits
 
@@ -15,8 +13,8 @@ Every kit follows the same lesson shape: objectives, a hook, the explanation, so
 
 ## Running a good session
 
-- **Ask before you tell.** Start with "what's the weirdest message you've gotten lately?" Everyone has a story, and stories are the hook.
-- **Live demos beat slides.** Show a real (harmless) phishing email, check a breach site together, set up two-step login on a volunteer's phone.
+- **Ask before you tell.** Start with "what's the weirdest message you've gotten lately?" Everyone has a story.
+- **Demo live.** Show a real, harmless phishing email, check a breach site together, or set up two-step login on a volunteer's phone.
 - **No shame, no fear.** Laugh about the ones we almost fell for.
-- **Leave with one action.** Hand out the [printable checklist](../printables/index.md) and ask everyone to do *one* thing before they leave the room.
-- **Free sessions:** schools, students and community groups can often get a session from neon1 at no cost. Ask at [neon1.tech](https://neon1.tech).
+- **Leave with one action.** Hand out the [printable checklist](../printables/index.md) and ask everyone to do *one* thing before they leave.
+- **Free sessions:** schools, students, and community groups can often get a session from neon1 at no cost. Ask at [neon1.tech](https://neon1.tech).

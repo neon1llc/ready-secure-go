@@ -3,7 +3,7 @@ title: Devices & Updates
 description: "Phones, laptops, tablets, cameras and smart gadgets: keeping them updated, locked, encrypted and retired properly."
 ---
 
-Every device is a little computer with doors and windows. Updates fix broken locks. Encryption makes stolen devices useless. And the device that stopped getting updates years ago is often the weakest point in a home or office.
+Updates fix broken locks, and encryption makes stolen devices useless. A device that stopped getting updates years ago is often the weakest point in a home or office.
 
 > [!question] Ask yourself
 > - Which device in your home or office is the oldest? Does it still get updates?

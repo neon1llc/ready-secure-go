@@ -3,7 +3,7 @@ title: Home & Family
 description: "The household: parents, kids, partners, roommates, the router in the closet and the cameras by the door."
 ---
 
-A home network is a tiny organization with no IT department. Kids, grandparents, smart TVs, cameras, game consoles, and one router holding it all together. The goal isn't to lock everything down. It's to make the family hard to scam, quick to recover, and comfortable talking about what happens online.
+A home network is a tiny organization with no IT department: kids, grandparents, smart TVs, cameras, game consoles, and one router. The goal is a family that's hard to scam, quick to recover, and comfortable talking about what happens online.
 
 > [!question] Ask yourself
 > - Would your kids tell you if something online scared or embarrassed them?

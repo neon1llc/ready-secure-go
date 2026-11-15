@@ -24,20 +24,20 @@ sources:
 
 ## Why this matters
 
-What you share online adds up. A birthday post, a check-in at your kid's school, a photo of a new car in front of your house, the answers to "what was your first pet's name?" quizzes. Together they become a profile that makes scams, account recovery attacks and even physical stalking easier. Most of it is shared by default settings, not by choice.
+What you share online adds up: a birthday post, a check-in at your kid's school, a photo of a new car in front of your house, answers to "first pet's name?" quizzes. Together they make a profile that eases scams, account recovery attacks, and even stalking. Much of it is shared by default settings, not by choice.
 
 > [!question] Ask yourself
 > - Search your own name, then your name plus your city. What comes up?
 > - Which apps on your phone can see your location *all the time*? Do they need to?
-> - Could a stranger work out your home address, your daily routine or your kid's school from your public posts?
+> - Could a stranger work out your home address, your daily routine, or your kid's school from your public posts?
 
 ## Do it
 
-1. **Phone permissions:** iPhone, Settings > Privacy & Security (also run **Safety Check**). Android, Settings > Security & privacy > Privacy dashboard. Turn off location, microphone, contacts and photos access for apps that don't need them. Prefer "While Using" over "Always".
+1. **Phone permissions:** iPhone, Settings > Privacy & Security (also run **Safety Check**). Android, Settings > Security & privacy > Privacy dashboard. Turn off location, microphone, contacts, and photos access for apps that don't need them. Prefer "While Using" over "Always".
 2. **Google:** myaccount.google.com/privacycheckup. Review Web & App Activity, Location History/Timeline, and ad personalization.
 3. **Apple:** review Significant Locations and analytics sharing.
 4. **Social media:** set accounts to private or friends-only where you can, limit who can find you by phone number or email, hide your friends list, and turn off location tags on photos.
-5. **Remove** old posts that reveal addresses, schedules or security-question answers.
+5. **Remove** old posts that reveal addresses, schedules, or security-question answers.
 6. **Security questions:** don't answer them truthfully. Make up answers and store them in your password manager.
 7. **Kids' accounts:** use the platform's teen settings and family pairing, and go through it *with* them. See [Have the family tech talk, and keep having it](../people-and-culture/ppl-family-tech-talk.md).
 

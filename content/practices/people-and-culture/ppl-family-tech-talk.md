@@ -28,7 +28,7 @@ sources:
 
 ## Why this matters
 
-Parental controls help, but no setting replaces a kid who will come to you when something goes wrong. The most serious online harms to kids, like **sextortion** (someone tricks a kid into sharing an image, then threatens to spread it unless they pay or send more), work by making the child feel ashamed and alone. The FBI has warned repeatedly about sharp increases in sextortion targeting teenage boys especially. The single most protective thing is a kid who knows: *you can tell me anything, and I'll help, not punish.*
+Parental controls help, but no setting replaces a kid who comes to you when something goes wrong. The most serious online harms, like **sextortion** (someone tricks a kid into sharing an image, then threatens to spread it unless they pay or send more), work by making the child feel ashamed and alone. The FBI has repeatedly warned of sharp increases in sextortion targeting teenage boys especially. The best protection is a kid who knows: *you can tell me anything, and I'll help, not punish.*
 
 > [!question] Ask yourself
 > - If your child saw something scary or embarrassing online tonight, would they tell you? How sure are you?
@@ -48,7 +48,7 @@ Parental controls help, but no setting replaces a kid who will come to you when 
 4. **Set up the controls** on their devices together: Apple Screen Time, Google Family Link, and the game console's family settings, with age-appropriate limits and purchase approvals.
 5. **Teach the scam reflex** ([Learn the scam reflex, pause and verify](../scams-and-social-engineering/scam-pause-and-verify.md)): free game currency, "you won", friend requests from strangers, a "friend" with a new account.
 6. **Know the emergency steps for sextortion:** don't pay, don't send more, keep the messages, block and report, and use **NCMEC's Take It Down** (takeitdown.ncmec.org) to help remove images. Report to the **CyberTipline** (report.cybertip.org) or the FBI.
-7. **Revisit it** every few months, and whenever there's a new device, app or birthday.
+7. **Revisit it** every few months, and whenever there's a new device, app, or birthday.
 
 > [!success] How do you know it worked?
 > Your kid has told you about something weird they saw online, and you reacted calmly. That's the real test.

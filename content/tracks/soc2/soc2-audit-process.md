@@ -1,6 +1,6 @@
 ---
 title: Type I, Type II, auditors and timelines
-description: "How the audit actually works, how long it takes, and how to pick an auditor."
+description: "How the audit works, how long it takes, and how to pick an auditor."
 tags: [soc2]
 ---
 
@@ -10,7 +10,7 @@ tags: [soc2]
 |---|---|---|
 | Question answered | Are your controls **designed** properly, as of one date? | Are your controls designed properly **and operating effectively** over a period? |
 | Period | A single point in time | Usually 3 to 12 months (the "observation window") |
-| What customers think | A good first step | What most customers really want |
+| What customers think | A good first step | What most customers want |
 
 A common path: readiness, then a Type I, then a Type II with a shorter first window, then annual Type IIs with a 12-month window.
 
@@ -28,12 +28,12 @@ A common path: readiness, then a Type I, then a Type II with a shorter first win
 - Only a **licensed CPA firm** can issue a SOC 2 report. Check that they do SOC 2 regularly for companies your size and in your industry.
 - Ask about: their process, who does the work, how they handle exceptions, timelines, and price for Type I and Type II.
 - Your **readiness advisor and your auditor should be different people**, since auditors must stay independent.
-- Big customers sometimes have opinions about which firms they trust. Ask them.
+- Big customers sometimes prefer certain firms. Ask them.
 
 ## Between reports
 
-- **Bridge letters** cover the gap between your report's end date and today, when customers ask.
-- Keep running controls continuously. The next window starts when the last one ends.
+- **Bridge letters** cover the gap between your report's end date and today when customers ask.
+- Keep running controls continuously. The next window starts when the last ends.
 
 > [!question] Ask yourself
 > - When does your biggest prospect need the report? Count backward from that date.

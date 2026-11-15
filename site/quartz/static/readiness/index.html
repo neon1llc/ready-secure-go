@@ -7,7 +7,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Readiness check · Ready, Secure, Go</title>
-  <meta name="description" content="Pick where you are, mark what you've already done, and see your neon1 level and the next three things to do.">
+  <meta name="description" content="Pick where you are, mark what you've done, and see your level and the next three things to do.">
   <link rel="icon" href="../icon.png">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=JetBrains+Mono:wght@500;700&display=swap">
@@ -24,7 +24,7 @@
 
   <main>
     <h1>How ready are you?</h1>
-    <p class="lede">Pick where you are. Then go down the list and mark what's already true. It takes about five minutes, and nothing you click leaves this browser.</p>
+    <p class="lede">Pick where you are, then mark what's already true. It takes about five minutes, and nothing you click leaves this browser.</p>
 
     <section aria-labelledby="space-h">
       <h2 id="space-h"><span class="step">1</span> Where are you?</h2>
@@ -33,7 +33,7 @@
 
     <section id="questions" aria-labelledby="q-h" hidden>
       <h2 id="q-h"><span class="step">2</span> What's already true?</h2>
-      <p class="hint">Be honest. "Started" counts for something, and "Doesn't fit" takes a practice out of your score.</p>
+      <p class="hint">Be honest. "Started" counts for something. "Doesn't fit" takes a practice out of your score.</p>
       <div id="lights"></div>
     </section>
 
@@ -44,7 +44,7 @@
         <p id="verdict"></p>
       </div>
       <h3>Your grid</h3>
-      <p class="hint">One row per area. A filled cell means everything at that level is done. A half cell means you've started.</p>
+      <p class="hint">One row per area. A filled cell means that level is done. A half cell means you've started.</p>
       <table id="grid" class="grid"></table>
       <h3>Do these next</h3>
       <ol id="next" class="next"></ol>
@@ -56,7 +56,7 @@
   </main>
 
   <footer>
-    From <a href="../../">Ready, Secure, Go</a> by neon1 LLC. Content under CC BY-SA 4.0. See the <a href="../../levels/grid">maturity grid</a> for every practice at once.
+    From <a href="../../">Ready, Secure, Go</a> by neon1 LLC. Content under CC BY-SA 4.0. See the <a href="../../levels/grid">maturity grid</a> for every practice.
   </footer>
 
   <script src="readiness.js"></script>

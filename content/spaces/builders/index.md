@@ -3,7 +3,7 @@ title: Builders
 description: "Developers, cloud and IT folks: shipping software and infrastructure that's secure by default."
 ---
 
-If you build things, you're making security decisions for everyone who uses them. The OWASP projects and MITRE ATT&CK are the backbone here, and cloud accounts deserve the same care as production code. The aim is habits in the pipeline, not a scramble before an audit.
+You make security decisions for everyone who uses what you build. OWASP and MITRE ATT&CK are the backbone here, and cloud accounts need the same care as production code. Build the habits into the pipeline instead of scrambling before an audit.
 
 > [!question] Ask yourself
 > - What stops a leaked key in your repository from becoming a cloud bill or a breach?

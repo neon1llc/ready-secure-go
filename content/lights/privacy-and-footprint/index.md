@@ -3,7 +3,7 @@ title: Privacy & Footprint
 description: "What's out there about you: settings, data brokers, breaches, the dark web, and identity protection."
 ---
 
-Privacy is security's quieter twin. Every detail out there about you, from your address to your pet's name to your kids' school, is raw material for scams, account takeovers and worse. You can't erase everything, but you can shrink your footprint and make leaked data useless.
+Every detail about you online, from your address to your pet's name to your kids' school, is raw material for scams and account takeovers. You can't erase everything, but you can shrink your footprint and make leaked data useless.
 
 > [!question] Ask yourself
 > - Search your own name and city. What would a stranger learn in two minutes?

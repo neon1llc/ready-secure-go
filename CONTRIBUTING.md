@@ -1,25 +1,23 @@
 # Contributing
 
-Thanks for wanting to make this better. A few ground rules keep it trustworthy.
-
 ## What helps most
 
-- Fixing advice that's wrong or out of date. Security changes fast.
+- Fixing advice that's wrong or out of date.
 - Making a page easier to understand without making it less accurate.
-- Adding a practice card that's missing, using the template in `content/_templates/practice-card.md`.
-- Translations, accessibility fixes and printable versions.
+- Adding a missing practice card, using `content/_templates/practice-card.md`.
+- Translations, accessibility fixes, and printable versions.
 
 ## How to write here
 
-- **Talk to a person, not a committee.** Short sentences. Explain why before how. Ask the reader a question they'll want to answer.
-- **Plain words, real depth.** Define a technical term the first time it appears, then use it. Don't dumb it down. Open it up.
+- **Short sentences.** Explain why before how.
+- **Plain words, real depth.** Define a technical term once, then use it.
 - **Every step can be checked.** Each practice ends with a "How do you know it worked?" line.
-- **No fear selling.** Say what the risk is and how likely it is. Skip the hacker-in-a-hoodie drama.
-- **No product shilling.** Name tools when it helps and say why. Prefer free and open options, and always give more than one.
+- **No fear selling.** Say what the risk is and how likely it is.
+- **No product pushing.** Name a tool only when it helps, and say why. Prefer free and open options, and give more than one.
 
 ## Sources and licenses
 
-All content here is CC BY-SA 4.0. Anything you bring in must be compatible:
+All content is CC BY-SA 4.0. Anything you bring in must be compatible:
 
 | You can copy and adapt | Link only, don't copy |
 |---|---|
@@ -37,8 +35,8 @@ npm run documents             # from site/, after a build: PDF and Word handouts
 node tools/build-docs.mjs --only scam-family --no-docx   # one handout while you work on it
 ```
 
-Handouts follow the Markdown, so a well-structured page makes a good handout with no extra work. Keep to the card template: short numbered steps that open with a bold lead, and callouts for questions, checks and the attacker's view.
+Handouts follow the Markdown. Keep to the card template: short numbered steps that open with a bold lead, and callouts for questions, checks, and the attacker's view.
 
 ## Branches and commits
 
-See [VCS-ETIQUETTE.md](VCS-ETIQUETTE.md) for branch names, commit messages, and how the rules change at `v1.0.0`.
+[VCS-ETIQUETTE.md](VCS-ETIQUETTE.md) covers branch names, commit messages, and how the rules change at `v1.0.0`.
