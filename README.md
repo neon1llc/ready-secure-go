@@ -10,7 +10,7 @@ From [neon1](https://neon1.tech). *1 is glad to be of service.*
 
 ## Start where you are
 
-Pick the space that sounds like you. Each gives you five things to do first, then what comes next.
+Each space gives you five things to do first, then what comes next.
 
 | Space | For |
 |---|---|
@@ -29,7 +29,7 @@ Already in trouble? Go to the [playbooks](content/playbooks/index.md).
 
 ## How it's organized
 
-Every practice sits in three places, so you can find it from any direction:
+Every practice sits in three places:
 
 - **Space**: who and where you are (above).
 - **Light**: the part of security it covers. There are ten: [Accounts & Identity](content/lights/accounts-and-identity/index.md), [Devices & Updates](content/lights/devices-and-updates/index.md), [Data & Backups](content/lights/data-and-backups/index.md), [Networks & Wi-Fi](content/lights/networks-and-wifi/index.md), [Scams & Social Engineering](content/lights/scams-and-social-engineering/index.md), [Privacy & Footprint](content/lights/privacy-and-footprint/index.md), [People & Culture](content/lights/people-and-culture/index.md), [Physical & Travel](content/lights/physical-and-travel/index.md), [Respond & Recover](content/lights/respond-and-recover/index.md), [Govern & Build](content/lights/govern-and-build/index.md).
@@ -37,7 +37,7 @@ Every practice sits in three places, so you can find it from any direction:
 
 A **practice card** is one thing to do, why it matters, the steps, and how to check it worked. Cards live in [`content/practices/`](content/practices/).
 
-Tracks cover one topic from start to finish:
+Tracks:
 
 - [SOC 2 readiness](content/tracks/soc2/index.md): what auditors look for.
 - [Discovery](content/tracks/discovery/index.md): the walk-through of a whole environment that I do with every client. You can run it yourself.
