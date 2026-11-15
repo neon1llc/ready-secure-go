@@ -15,7 +15,7 @@ tags: [playbook]
 
 ## Close the back doors (same day)
 
-Attackers often set things up to keep access even after you change your password:
+Attackers often set up ways to keep access after you change your password:
 
 - **Recovery email and phone:** remove any you don't recognize ([Make sure you can get back into your own accounts](../practices/accounts-and-identity/acct-recovery-check.md)).
 - **Forwarding rules and filters:** in Gmail check Settings > Forwarding and Filters. In Outlook check Rules and Forwarding. Delete anything you didn't create, especially rules that forward or delete messages.
@@ -32,9 +32,9 @@ Attackers often set things up to keep access even after you change your password
 
 ## Afterwards
 
-- Run a malware scan on the devices you use for that account, and update them.
+- Scan the devices you use for that account for malware, and update them.
 - Report: **ReportFraud.ftc.gov**, or **IdentityTheft.gov** if your identity was misused.
-- Write down what happened and when. It helps with banks, insurers and any police report.
+- Write down what happened and when. It helps with banks, insurers, and police reports.
 
 ## Next time
 

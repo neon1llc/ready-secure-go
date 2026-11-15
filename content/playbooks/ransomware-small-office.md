@@ -4,7 +4,7 @@ description: "Contain it, call the right people, preserve evidence, and recover 
 tags: [playbook]
 ---
 
-**Signs:** files with strange extensions that won't open, a ransom note on screens or in folders, everything suddenly slow, or a call from your IT provider.
+**Signs:** files with strange extensions that won't open, a ransom note, everything suddenly slow, or a call from your IT provider.
 
 ## The first hour
 
@@ -26,18 +26,18 @@ tags: [playbook]
 
 ## Report
 
-- **FBI:** ic3.gov, or your local FBI field office. **CISA:** report.cisa.gov. Reporting can help with decryption keys, and it's often expected by insurers.
+- **FBI:** ic3.gov, or your local FBI field office. **CISA:** report.cisa.gov. Reporting can help with decryption keys, and insurers often expect it.
 - Notify customers, regulators or partners as your lawyer advises. Many U.S. states have breach notification laws with deadlines.
 
 ## Recover
 
 - Rebuild affected machines from clean images, **then** restore data from backups, scanning as you go.
 - Bring systems back in priority order: whatever keeps the business running first.
-- Watch closely for weeks afterward. Attackers sometimes come back.
+- Watch closely for weeks. Attackers sometimes come back.
 
 ## About paying
 
-It's a business and legal decision to make *with* your insurer, lawyer and responders, never alone and never first. Payment doesn't guarantee decryption or deletion of stolen data, and some payments may be illegal if the group is sanctioned.
+Decide *with* your insurer, lawyer, and responders, never alone and never first. Payment doesn't guarantee decryption or deletion of stolen data, and some payments may be illegal if the group is sanctioned.
 
 ## Next time
 

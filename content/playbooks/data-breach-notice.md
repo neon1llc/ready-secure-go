@@ -4,11 +4,11 @@ description: "A company says your data was exposed. Find out what leaked, then d
 tags: [playbook]
 ---
 
-Breach notices are common, and most don't lead to harm *if* you act on what leaked. Don't panic, but don't ignore it.
+Most breaches don't lead to harm *if* you act on what leaked. Don't ignore the notice.
 
 ## First: is the notice real?
 
-Scammers send fake breach notices to steal information. **Don't click links or call numbers in the notice.** Go to the company's website yourself, or search for news of the breach, and check that it matches.
+Scammers send fake breach notices. **Don't click links or call numbers in the notice.** Go to the company's website yourself, or search for news of the breach, and check that it matches.
 
 ## Then match your action to what leaked
 
@@ -25,13 +25,13 @@ Scammers send fake breach notices to steal information. **Don't click links or c
 
 ## Take what they offer
 
-Free credit monitoring is worth accepting. Sign up directly through the company's official site.
+Accept free credit monitoring. Sign up through the company's official site.
 
 ## If you're the organization that was breached
 
-- Call your lawyer and cyber insurer first. Notification rules depend on the data, the state and your contracts.
+- Call your lawyer and cyber insurer first. Notification rules depend on the data, the state, and your contracts.
 - The FTC's *Data Breach Response: A Guide for Business* is a solid free checklist.
-- Be honest, clear and quick with the people affected. Tell them exactly what leaked and what to do, ideally linking to a table like the one above.
+- Tell affected people quickly and plainly what leaked and what to do, ideally with a table like the one above.
 
 ## Next time
 

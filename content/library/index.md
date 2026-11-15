@@ -1,9 +1,9 @@
 ---
 title: Library
-description: "The frameworks, standards and sources behind Ready, Secure, Go, what each is for, and how we use it."
+description: "The frameworks, standards, and sources behind Ready, Secure, Go, and how each is used."
 ---
 
-You don't need any of these to get started. They matter when you need to show your work to customers, insurers, auditors or regulators, or when you want to go deeper.
+You don't need any of these to get started. They matter when customers, insurers, auditors, or regulators want proof, or when you want to go deeper.
 
 ## Featured frameworks
 
@@ -36,7 +36,7 @@ maps:
   attack: [T1078]            # MITRE ATT&CK technique
 ```
 
-These are honest approximations to help you find related requirements, not official mappings.
+These are approximations to help you find related requirements, not official mappings.
 
 ## Free sources worth bookmarking
 
