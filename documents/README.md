@@ -1,6 +1,6 @@
 # Handouts
 
-Every practice card, playbook, teach kit, track page and printable is also built as a PDF and a Word file in neon1 colors. They come from the same Markdown as the site, so nobody keeps two copies.
+Every practice card, playbook, teach kit, track page, and printable is also built as a PDF and a Word file in neon1 colors. They come from the same Markdown as the site.
 
 ## How they're made
 
@@ -12,11 +12,11 @@ Every practice card, playbook, teach kit, track page and printable is also built
 | [`reference.docx`](reference.docx) | Word styles for the DOCX files. Rebuild it with `node tools/make-reference-docx.mjs` |
 | [`fonts/`](fonts) | Inter and JetBrains Mono, under the SIL Open Font License |
 
-PDFs are printed by Chromium through Playwright. Word files come from [pandoc](https://pandoc.org). If either tool is missing, the build skips that format and says so.
+Chromium prints the PDFs through Playwright, and [pandoc](https://pandoc.org) writes the Word files. If either is missing, the build skips that format and says so.
 
 ## Fonts
 
-The handouts ask for **Aptos** first. Aptos is Microsoft's font and can't be shipped here, so:
+The handouts ask for **Aptos** first. It's Microsoft's font and can't be shipped here, so:
 
 - **Word files** always name Aptos. They show it in Microsoft 365 and recent Windows, and fall back elsewhere.
 - **PDFs** embed whatever font the build machine has. Built on a Mac or PC with Microsoft 365, they use Aptos. Built anywhere else, including CI, they use the bundled Inter.
@@ -30,7 +30,7 @@ npx playwright install chromium
 npm run build:all
 ```
 
-Files land in `public/downloads/`, next to the site, at the same path as the page. For example, `content/playbooks/hacked-email.md` becomes `public/downloads/playbooks/hacked-email.pdf` and `.docx`.
+Files land in `public/downloads/` at the same path as the page. For example, `content/playbooks/hacked-email.md` becomes `public/downloads/playbooks/hacked-email.pdf` and `.docx`.
 
 Useful flags for `node tools/build-docs.mjs`:
 

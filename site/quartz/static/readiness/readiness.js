@@ -14,10 +14,10 @@ const ANSWERS = [
 
 // Words for the score, so the result reads as a next step and not a grade
 const VERDICTS = [
-  "You're at Dark, like most people and most offices. The good news: the Spark practices below take an afternoon and stop most of what goes wrong.",
-  "You're at Spark. The essentials are on. Next comes making them habits and writing down the few things others need to know.",
-  "You're at Glow. Your basics are habits and written down. Next is checking that they work, such as a restore test or a practice run.",
-  "You're at Bright. You test and practice. That's audit-ready territory for an organization.",
+  "You're at Dark, like most people and offices. The Spark practices below take an afternoon and stop most of what goes wrong.",
+  "You're at Spark. The essentials are on. Next, make them habits and write down what others need to know.",
+  "You're at Glow. Your basics are habits and written down. Next, check that they work with a restore test or a practice run.",
+  "You're at Bright. You test and practice. For an organization, that's audit-ready.",
   "You're at Neon. Now the best move is helping someone else get to Spark.",
 ]
 
@@ -189,7 +189,7 @@ function drawResults() {
   $("next").replaceChildren(
     ...(todo.length
       ? todo.map((p) => el("li", {}, el("a", { href: practiceUrl(p), text: p.title }), ` (${LEVEL_NAMES[p.level]}). ${p.summary}`))
-      : [el("li", { text: "Everything here is done or doesn't fit. Look at the next level up on the maturity grid." })]),
+      : [el("li", { text: "Everything here is done or doesn't fit. Check the next level on the maturity grid." })]),
   )
 }
 
