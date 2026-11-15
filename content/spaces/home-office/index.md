@@ -3,7 +3,7 @@ title: Home Office
 description: "Remote workers, freelancers and side businesses: work and home on the same network."
 ---
 
-When your office is your kitchen table, your home network is a business network, your personal email might be a business email, and your kid's tablet is sitting next to client files. A few deliberate separations go a long way.
+When your office is your kitchen table, your home network is a business network and your kid's tablet sits next to client files. A few deliberate separations go a long way.
 
 > [!question] Ask yourself
 > - Do family members use the computer you work on?

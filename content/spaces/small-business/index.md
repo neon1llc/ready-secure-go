@@ -3,7 +3,7 @@ title: Small Business
 description: "Offices and shops with 1 to 50 people: protect the money, the data, and the ability to open tomorrow."
 ---
 
-Small businesses are where most of my work happens, and they're targeted constantly. That's not because they're interesting. It's because they have money and data, and usually no full-time security person. The good news: a handful of controls block most real-world attacks, and most of them are free.
+Small businesses are where most of my work happens, and they're targeted constantly. They have money and data, and usually no full-time security person. A handful of controls block most real-world attacks, and most are free.
 
 > [!question] Ask yourself
 > - If your bookkeeper got a convincing email from a real vendor saying "we changed banks", what would happen?

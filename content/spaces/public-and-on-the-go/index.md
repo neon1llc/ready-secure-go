@@ -3,7 +3,7 @@ title: Public & On the Go
 description: "Travel, public Wi-Fi, events, libraries, shared computers and crowded places."
 ---
 
-Out in the world, your devices leave the safety of your home network and your attention gets split. Most of the risk is simple: theft, shoulder-surfing, fake networks and charging spots, and losing access while far from home.
+Away from home, your devices leave your network and your attention splits. Most of the risk is simple: theft, shoulder-surfing, fake networks and charging spots, and losing access while far away.
 
 > [!question] Ask yourself
 > - If your phone were stolen at an airport, could you still get into your email?

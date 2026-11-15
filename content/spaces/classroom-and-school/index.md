@@ -3,12 +3,12 @@ title: Classroom & School
 description: "Teachers, staff and students: protecting student data, classroom tech and the people behind it."
 ---
 
-This is where neon1 began: a grade school, a new STEM edtech system, and teachers and parents who wanted to know how to keep their classrooms and kids safe. Schools hold sensitive data about children, run on tight budgets, and are frequent ransomware targets, according to CISA's K-12 reporting. Every teacher is part of the defense, and every classroom is a chance to teach the next generation good habits.
+neon1 began at a grade school with a new STEM edtech system, and teachers and parents who wanted to keep their classrooms and kids safe. Schools hold sensitive data about children, run on tight budgets, and are frequent ransomware targets, according to CISA's K-12 reporting. Every teacher is part of the defense.
 
 > [!question] Ask yourself
 > - Which apps and websites hold your students' information? Who approved them?
 > - If you got an email from the "principal" asking you to buy gift cards for a staff event, what would you do?
-> - What do your students know about scams, privacy and passwords? Who taught them?
+> - What do your students know about scams, privacy, and passwords? Who taught them?
 
 ## Your first five Sparks
 

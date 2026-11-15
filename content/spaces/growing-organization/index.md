@@ -3,7 +3,7 @@ title: Growing Organization
 description: "Teams with real systems, maybe an IT person, and customers or auditors starting to ask questions."
 ---
 
-Somewhere around 20 to 200 people, security stops being a few good habits and becomes a program. Customers send questionnaires, insurers want proof, and a SOC 2 report starts showing up in sales conversations. This space connects the basics to the frameworks and the evidence.
+Somewhere around 20 to 200 people, security becomes a program. Customers send questionnaires, insurers want proof, and a SOC 2 report comes up in sales conversations. This space connects the basics to the frameworks and the evidence.
 
 > [!question] Ask yourself
 > - Could you produce, today, a list of everyone with admin access to your critical systems?
