@@ -26,7 +26,7 @@ sources:
 
 ## Why this matters
 
-Bots watch public code repositories and grab leaked cloud keys within minutes. Private repositories leak too: through a contractor's laptop, a public fork, or a breach at the code host. Once a secret is in git history, deleting the line doesn't remove it.
+Bots watch public code repositories and grab leaked cloud keys within minutes. Private repositories leak too, through a contractor's laptop, a public fork, or a breach at the code host. Once a secret is in git history, deleting the line doesn't remove it.
 
 > [!question] Ask yourself
 > - Search your repositories for `password`, `secret`, `api_key`, `AKIA` (the start of AWS access keys). What turns up?
@@ -39,7 +39,7 @@ Bots watch public code repositories and grab leaked cloud keys within minutes. P
 2. **Load them at runtime** through environment or the platform's integration. Commit `.env.example` with placeholders, and add `.env` to `.gitignore`.
 3. **Scan:** run gitleaks or trufflehog as a pre-commit hook and in CI. Turn on GitHub secret scanning and push protection.
 4. **Prefer short-lived credentials** (OIDC from CI to cloud, SSO for people) so there's less to leak.
-5. **If a secret leaks: rotate it first,** then clean history. Rotation is what actually protects you. Check the provider's logs for use of the leaked key.
+5. **If a secret leaks, rotate it first,** then clean history. Rotation is what protects you. Check the provider's logs for use of the leaked key.
 
 > [!success] How do you know it worked?
 > A secrets scan of every repository's full history comes back clean (or every finding is rotated), and pushing a fake key gets blocked.

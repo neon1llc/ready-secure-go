@@ -22,11 +22,11 @@ sources:
 
 ## Why this matters
 
-Your security is only as good as the companies holding your data. Payroll providers, IT support firms, school apps, donor databases, website plugins: when one of them is breached, it's your data and your customers' trust. Some of the most damaging attacks of recent years came through a trusted vendor's access or software.
+Your security is only as good as the companies holding your data. When a payroll provider, IT support firm, school app, donor database, or website plugin is breached, it's your data and your customers' trust. Some of the most damaging recent attacks came through a trusted vendor's access or software.
 
 > [!question] Ask yourself
 > - Which vendors could log into your systems right now? (Your IT company's remote tool counts.)
-> - Which vendors hold sensitive data about your clients, students, patients or donors?
+> - Which vendors hold sensitive data about your clients, students, patients, or donors?
 > - If one of them were breached, how would you find out?
 
 ## Do it
@@ -49,7 +49,7 @@ Then:
 > Your vendor tab ([Know what you have](gov-inventory.md)) shows, for every important vendor, the date you last reviewed them and where their answers are kept.
 
 > [!danger] Attacker's-eye view
-> Trusted Relationship (MITRE ATT&CK T1199) and Supply Chain Compromise (T1195) let attackers skip your defenses entirely by coming in through someone you already let in.
+> Trusted Relationship (MITRE ATT&CK T1199) and Supply Chain Compromise (T1195) let attackers skip your defenses by coming in through someone you already let in.
 
 ## Go further
 
