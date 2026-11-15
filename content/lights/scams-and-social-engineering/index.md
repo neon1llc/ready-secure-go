@@ -3,11 +3,11 @@ title: Scams & Social Engineering
 description: "Phishing, fraud, impersonation, voice clones and payment scams: attacks on attention, not technology."
 ---
 
-The most effective attacks don't break technology. They borrow your trust and rush your judgment. That's good news, because the defense is a habit anyone can learn: notice the pressure, pause, and verify through a channel you already trust.
+The most effective attacks don't break technology. They borrow your trust and rush your judgment. The defense is a habit anyone can learn: notice the pressure, pause, and verify through a channel you already trust.
 
 > [!question] Ask yourself
 > - What's the last message that made you feel you had to act *right now*? Who benefited from that rush?
-> - How would you know a call from your bank, your boss or your grandkid was real?
+> - How would you know a call from your bank, your boss, or your grandkid was real?
 > - Who in your organization can send money, and what would stop a fake request?
 
 ## Practices

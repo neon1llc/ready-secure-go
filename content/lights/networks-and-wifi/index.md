@@ -3,7 +3,7 @@ title: Networks & Wi-Fi
 description: "Routers, guest networks, public Wi-Fi, VPNs, and the doors your office leaves open to the internet."
 ---
 
-Your network is the road everything travels on. At home it's usually one box in a closet nobody has looked at since the installer left. In an office it's often a tangle of old decisions. A little attention here protects every device behind it.
+Everything travels over your network. At home it's usually one box in a closet nobody has looked at since the installer left. In an office it's often a tangle of old decisions. A little attention here protects every device behind it.
 
 > [!question] Ask yourself
 > - When did you last log into your router? Do you know how?

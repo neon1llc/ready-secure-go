@@ -3,7 +3,7 @@ title: Respond & Recover
 description: "What to do when something goes wrong: contact sheets, playbooks, practice drills, and getting back to normal."
 ---
 
-Something will go wrong eventually. That's not pessimism, it's planning. The difference between a bad day and a disaster is usually whether you knew who to call, had a backup, and had practiced at least once.
+Something will eventually go wrong. The difference between a bad day and a disaster is usually whether you knew who to call, had a backup, and had practiced once.
 
 > [!question] Ask yourself
 > - If your email were hacked right now, who would you call, and how?

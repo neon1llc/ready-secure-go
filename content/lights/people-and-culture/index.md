@@ -3,7 +3,7 @@ title: People & Culture
 description: "Families, classrooms and teams: talking about security, training that sticks, and access that follows people in and out."
 ---
 
-Security is a team sport, at home and at work. The strongest setup still depends on people who feel safe asking questions, reporting mistakes, and saying "wait, let me check".
+The strongest setup still depends on people who feel safe asking questions, reporting mistakes, and saying "wait, let me check".
 
 > [!question] Ask yourself
 > - If your kid or coworker clicked something bad, would they tell you?
