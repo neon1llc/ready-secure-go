@@ -20,7 +20,7 @@ sources:
 
 ## Why this matters
 
-Cloning a voice now takes only a few seconds of audio from a social media video. "Grandparent scams" and "family emergency" calls use those cloned voices: it sounds exactly like your kid, crying, saying they've been arrested or hurt and need money now. Businesses get the same trick with a cloned "CEO" asking for an urgent transfer.
+Cloning a voice now takes only a few seconds of audio from a social media video. "Grandparent scams" and "family emergency" calls use cloned voices: it sounds exactly like your kid, crying, saying they've been arrested or hurt and need money now. Businesses get the same trick with a cloned "CEO" asking for an urgent transfer.
 
 > [!question] Ask yourself
 > - Could you tell a perfect copy of your child's or parent's voice from the real thing, when they sound panicked?
@@ -28,7 +28,7 @@ Cloning a voice now takes only a few seconds of audio from a social media video.
 
 ## Do it
 
-1. **Pick a word or phrase** that isn't guessable or online: not a pet's name or a street. Something silly works well ("purple lasagna").
+1. **Pick a word or phrase** that isn't guessable or online, so not a pet's name or a street. Something silly works ("purple lasagna").
 2. **Share it in person** with family, including grandparents and older kids. Don't text it.
 3. **The rule:** any call or message asking for money or secrecy in an emergency must include the code word. No word, no money, no matter how real it sounds.
 4. **Also:** hang up and call the person back on their known number. Call another family member.
