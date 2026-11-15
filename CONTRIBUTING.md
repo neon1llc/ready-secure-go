@@ -39,4 +39,4 @@ Handouts follow the Markdown. Keep to the card template: short numbered steps th
 
 ## Branches and commits
 
-[VCS-ETIQUETTE.md](VCS-ETIQUETTE.md) covers branch names, commit messages, and how the rules change at `v1.0.0`.
+[VCS-ETIQUETTE.md](VCS-ETIQUETTE.md) covers branch names, commit messages, and the rules at `v1.0.0`.
