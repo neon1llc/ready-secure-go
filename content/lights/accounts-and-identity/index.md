@@ -3,7 +3,7 @@ title: Accounts & Identity
 description: "Passwords, password managers, two-step login, passkeys, and who has the keys to what."
 ---
 
-Your accounts are where your life lives now: money, messages, photos, work, school. And almost everything resets through one place, your email.
+Your accounts hold your money, messages, photos, work, and school. Almost everything resets through one place, your email.
 
 > [!question] Ask yourself
 > - If someone had your email password right now, what could they reach from there?
@@ -12,7 +12,7 @@ Your accounts are where your life lives now: money, messages, photos, work, scho
 
 ## The big idea
 
-Attackers rarely "hack" accounts. They log in with passwords that leaked somewhere else, or they trick you into typing them into a fake page. So the defenses are simple and strong: a unique password everywhere (a password manager does it), a second step that a thief doesn't have, and recovery options that point to *you*.
+Attackers rarely "hack" accounts. They log in with passwords leaked elsewhere, or trick you into typing them into a fake page. The defenses are a unique password everywhere (a password manager does it), a second step a thief doesn't have, and recovery options that point to *you*.
 
 ## Practices
 

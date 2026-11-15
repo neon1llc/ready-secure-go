@@ -4,7 +4,7 @@ description: "Turn criteria into concrete controls, then collect the proof an au
 tags: [soc2]
 ---
 
-A **control** is something you do, consistently, that meets a criterion. **Evidence** is proof you did it. For a Type II, the auditor picks samples from across the period, such as five new hires, three changes from different months or two quarterly access reviews, and asks to see the proof for each.
+A **control** is something you do, consistently, that meets a criterion. **Evidence** is proof you did it. For a Type II, the auditor samples across the period, such as five new hires, three changes from different months, or two quarterly access reviews, and asks for proof of each.
 
 ## Common controls and the evidence behind them
 
@@ -13,7 +13,7 @@ A **control** is something you do, consistently, that meets a criterion. **Evide
 | MFA required on email, identity provider, cloud and code repository | Settings screenshots or exports showing enforcement |
 | Access is approved before it's granted | Tickets or requests with approvals for sampled new hires |
 | Access is removed promptly when people leave | For sampled leavers: last day vs. account disable date |
-| Quarterly access reviews | Review records with dates, reviewers and changes made |
+| Quarterly access reviews | Review records with dates, reviewers, and changes made |
 | Code changes are peer reviewed and tested before deploy | Pull requests with approvals and passing checks, plus branch protection settings |
 | Laptops are encrypted, updated and protected against malware | Device management reports |
 | Vulnerability scanning and patching | Scan reports and remediation tickets with dates |
@@ -32,8 +32,8 @@ A **control** is something you do, consistently, that meets a criterion. **Evide
 
 ## Tips
 
-- **Automate evidence where you can.** Many controls leave a trail on their own (pull requests, device management, identity provider logs). Compliance automation platforms can gather evidence too, but they don't replace actually running the controls.
-- **Use tickets for everything** human: access requests, reviews, incidents, vendor reviews. Tickets are evidence with timestamps.
-- **Exceptions happen.** If you miss a control, document it, fix it, and show the fix. Auditors care about how you respond.
+- **Automate evidence where you can.** Many controls leave their own trail (pull requests, device management, identity provider logs). Compliance automation platforms can gather evidence too, but they don't replace running the controls.
+- **Use tickets for human work:** access requests, reviews, incidents, and vendor reviews. Tickets are timestamped evidence.
+- **Exceptions happen.** If you miss a control, document it, fix it, and show the fix.
 
 Next: [Type I, Type II, auditors and timelines](soc2-audit-process.md)
