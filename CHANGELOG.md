@@ -3,9 +3,11 @@
 Ready, Secure, Go releases use `v0.MINOR.PATCH` until the first complete release, v1.0.0, following neon1's [versioning standard](https://neon1.tech/knowledge/standards/versioning/). Each version below has an annotated tag on the commit it names; the release workflow adds missing tags and never moves one.
 
 
-## Unreleased
+## v0.1.4 - 2026-11-15
 
+### Changed
 - Cut wording that repeats a table, list, or linked page.
+- Each release's changelog entry is published as its GitHub release.
 
 ## v0.1.3 - 2026-11-15
 
