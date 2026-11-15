@@ -2,9 +2,7 @@
 title: Levels
 ---
 
-Neon gets brighter the more current you run through it. So does security.
-
-Every practice card has a level. Every Space has a path that climbs through them. You don't have to finish one level before peeking at the next, but the lower levels carry most of the weight.
+Every practice card has a level, and every Space has a path that climbs through them. You can peek at the next level early, but the lower levels carry most of the weight.
 
 | Level | Name | For a person or family | For an organization |
 |---|---|---|---|
@@ -19,11 +17,11 @@ Every practice card has a level. Every Space has a path that climbs through them
 > - If your laptop died tomorrow, what would you lose forever?
 > - If someone in your office got a convincing fake invoice, who would they ask before paying it?
 
-If you hesitated on any of those, the Spark cards in your Space are where to start. The [readiness check](../check/index.md) finds your level in five minutes, and the [maturity grid](grid.md) lays out every practice by area and level.
+If you hesitated on any of those, start with the Spark cards in your Space. The [readiness check](../check/index.md) finds your level in five minutes, and the [maturity grid](grid.md) shows every practice by area and level.
 
 ## Lining up with frameworks
 
-Organizations often need to show their work to customers, insurers or auditors. Here's roughly how neon1 levels line up. It's a rough map, not an official equivalence.
+Customers, insurers, or auditors may ask organizations to show their work. This is a rough map, not an official equivalence.
 
 | neon1 level | NIST CSF 2.0 tier | Essential Eight maturity | CIS Controls | SOC 2 |
 |---|---|---|---|---|

@@ -3,13 +3,13 @@ title: Maturity grid
 description: "Every practice on one page, by area and level. Read across a row to see how one area grows up."
 ---
 
-Each row is one Light, an area of security. Each column is a level. Read a row left to right and you can see what "getting better" looks like in that area, from the first afternoon of work to the habits of a team that's ready for an audit.
+Each row is one Light, an area of security. Each column is a level. Read a row left to right to see what getting better looks like in that area.
 
 > [!question] Ask yourself
 > - Which row are you strongest in? Which one have you never thought about?
 > - Is there a row where you're at Glow but skipped a Spark?
 
-Practices sit in the row of their main Light. Empty cells are on the way. For a personal score, take the [readiness check](../check/index.md).
+Practices sit in the row of their main Light. For a personal score, take the [readiness check](../check/index.md).
 
 <!-- cards:start -->
 | Light | 1 · Spark | 2 · Glow | 3 · Bright | 4 · Neon |

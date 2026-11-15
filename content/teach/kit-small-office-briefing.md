@@ -1,23 +1,23 @@
 ---
 title: "Kit: the 60-minute small office security briefing"
-description: "A practical security briefing for small business teams: scams, payments, accounts, devices and reporting."
+description: "A security briefing for small business teams on scams, payments, accounts, devices, and reporting."
 tags: [teach, kit]
 ---
 
-**Audience:** everyone in a small office, from the owner to the newest hire. **Length:** 60 minutes. **You'll need:** a projector, examples of real phishing emails the office received (names removed), printed [office checklists](../printables/office-spark-checklist.md).
+**Audience:** everyone in a small office, from the owner to the newest hire. **Length:** 60 minutes. **You'll need:** a projector, real phishing emails the office received (names removed), and printed [office checklists](../printables/office-spark-checklist.md).
 
 ## Objectives
 
 By the end, every participant can:
 
 1. Recognize business email compromise and follow the payment-verification rule.
-2. Report a suspicious message in under 30 seconds, and knows they won't be blamed.
+2. Report a suspicious message in under 30 seconds, knowing they won't be blamed.
 3. Confirm MFA is on for their work accounts.
 4. Name the first three steps if they think they clicked something bad.
 
 ## Hook (5 min)
 
-Show a real, convincing fake invoice email (anonymized) and ask: *"Who in this room would pay this?"* Then reveal the one detail that gives it away. *"The criminals who sent this do it all day, to thousands of offices. Today we make sure this office is one they give up on."*
+Show a real, convincing fake invoice email (anonymized) and ask: *"Who in this room would pay this?"* Then reveal the one detail that gives it away. *"The criminals who sent this do it all day, to thousands of offices. Today we make this office one they give up on."*
 
 ## Explanation (20 min)
 
@@ -31,18 +31,18 @@ Show a real, convincing fake invoice email (anonymized) and ask: *"Who in this r
 
 ## Worked example (5 min)
 
-Walk through reporting: click the "Report phishing" button (or forward to the report address) live on screen. Show what happens next ([Make reporting a phish easy, quick and blame-free](../practices/scams-and-social-engineering/scam-report-phishing.md)).
+Report a message live on screen with the "Report phishing" button or the report address. Show what happens next ([Make reporting a phish easy, quick and blame-free](../practices/scams-and-social-engineering/scam-report-phishing.md)).
 
 ## Practice (10 min)
 
-Role-play: one person calls "the bookkeeper" pretending to be a vendor who changed banks. The bookkeeper practices the callback rule. Then: "You clicked a link and entered your password. What now?" Walk through the steps: report immediately, change the password, IT signs out sessions.
+Role-play: one person calls "the bookkeeper" pretending to be a vendor who changed banks, and the bookkeeper practices the callback rule. Then ask: "You clicked a link and entered your password. What now?" The steps are to report immediately, change the password, and have IT sign out sessions.
 
 ## Misconceptions to address
 
 - *"We're too small to be a target."* Small businesses are targeted *because* they're small.
 - *"IT handles security."* IT can't stop you from wiring money to a scammer.
-- *"If I report that I clicked, I'll get in trouble."* Here, reporting is always the right move, and fast reports save the day.
-- *"Our email provider filters everything."* Filters catch most, but not all, and the best attacks come from real, hacked accounts.
+- *"If I report that I clicked, I'll get in trouble."* Here, reporting is always right, and fast reports limit the damage.
+- *"Our email provider filters everything."* Filters miss some, and the best attacks come from real, hacked accounts.
 
 ## Check for understanding (5 min)
 
@@ -52,8 +52,8 @@ Role-play: one person calls "the bookkeeper" pretending to be a vendor who chang
 
 ## Leave with one action
 
-Everyone checks that MFA is on for their email before leaving, and the owner posts the [office checklist](../printables/office-spark-checklist.md) in the break room.
+Everyone checks that MFA is on for their email before leaving. The owner posts the [office checklist](../printables/office-spark-checklist.md) in the break room.
 
 ## Sources
 
-Adapted from neon1 sessions, with material from the FTC's small business cybersecurity guidance (public domain), FBI IC3 business email compromise guidance (public domain) and the UK NCSC Small Business Guide (Open Government Licence v3.0).
+Adapted from neon1 sessions, with material from the FTC's small business cybersecurity guidance (public domain), FBI IC3 business email compromise guidance (public domain), and the UK NCSC Small Business Guide (Open Government Licence v3.0).
