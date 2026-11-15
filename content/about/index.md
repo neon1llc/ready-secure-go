@@ -8,7 +8,7 @@ neon1 started at a grade school.
 
 I was working as an after-school aide and helped budget and set up a new STEM edtech system for the school. Teachers and parents kept asking me the same thing: *how do I keep my kids, my classroom, and my own accounts safe?* So I invited them to free security debriefings. No slides full of acronyms. Just what's out there, why it works on people, and what to do about it.
 
-Watching people leave a little more confident than they came in gave me the confidence to offer the same help more widely. That became neon1. Since then I've run sessions for teachers, parents, engineers, executives, and cross-team groups, including seminars in Manhattan. I've also done SOC 2 and other security readiness work for companies.
+Watching people leave a little more confident than they came in gave me the confidence to offer the same help more widely. That became neon1. Since then I've run sessions for teachers, parents, engineers, executives, and cross-team groups, including seminars in Manhattan for groups of 30 or more. I've also done SOC 2 and other security readiness work for companies.
 
 This collection is those sessions written down and made free for anyone.
 

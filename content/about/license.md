@@ -2,7 +2,7 @@
 title: License and how to share this
 ---
 
-Print it, teach from it, translate it, or put it on your school's website.
+I want this to travel. Print it, teach from it, translate it, put it on your school's website.
 
 ## The short version
 
@@ -14,6 +14,6 @@ Print it, teach from it, translate it, or put it on your school's website.
 
 ## Other people's work
 
-Some pages adapt material from NIST, CISA, the FTC, OWASP, EFF, Privacy Guides, the UK NCSC, the Australian Cyber Security Centre, MITRE ATT&CK, and others. Each page credits what it uses, and `ATTRIBUTIONS.md` lists every source. Material under licenses that forbid changes or commercial use, such as the CIS Controls, is only referenced, never copied.
+Some pages adapt material from NIST, CISA, the FTC, OWASP, EFF, Privacy Guides, the UK NCSC, the Australian Cyber Security Centre, MITRE ATT&CK and others. Each page credits what it uses, and `ATTRIBUTIONS.md` lists every source. Material under licenses that forbid changes or commercial use, such as the CIS Controls, is only referenced, never copied.
 
 MITRE ATT&CK® is a registered trademark of The MITRE Corporation. © The MITRE Corporation. This work is reproduced and distributed with the permission of The MITRE Corporation.
