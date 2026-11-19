@@ -14,7 +14,6 @@ Ready, Secure, Go stands on a lot of generous work. Pages that adapt a source sa
 | [EFF Surveillance Self-Defense](https://ssd.eff.org/) | CC BY 4.0 | Personal threat modeling |
 | [Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist) by Alicia Sykes | CC BY 4.0 | Personal and home practices |
 | [Privacy Guides](https://www.privacyguides.org/) | CC BY-SA 4.0 | Privacy practices and reasoning |
-| [UK National Cyber Security Centre](https://www.ncsc.gov.uk/) Small Business Guide, Cyber Aware | Open Government Licence v3.0 | Plain-language organization and home guidance |
 | [Australian Signals Directorate's ACSC](https://www.cyber.gov.au/) Essential Eight | CC BY 4.0 | Maturity-level pattern, crosswalk |
 
 MITRE ATT&CK notice: © The MITRE Corporation. This work is reproduced and distributed with the permission of The MITRE Corporation.
