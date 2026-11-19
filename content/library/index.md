@@ -17,7 +17,7 @@ You don't need any of these to get started. They matter when customers, insurers
 
 | Framework | What it is | How it's used here |
 |---|---|---|
-| **NIST Cybersecurity Framework 2.0** | The U.S. government's widely used outcome framework: Govern, Identify, Protect, Detect, Respond, Recover | `nist_csf` IDs on each card. [Levels](../levels/index.md) line up with CSF tiers |
+| **NIST Cybersecurity Framework 2.0** | The U.S. government's widely used outcome framework: Govern, Identify, Protect, Detect, Respond, Recover | `nist_csf` IDs on each card. [Levels](../levels/index.md) organize the cards and do not determine CSF Tiers |
 | **CIS Critical Security Controls v8.1** | A prioritized list of safeguards, grouped into Implementation Groups 1 to 3 | `cis` safeguard numbers on each card (referenced only, since the Controls are CC BY-NC-ND) |
 | **ACSC Essential Eight** | Australia's eight priority mitigations with maturity levels 0 to 3 | `e8` tags on cards. It inspired the level pattern |
 | **CISA Cross-Sector Cybersecurity Performance Goals** | A short list of high-impact practices for organizations | Source for many organization practices |
