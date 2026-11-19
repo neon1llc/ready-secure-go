@@ -14,6 +14,6 @@ I want this to travel. Print it, teach from it, translate it, put it on your sch
 
 ## Other people's work
 
-Some pages adapt material from NIST, CISA, the FTC, OWASP, EFF, Privacy Guides, the UK NCSC, the Australian Cyber Security Centre, MITRE ATT&CK and others. Each page credits what it uses, and `ATTRIBUTIONS.md` lists every source. Material under licenses that forbid changes or commercial use, such as the CIS Controls, is only referenced, never copied.
+Some pages adapt material from NIST, CISA, the FTC, OWASP, EFF, Privacy Guides, the Australian Cyber Security Centre, MITRE ATT&CK and others. Each page credits what it uses, and `ATTRIBUTIONS.md` lists every source. Material under licenses that forbid changes or commercial use, such as the CIS Controls, is only referenced, never copied. The UK NCSC's guidance is linked, not adapted.
 
 MITRE ATT&CK® is a registered trademark of The MITRE Corporation. © The MITRE Corporation. This work is reproduced and distributed with the permission of The MITRE Corporation.
