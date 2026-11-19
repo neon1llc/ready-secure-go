@@ -27,7 +27,7 @@
     {
       "id": "scam-family-code-word",
       "title": "Agree on a family code word for emergencies",
-      "summary": "A secret word only your family knows beats a voice clone. Use it whenever an \"emergency\" call asks for money.",
+      "summary": "A secret word only your family knows is hard for a voice clone to fake. Use it whenever an \"emergency\" call asks for money.",
       "level": 1,
       "lights": [
         "scams-and-social-engineering"
@@ -84,7 +84,7 @@
     {
       "id": "priv-credit-freeze",
       "title": "Freeze your credit (and your kids' credit)",
-      "summary": "A free credit freeze at all three bureaus stops anyone, including you, from opening new credit in your name until you lift it.",
+      "summary": "A free credit freeze at all three bureaus blocks new credit in your name, including by you, until you lift it.",
       "level": 1,
       "lights": [
         "privacy-and-footprint",
@@ -653,7 +653,7 @@
     {
       "id": "acct-passkeys",
       "title": "Switch important accounts to passkeys",
-      "summary": "Passkeys replace passwords with a key your device holds. Nothing to remember, and nothing a fake website can steal.",
+      "summary": "Passkeys replace passwords with a key your device holds. Nothing to remember, and a fake website can't phish them.",
       "level": 2,
       "lights": [
         "accounts-and-identity"

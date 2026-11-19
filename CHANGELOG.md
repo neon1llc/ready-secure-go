@@ -3,6 +3,17 @@
 Ready, Secure, Go releases use `v0.MINOR.PATCH` until the first complete release, v1.0.0, following neon1's [versioning standard](https://neon1.tech/knowledge/standards/versioning/). Each version below has an annotated tag on the commit it names; the release workflow adds missing tags and never moves one.
 
 
+## v0.1.5 - 2026-11-19
+
+### Changed
+- The Levels page no longer treats NIST CSF Tiers as maturity levels, and describes the Essential Eight and CIS columns as rough maps, not matches.
+- The SOC 2 track says neon1 isn't a CPA firm and issues no reports, and that nothing in it is an audit, attestation, or assurance. The readiness checklist is called a self-assessment.
+- The Builders and Growing Organization pages name the level of their first five cards.
+- Passwords, passkeys, and MFA cards follow NIST SP 800-63B-4: length over rotation, and the limits of synced passkeys for admins. The credit freeze card adds the fraud-alert step, and the code-word card cites the FBI.
+
+### Fixed
+- About 15 overstatements softened, including "phishing-proof", "gold standard", "best answer to ransomware", and "stop most" on three pages. The Cyber Trust Mark and public-charger notes now match the sources.
+
 ## v0.1.4 - 2026-11-15
 
 ### Changed

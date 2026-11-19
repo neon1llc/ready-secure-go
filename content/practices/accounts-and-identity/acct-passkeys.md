@@ -1,7 +1,7 @@
 ---
 id: acct-passkeys
 title: Switch important accounts to passkeys
-summary: Passkeys replace passwords with a key your device holds. Nothing to remember, and nothing a fake website can steal.
+summary: Passkeys replace passwords with a key your device holds. Nothing to remember, and a fake website can't phish them.
 level: 2
 lights: [accounts-and-identity]
 spaces: [me, home-and-family, home-office, small-business, growing-organization, builders]
@@ -37,7 +37,7 @@ A passkey is a pair of keys. The website keeps the public half. Your phone, comp
 
 1. Check where you stand: your password manager or [passkeys.directory](https://passkeys.directory) lists sites that support passkeys.
 2. Start with **Google, Microsoft, Apple, Amazon, PayPal**, and your password manager. Go to the account's security settings and choose "Create a passkey".
-3. Store passkeys somewhere that **syncs and backs up**: iCloud Keychain, Google Password Manager, or a password manager like Bitwarden, 1Password or Proton Pass.
+3. Store passkeys somewhere that **syncs and backs up**: iCloud Keychain, Google Password Manager, or a password manager like Bitwarden, 1Password or Proton Pass. A synced passkey is only as safe as the account that syncs it, so protect that account with MFA. NIST SP 800-63B-4 accepts synced passkeys at AAL2 but not AAL3, so admins and high-risk roles should use device-bound hardware keys.
 4. Keep a second way in (backup codes, or a second passkey on a hardware key) for your most important accounts.
 5. **Offices:** turn on passkey or security-key sign-in for your email and identity provider (Google Workspace, Microsoft Entra ID), and require it for admins first.
 

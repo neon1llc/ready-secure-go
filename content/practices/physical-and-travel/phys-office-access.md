@@ -27,7 +27,7 @@ sources:
 
 The best firewall doesn't help if someone can walk in, plug a device into a network port, or pick up the laptop on the reception desk. SOC 2's criteria also include restricting physical access to facilities and protected information.
 
-When I do discovery for a client, I always walk the space. One small SOC 2 client passed their audit with simple measures, but I still recommended passcard entry so they'd know who came in and when, and could turn off a lost card in seconds instead of rekeying locks.
+When I do discovery for a client, I always walk the space. One small SOC 2 client got through their audit with simple measures, but I still recommended passcard entry so they'd know who came in and when, and could turn off a lost card in seconds instead of rekeying locks.
 
 > [!question] Ask yourself
 > - How many keys to your office exist? Who has them? What about people who left?

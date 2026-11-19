@@ -29,7 +29,7 @@ Pick the one that sounds most like you, or take the five-minute [readiness check
 2. A **Light**: the part of security it covers. There are ten, from [Accounts & Identity](lights/accounts-and-identity/index.md) to [Govern & Build](lights/govern-and-build/index.md).
 3. A **Level**: how far along you are, from **0 Dark** (not started) to **4 Neon** (you could teach it). See [Levels](levels/index.md).
 
-Start with the **Spark** (level 1) cards in your space. Each takes an afternoon or less, and together they stop most of what happens to real people and small organizations.
+Start with the **Spark** (level 1) cards in your space. Each takes an afternoon or less, and together they block much of what happens to real people and small organizations.
 
 ## Go deeper
 

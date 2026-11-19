@@ -10,9 +10,9 @@ Somewhere around 20 to 200 people, security becomes a program. Customers send qu
 > - Who is accountable for security, and do they have time and budget for it?
 > - When a big customer asks for your SOC 2 report, what's the plan?
 
-## Your first five Sparks
+## Your first five
 
-Start here. Each one takes an afternoon or less.
+Start here. These are Glow level, so each may take longer than an afternoon.
 
 1. [Keep admin power out of everyday accounts](../../practices/accounts-and-identity/acct-admin-separation.md)
 2. [Know what you have](../../practices/govern-and-build/gov-inventory.md)

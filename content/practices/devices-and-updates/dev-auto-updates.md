@@ -40,7 +40,7 @@ Updates are mostly security fixes. Once a fix ships, attackers compare old and n
 2. **Computers:** Windows Update and macOS Software Update set to install automatically. Restart when asked, since most updates don't finish until you do.
 3. **Browsers** update themselves, but only when restarted. Close yours fully once a week.
 4. **Router, cameras, smart devices:** log into each app or admin page and turn on auto-update or firmware update. See [Set up your router like you mean it](../networks-and-wifi/net-router-basics.md) and [Secure your cameras and smart devices](dev-iot-and-cameras.md).
-5. **Offices:** use your device management (Microsoft Intune, Google endpoint management, Jamf, or even a simple monthly checklist) to confirm every machine is current. Prioritize anything on CISA's Known Exploited Vulnerabilities list.
+5. **Offices:** use your device management (Microsoft Intune, Google endpoint management, Jamf, or even a simple monthly checklist) to confirm every machine is current. Prioritize anything on CISA's Known Exploited Vulnerabilities list, which CISA also publishes as a downloadable feed you can match against your inventory.
 6. **Replace what can't update.** See [Retire devices that can't get updates, and wipe them first](dev-retire-old-devices.md).
 
 > [!success] How do you know it worked?

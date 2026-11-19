@@ -46,7 +46,7 @@ Cameras, doorbells, baby monitors, smart TVs, thermostats, printers, and door lo
    - Prefer systems with end-to-end encryption options.
    - Don't port-forward a DVR/NVR to the internet. Use the vendor's app or a VPN instead.
    - Know where recordings are stored and for how long.
-7. **Buying new:** look for a stated number of years of security updates. The U.S. Cyber Trust Mark is a helpful sign.
+7. **Buying new:** look for a stated number of years of security updates. The U.S. Cyber Trust Mark program is new and not yet widespread, so ask the vendor how long updates last.
 
 > [!success] How do you know it worked?
 > No device on your list still uses a default password, camera apps show only the people you expect, and your router shows smart devices on the separate network.

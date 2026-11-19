@@ -1,7 +1,7 @@
 ---
 id: scam-family-code-word
 title: Agree on a family code word for emergencies
-summary: A secret word only your family knows beats a voice clone. Use it whenever an "emergency" call asks for money.
+summary: A secret word only your family knows is hard for a voice clone to fake. Use it whenever an "emergency" call asks for money.
 level: 1
 lights: [scams-and-social-engineering]
 spaces: [home-and-family, seniors-and-caregivers, small-business]
@@ -16,6 +16,10 @@ sources:
     url: https://consumer.ftc.gov/consumer-alerts/2023/03/scammers-use-ai-enhance-their-family-emergency-schemes
     license: public-domain
     use: adapt
+  - title: FBI IC3, Criminals Use Generative AI to Facilitate Financial Fraud
+    url: https://www.ic3.gov/PSA/2024/PSA241203
+    license: public-domain
+    use: reference
 ---
 
 ## Why this matters
@@ -38,7 +42,7 @@ Cloning a voice now takes only a few seconds of audio from a social media video.
 > Ask a family member, out of the blue, "what's our word?" They know it.
 
 > [!danger] Attacker's-eye view
-> Impersonation (MITRE ATT&CK T1656) is getting cheaper and more convincing. A shared secret is low-tech, but a clone can't know it.
+> Impersonation (MITRE ATT&CK T1656) is getting cheaper and more convincing. A shared secret is low-tech, and a clone can't know it unless it leaks.
 
 ## Go further
 
