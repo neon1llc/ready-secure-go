@@ -10,9 +10,9 @@ You make security decisions for everyone who uses what you build. OWASP and MITR
 > - Can a user see another user's data by changing an ID?
 > - If an attacker got a developer's laptop, what could they reach?
 
-## Your first five Sparks
+## Your first five
 
-Start here. Each one takes an afternoon or less.
+Start here. The first takes an afternoon or less. The Glow ones take longer.
 
 1. [Keep secrets out of code and chat](../../practices/govern-and-build/build-secrets-out-of-code.md)
 2. [Lock down the root of your cloud account](../../practices/govern-and-build/gov-cloud-account-basics.md)

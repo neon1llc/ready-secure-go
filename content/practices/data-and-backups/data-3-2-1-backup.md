@@ -27,7 +27,7 @@ sources:
 
 ## Why this matters
 
-Drives die, laptops get stolen, kids spill juice, and ransomware encrypts everything it can reach. A good backup turns each of those into an inconvenience. It's the best answer to ransomware.
+Drives die, laptops get stolen, kids spill juice, and ransomware encrypts everything it can reach. A good backup turns each of those into an inconvenience. It's your most dependable way back from ransomware.
 
 > [!question] Ask yourself
 > - What would you be heartbroken to lose: photos, your kid's art, ten years of client files, the bookkeeping?
@@ -49,7 +49,7 @@ The 3-2-1 rule: **3** copies of your data, on **2** different kinds of storage, 
 > You can name all three copies and where they live, the newest backup is under a week old (a day for a business), and at least one copy can't be changed from your everyday computer.
 
 > [!danger] Attacker's-eye view
-> Ransomware crews encrypt your files (MITRE ATT&CK T1486, Data Encrypted for Impact) and first try to delete your backups and shadow copies (T1490, Inhibit System Recovery) so you have to pay. They can't touch an offline or immutable copy.
+> Ransomware crews encrypt your files (MITRE ATT&CK T1486, Data Encrypted for Impact) and first try to delete your backups and shadow copies (T1490, Inhibit System Recovery) so you have to pay. An offline or immutable copy is much harder for them to reach.
 
 ## Go further
 

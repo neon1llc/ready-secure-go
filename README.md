@@ -33,7 +33,7 @@ Every practice sits in three places:
 
 - **Space**: who and where you are (above).
 - **Light**: the part of security it covers. There are ten: [Accounts & Identity](content/lights/accounts-and-identity/index.md), [Devices & Updates](content/lights/devices-and-updates/index.md), [Data & Backups](content/lights/data-and-backups/index.md), [Networks & Wi-Fi](content/lights/networks-and-wifi/index.md), [Scams & Social Engineering](content/lights/scams-and-social-engineering/index.md), [Privacy & Footprint](content/lights/privacy-and-footprint/index.md), [People & Culture](content/lights/people-and-culture/index.md), [Physical & Travel](content/lights/physical-and-travel/index.md), [Respond & Recover](content/lights/respond-and-recover/index.md), [Govern & Build](content/lights/govern-and-build/index.md).
-- **Level**: how far along you are, from [0 Dark to 4 Neon](content/levels/index.md). Organizations can line these up with NIST CSF 2.0, CIS, Essential Eight, and SOC 2.
+- **Level**: how far along you are, from [0 Dark to 4 Neon](content/levels/index.md). Organizations can roughly line these up with NIST CSF 2.0, CIS, Essential Eight, and SOC 2. It is a rough map, not an assessment.
 
 A **practice card** is one thing to do, why it matters, the steps, and how to check it worked. Cards live in [`content/practices/`](content/practices/).
 

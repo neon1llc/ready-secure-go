@@ -33,7 +33,7 @@ Your security is only as good as the companies holding your data. When a payroll
 
 For each vendor that holds sensitive data or has access, ask and record:
 
-1. **Do you have a recent independent security report?** A SOC 2 Type II report or ISO 27001 certificate is the gold standard. For small vendors, a security page or completed questionnaire may be all there is.
+1. **Do you have a recent independent security report?** A SOC 2 Type II report or ISO 27001 certificate is the strongest evidence a vendor can show. Check its scope, dates, and exceptions, since it covers only what the vendor put in scope. For small vendors, a security page or completed questionnaire may be all there is.
 2. **Do you require MFA for your staff, and offer it to us?**
 3. **Where is our data stored, who can see it, and is it encrypted?**
 4. **How and how fast will you tell us about a breach?** Get it in the contract if you can.

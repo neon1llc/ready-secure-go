@@ -27,7 +27,8 @@ A common path: readiness, then a Type I, then a Type II with a shorter first win
 
 - Only a **licensed CPA firm** can issue a SOC 2 report. Check that they do SOC 2 regularly for companies your size and in your industry.
 - Ask about: their process, who does the work, how they handle exceptions, timelines, and price for Type I and Type II.
-- Your **readiness advisor and your auditor should be different people**, since auditors must stay independent.
+- Keep your **readiness advisor and your auditor separate**, since auditors must stay independent.
+- Ask for the firm's CPA license and its enrollment in the AICPA peer review program.
 - Big customers sometimes prefer certain firms. Ask them.
 
 ## Between reports

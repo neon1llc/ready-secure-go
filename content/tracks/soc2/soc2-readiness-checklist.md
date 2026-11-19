@@ -1,6 +1,6 @@
 ---
 title: The SOC 2 readiness checklist
-description: "A printable checklist to see where you stand before you call an auditor."
+description: "A printable self-assessment to see where you stand before you call an auditor."
 tags: [soc2, checklist]
 ---
 
@@ -54,4 +54,4 @@ Tick what's true *and provable* today.
 
 - **Mostly unchecked:** you're at Spark or Glow. Work through the [Growing Organization](../../spaces/growing-organization/index.md) path first.
 - **Most checked, evidence patchy:** you're close. Start collecting evidence consistently, then talk to auditors.
-- **Nearly all checked, with evidence:** you're ready for a Type I, or to start a Type II window.
+- **Nearly all checked, with evidence:** you may be ready to ask an auditor about a Type I, or about starting a Type II window. This checklist is a self-assessment. It is not an audit and gives no assurance.

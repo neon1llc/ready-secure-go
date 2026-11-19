@@ -16,7 +16,7 @@ This collection is those sessions written down and made free for anyone.
 
 - **Security is for everyone.** A grandparent who spots a scam call is doing security. So is a teacher who turns on two-step login.
 - **Understanding beats memorizing.** If you know *why* something works, you'll recognize the next trick.
-- **Start small, then keep going.** Five habits stop most real-world harm. You just need to not be the easiest target.
+- **Start small, then keep going.** A few habits block much of the real-world harm. You just need to not be the easiest target.
 - **Look at the whole picture.** With every client I look at accounts, devices, networks, cameras, the front door, the people, and the vendors. Attackers don't care which department owns a problem.
 - **No fear selling.** Honest risk, honest odds, honest fixes.
 

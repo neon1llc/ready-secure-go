@@ -40,7 +40,7 @@ After a breach, the stolen email and password pairs get tried on hundreds of oth
 ## Do it
 
 1. **Pick one.** Good options are Bitwarden (free, open source), 1Password, Proton Pass, or the one built into Apple or Google devices if you only use that ecosystem. Families and offices: choose one with a family or team plan so you can share safely.
-2. **Make one strong master password** you'll remember: four or five random words, like `copper lantern awkward tide`. Length beats symbols. Write it on paper and keep it safe at home until you know it by heart.
+2. **Make one strong master password** you'll remember: four or five random words, like `copper lantern awkward tide`. Length beats symbols. Write it on paper and keep it safe at home until you know it by heart. Change a password when there's a reason, such as a breach or a shared login, not on a calendar. NIST SP 800-63B-4 sets a 15-character minimum for passwords used alone, 8 when paired with MFA, and says not to require periodic changes.
 3. **Turn on two-step login for the password manager itself.** See [Turn on two-step login, starting with your email](acct-two-step-login.md).
 4. **Start with the important ones**: email first (it resets everything else), then banking, phone carrier, work, and social media. Let the manager generate a new random password for each.
 5. **Do the rest as you go.** Each time you log in somewhere, update that password.

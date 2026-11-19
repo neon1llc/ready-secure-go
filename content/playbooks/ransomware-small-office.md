@@ -12,7 +12,7 @@ tags: [playbook]
 2. **Don't pay, negotiate or contact the attackers** yet.
 3. **Call, in this order:**
    - Your **IT provider** or whoever manages your systems.
-   - Your **cyber insurance** carrier's claim line. Many policies require early notice and provide a response firm and lawyers. Use their vendors to stay covered.
+   - Your **cyber insurance** carrier's claim line. Many policies require early notice and provide a response firm and lawyers. Check your policy before hiring your own responders.
    - A **lawyer** (often provided by the insurer) about notification duties.
 4. **Use a clean channel** to talk: personal phones, not company email or chat, which may be compromised.
 5. **Start a log:** what you saw, when, who did what.

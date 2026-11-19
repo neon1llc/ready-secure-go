@@ -22,6 +22,6 @@ If you sell software or services to other businesses, a customer will eventually
 
 ## What it builds on
 
-The [Bright level](../../levels/index.md) practices across every Light are most of what an auditor wants to see. If your organization is solidly at Glow and climbing, you're closer than you think.
+The [Glow and Bright level](../../levels/index.md) practices across every Light cover much of what an auditor will ask about. If your organization is solidly at Glow and climbing, you may be closer than you think.
 
-*SOC 2 and the Trust Services Criteria are from the AICPA. This track describes them in plain words for readiness. It isn't legal or audit advice, and only a licensed CPA firm can issue a SOC 2 report.*
+*SOC 2 and the Trust Services Criteria are from the AICPA. This track describes them in plain words for readiness. neon1 is not a CPA firm and does not issue SOC 2 reports. Nothing here is an audit, an attestation, assurance, or legal advice, and completing it does not mean you will pass an audit. Only a licensed CPA firm can issue a SOC 2 report.*

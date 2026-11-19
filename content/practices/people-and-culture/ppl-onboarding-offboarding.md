@@ -22,7 +22,7 @@ sources:
 
 ## Why this matters
 
-Former employees, volunteers, and contractors with working logins are among the most common findings in my security assessments. Sometimes it's harmless. Sometimes an ex-employee deletes files, or a former contractor's reused password leaks and someone walks right in. SOC 2 auditors check this first, by sampling people who left and asking you to prove their access was removed on time.
+Former employees, volunteers, and contractors with working logins are among the most common findings in my security assessments. Sometimes it's harmless. Sometimes an ex-employee deletes files, or a former contractor's reused password leaks and someone walks right in. SOC 2 auditors commonly check this, by sampling people who left and asking you to prove their access was removed on time.
 
 > [!question] Ask yourself
 > - If someone left today, could you list every system they had access to? (Email, files, payroll, the website, social media, the bank, the alarm code, the Wi-Fi password, the shared password vault?)

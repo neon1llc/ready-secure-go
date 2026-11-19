@@ -42,7 +42,7 @@ Passwords leak through breaches, fake login pages, and malware, often through no
 
 Strongest to weakest. Use the strongest each account supports:
 
-1. **Passkey or hardware security key** (FIDO2/WebAuthn). These are phishing-proof because they only work on the real website. See [Switch important accounts to passkeys](acct-passkeys.md).
+1. **Passkey or hardware security key** (FIDO2/WebAuthn). These are phishing-resistant because they only work on the real website. See [Switch important accounts to passkeys](acct-passkeys.md).
 2. **Authenticator app** (Google Authenticator, Microsoft Authenticator, Aegis, 2FAS, or your password manager's). It gives a 6-digit code that changes every 30 seconds.
 3. **Push approval** ("Is this you?"). Fine if it shows a number to match. Never approve a prompt you didn't start.
 4. **Text-message code.** Better than nothing, but vulnerable to SIM swaps. Use it only where nothing else is offered.

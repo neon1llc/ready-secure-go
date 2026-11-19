@@ -1,7 +1,7 @@
 ---
 id: priv-credit-freeze
 title: Freeze your credit (and your kids' credit)
-summary: A free credit freeze at all three bureaus stops anyone, including you, from opening new credit in your name until you lift it.
+summary: A free credit freeze at all three bureaus blocks new credit in your name, including by you, until you lift it.
 level: 1
 lights: [privacy-and-footprint, accounts-and-identity]
 spaces: [me, home-and-family, seniors-and-caregivers]
@@ -36,7 +36,8 @@ Your Social Security number has very likely leaked in a breach already. With it,
 3. **Kids under 16:** parents can request a freeze for them. Each bureau has a page for minors, usually asking for a birth certificate and Social Security card copies.
 4. **Older relatives** you care for: help them freeze too. It's one of the best protections against elder financial exploitation.
 5. Also consider: freezing with **ChexSystems** (bank accounts) and **NCTUE** (utilities and phone), plus an **IRS Identity Protection PIN** to stop tax-refund fraud.
-6. When you apply for credit, **temporarily lift** the freeze at the bureau the lender uses. It refreezes afterward.
+6. When you apply for credit, **temporarily lift** the freeze at the bureau the lender uses, then refreeze.
+7. **Fraud alert:** if you can't freeze right now, a free fraud alert asks lenders to verify your identity. Contact one bureau and it tells the other two. An initial alert lasts one year. If you have an identity theft report from IdentityTheft.gov, an extended alert lasts seven years. A freeze is stronger, and a freeze does not cover accounts you already have, so keep watching those statements.
 
 > [!success] How do you know it worked?
 > All three bureau sites show your status as "frozen", and the logins are saved.
