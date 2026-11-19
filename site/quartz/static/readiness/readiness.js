@@ -14,10 +14,10 @@ const ANSWERS = [
 
 // Words for the score, so the result reads as a next step and not a grade
 const VERDICTS = [
-  "You're at Dark, like most people and offices. The Spark practices below take an afternoon and stop most of what goes wrong.",
+  "Your answers suggest starting with the Spark practices that fit your environment.",
   "You're at Spark. The essentials are on. Next, make them habits and write down what others need to know.",
   "You're at Glow. Your basics are habits and written down. Next, check that they work with a restore test or a practice run.",
-  "You're at Bright. You test and practice. For an organization, that's audit-ready.",
+  "You're at Bright. You test and practice. For an organization, review the evidence and any gaps in scope.",
   "You're at Neon. Now the best move is helping someone else get to Spark.",
 ]
 

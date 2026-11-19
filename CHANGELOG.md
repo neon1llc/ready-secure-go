@@ -3,6 +3,16 @@
 Ready, Secure, Go releases use `v0.MINOR.PATCH` until the first complete release, v1.0.0, following neon1's [versioning standard](https://neon1.tech/knowledge/standards/versioning/). Each version below has an annotated tag on the commit it names; the release workflow adds missing tags and never moves one.
 
 
+## v0.1.6 - 2026-11-19
+
+### Changed
+- The Levels page no longer maps levels to NIST CSF Tiers, Essential Eight levels, CIS Implementation Groups, or SOC 2 outcomes. It lists what each framework needs to be reviewed on its own, with sources.
+- The readiness check and the SOC 2 checklist read as self-reported review aids. They no longer score "audit-ready" or "ready for a Type I".
+- The Growing Organization page starts from the controls and requirements you already have, and says the time each practice takes depends on scope.
+
+### Fixed
+- Word handouts keep checklist marks as `[x]` and `[ ]` instead of dropping them.
+
 ## v0.1.5 - 2026-11-19
 
 ### Changed

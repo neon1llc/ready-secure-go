@@ -1,9 +1,9 @@
 ---
 title: Growing Organization
-description: "Teams with real systems, maybe an IT person, and customers or auditors starting to ask questions."
+description: "Organizations reviewing existing security controls, responsibilities, evidence, and new requirements."
 ---
 
-Somewhere around 20 to 200 people, security becomes a program. Customers send questionnaires, insurers want proof, and a SOC 2 report comes up in sales conversations. This space connects the basics to the frameworks and the evidence.
+Use this path when customer requirements, growth, a system change, or an internal review calls for stronger control evidence. Start from the systems, controls, staff, and providers you already have, choose the relevant practices, and assess gaps within an agreed scope.
 
 > [!question] Ask yourself
 > - Could you produce, today, a list of everyone with admin access to your critical systems?
@@ -12,7 +12,7 @@ Somewhere around 20 to 200 people, security becomes a program. Customers send qu
 
 ## Your first five
 
-Start here. These are Glow level, so each may take longer than an afternoon.
+Review these against your existing controls. These are Glow level, and the time each takes depends on scope, dependencies, and change approval.
 
 1. [Keep admin power out of everyday accounts](../../practices/accounts-and-identity/acct-admin-separation.md)
 2. [Know what you have](../../practices/govern-and-build/gov-inventory.md)

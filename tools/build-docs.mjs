@@ -299,7 +299,10 @@ function buildDocx(docs) {
   for (const doc of docs) {
     const out = join(outDir, doc.slug + ".docx")
     mkdirSync(dirname(out), { recursive: true })
-    const html = `<html><body>${glanceDocx(doc.fm)}${doc.body}${refsHtml(doc.fm)}
+    // Pandoc drops HTML form inputs, so keep each checklist state as editable text
+    const body = doc.body.replace(/<input\b(?=[^>]*\btype=["']checkbox["'])[^>]*>/g,
+      (input) => (/\bchecked(?:\s|>|=)/.test(input) ? "[x] " : "[ ] "))
+    const html = `<html><body>${glanceDocx(doc.fm)}${body}${refsHtml(doc.fm)}
       <p>From Ready, Secure, Go by neon1 LLC. Shared under CC BY-SA 4.0. Latest version at <a href="${doc.url}">${esc(doc.url)}</a>.</p></body></html>`
     const meta = ["-M", `title=${doc.title}`, ...(doc.summary ? ["-M", `subtitle=${doc.summary}`] : [])]
     const run = spawnSync("pandoc", ["-f", "html", "-t", "docx", "--reference-doc", reference, ...meta, "-o", out], {

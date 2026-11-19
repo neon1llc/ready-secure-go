@@ -2,14 +2,14 @@
 title: Levels
 ---
 
-Every practice card has a level, and every Space has a path that climbs through them. You can peek at the next level early, but the lower levels carry most of the weight.
+Levels order the practice cards from introductory actions to testing and improvement. Use the cards that fit your environment and what you already have in place. A level is a reading aid, not a security rating or a framework assessment.
 
 | Level | Name | For a person or family | For an organization |
 |---|---|---|---|
 | 0 | **Dark** | Default settings everywhere. Passwords reused. Hoping for the best. | Nobody owns security. No list of what you have. Things get fixed when they break. |
 | 1 | **Spark** | The essentials: a password manager, two-step login on email and bank, automatic updates, a backup, a scam reflex. An afternoon of work. | The basics are on everywhere: MFA, updates, backups, admin rights limited, staff know how to report a phish. Someone is named as responsible. |
 | 2 | **Glow** | Habits stick. You review privacy settings, your home network is set up on purpose, and the family knows the plan if something goes wrong. | Written down and repeatable: an inventory, a few short policies people actually follow, onboarding and offboarding checklists, a vendor list, an incident contact sheet. |
-| 3 | **Bright** | You check and practice: you've tested a restore, frozen your credit, and run a "what if" with the family. | Managed and tested: logging and alerts, regular access reviews, tabletop exercises, restore tests, risk reviewed by leadership. A base for SOC 2 readiness work. |
+| 3 | **Bright** | You check and practice: you've tested a restore, frozen your credit, and run a "what if" with the family. | Managed and tested: logging and alerts, regular access reviews, tabletop exercises, restore tests, risk reviewed by leadership. Audit readiness needs a separate scoped review. |
 | 4 | **Neon** | You help others: you set up a parent's phone, you teach your kid's class, you spot scams for your group chat. | Measured and improving: metrics, continuous testing, security built into how products and vendors are chosen, and you share what you learn. |
 
 > [!question] Ask yourself
@@ -17,18 +17,23 @@ Every practice card has a level, and every Space has a path that climbs through 
 > - If your laptop died tomorrow, what would you lose forever?
 > - If someone in your office got a convincing fake invoice, who would they ask before paying it?
 
-If you hesitated on any of those, start with the Spark cards in your Space. The [readiness check](../check/index.md) finds your level in five minutes, and the [maturity grid](grid.md) shows every practice by area and level.
+If you hesitated on any of those, start with the Spark cards in your Space. The [readiness check](../check/index.md) suggests a level from your own answers in five minutes, and the [maturity grid](grid.md) shows every practice by area and level.
 
-## Lining up with frameworks
+## Using framework references
 
-Customers, insurers, or auditors may ask organizations to show their work. This is a rough map, not an official equivalence, and not an assessment against any of them. NIST describes CSF Tiers as the rigor of risk governance and management, and does not call them maturity levels. The Essential Eight levels are defined by the ACSC's own technical requirements, and the CIS Implementation Groups by safeguard lists. Meeting a neon1 level does not mean meeting them.
+Practice cards cite related requirements to help you find them. A citation does not show that an organization meets a requirement. There is no conversion from a neon1 level to a NIST CSF Tier, a CIS Implementation Group, an Essential Eight maturity level, or a SOC 2 outcome. Each needs its own review.
 
-| neon1 level | NIST CSF 2.0 tier | Essential Eight maturity | CIS Controls | SOC 2 |
-|---|---|---|---|---|
-| 0 Dark | no tier | Maturity Level 0 | not started | not ready |
-| 1 Spark | Tier 1 Partial | working toward Maturity Level 1 | part of Implementation Group 1 | gaps everywhere |
-| 2 Glow | Tier 2 Risk Informed | around Maturity Level 1 | most of IG1 | policies and controls being designed |
-| 3 Bright | Tier 3 Repeatable | between Maturity Levels 1 and 2 | toward IG2 | a base for readiness work with an auditor |
-| 4 Neon | Tier 4 Adaptive | toward Maturity Level 2 or 3 | toward IG2 or IG3 | operating, continuously improving |
+| Framework | What needs its own review |
+|---|---|
+| NIST CSF 2.0 | Organizational Profiles and risk governance and management practices. Tiers describe the rigor of those practices. |
+| CIS Controls | The Safeguards in the Implementation Group that fits your risk and resources. |
+| Essential Eight | The requirements of all eight strategies at the maturity level you target, including documented exceptions. |
+| SOC 2 | The in-scope system, criteria, controls, and evidence, examined by a CPA firm. A self-study checklist cannot tell you whether you are ready or what the opinion will be. |
 
-See the [Library](../library/index.md) for what each framework is and when it matters.
+Record scope, evidence, exceptions, and open gaps whenever you use a framework in an assessment. See the [Library](../library/index.md) for related resources.
+
+## Sources
+
+- [NIST: Quick-start guide for using the CSF Tiers](https://www.nist.gov/publications/nist-cybersecurity-framework-20-quick-start-guide-using-csf-tiers): Tiers characterize the rigor of risk governance and management outcomes.
+- [CIS Controls Implementation Groups](https://www.cisecurity.org/controls/implementation-groups): each group is a set of Safeguards chosen by risk profile and resources.
+- [AICPA: SOC suite of services](https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services): SOC reports are assurance reports from CPAs.

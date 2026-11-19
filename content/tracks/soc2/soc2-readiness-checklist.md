@@ -50,8 +50,10 @@ Tick what's true *and provable* today.
 - [ ] Annual risk assessment with a risk register
 - [ ] Vendor reviews with SOC reports collected and their user-entity controls checked ([Ask your vendors the five questions that matter](../../practices/govern-and-build/gov-vendor-review.md))
 
-## Scoring yourself
+## Reviewing the gaps
 
-- **Mostly unchecked:** you're at Spark or Glow. Work through the [Growing Organization](../../spaces/growing-organization/index.md) path first.
-- **Most checked, evidence patchy:** you're close. Start collecting evidence consistently, then talk to auditors.
-- **Nearly all checked, with evidence:** you may be ready to ask an auditor about a Type I, or about starting a Type II window. This checklist is a self-assessment. It is not an audit and gives no assurance.
+Use this as a discussion checklist, not a readiness score. Record what is in place, what evidence exists, what is out of scope, and what still needs review. A checked box does not show that a control is designed well or operates effectively.
+
+Discuss the in-scope system, criteria, evidence, exceptions, and examination period with the CPA firm. This checklist cannot tell you whether you are ready for a Type I or Type II examination. The [Growing Organization](../../spaces/growing-organization/index.md) path can help you pick follow-up work.
+
+- [AICPA: SOC suite of services](https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services)
