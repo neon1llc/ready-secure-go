@@ -3,18 +3,14 @@ title: Builders
 description: "Developers, cloud and IT folks: shipping software and infrastructure that's secure by default."
 ---
 
-You make security decisions for everyone who uses what you build. OWASP and MITRE ATT&CK are the backbone here, and cloud accounts need the same care as production code. Build the habits into the pipeline instead of scrambling before an audit.
+You make security decisions for everyone who uses what you build. Cloud accounts need the same care as production code. Build the habits into the pipeline instead of scrambling before an audit.
 
 > [!note] Basics-plus
 > This path covers the practices most builders need first. It is not a full secure-development program. For depth, use the [NIST Cybersecurity Framework 2.0](https://www.nist.gov/cyberframework), the [CIS Controls Implementation Groups](https://www.cisecurity.org/controls/implementation-groups), and CISA's [Cross-Sector Cybersecurity Performance Goals](https://www.cisa.gov/cross-sector-cybersecurity-performance-goals).
 
-> [!question] Ask yourself
-> - What stops a leaked key in your repository from becoming a cloud bill or a breach?
-> - Can a user see another user's data by changing an ID?
-
 ## Your first five
 
-Start here. The first takes an afternoon or less. The Glow ones take longer.
+The first takes an afternoon or less. The Glow ones take longer.
 
 1. [Keep secrets out of code and chat](../../practices/govern-and-build/build-secrets-out-of-code.md)
 2. [Lock down the root of your cloud account](../../practices/govern-and-build/gov-cloud-account-basics.md)
@@ -52,7 +48,4 @@ Start here. The first takes an afternoon or less. The Glow ones take longer.
 
 ## If something goes wrong
 
-- [Playbook: I got a data breach notice](../../playbooks/data-breach-notice.md)
-- [Playbook: ransomware in a small office](../../playbooks/ransomware-small-office.md)
-
-[All playbooks](../../playbooks/index.md)
+See the [playbooks](../../playbooks/index.md).

@@ -3,15 +3,11 @@ title: Me
 description: "Just you: your phone, your accounts, your money, your data."
 ---
 
-You don't need to be technical to be hard to hack. You just need not to be the easiest target. These five habits block much of what happens to real people.
-
-> [!question] Ask yourself
-> - If your phone vanished now, what could someone else get into?
-> - How many of your accounts share a password?
+You don't need to be technical to be hard to hack. You just need not to be the easiest target.
 
 ## Your first five Sparks
 
-Start here. Each one takes an afternoon or less.
+Each takes an afternoon or less.
 
 1. [Let a password manager remember for you](../../practices/accounts-and-identity/acct-password-manager.md)
 2. [Turn on two-step login, starting with your email](../../practices/accounts-and-identity/acct-two-step-login.md)
@@ -60,8 +56,4 @@ Start here. Each one takes an afternoon or less.
 
 ## If something goes wrong
 
-- [Playbook: my email or social media account was hacked](../../playbooks/hacked-email.md)
-- [Playbook: I think I got scammed](../../playbooks/scam-victim.md)
-- [Playbook: my phone or laptop is lost or stolen](../../playbooks/lost-or-stolen-phone.md)
-
-[All playbooks](../../playbooks/index.md)
+See the [playbooks](../../playbooks/index.md).

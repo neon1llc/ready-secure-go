@@ -28,9 +28,6 @@ sources:
 
 When something goes wrong, the information you need is often locked inside the hacked computer. A printed page turns panic into a checklist. For a business, it's also the seed of an incident response plan, which insurers and auditors ask about.
 
-> [!question] Ask yourself
-> - If your email were hacked now, whose number would you need, and is it somewhere other than your phone?
-
 ## Do it
 
 **For a household**, one page with:
@@ -51,12 +48,11 @@ When something goes wrong, the information you need is often locked inside the h
 5. The first three moves: **disconnect** affected devices from the network (don't power them off), **don't pay or negotiate** before talking to your insurer and lawyer, and **write down** what happened and when.
 6. Who must be notified (customers, regulators, parents, board) and who speaks for the organization.
 
-Print it. Keep one copy at home and one elsewhere. Review it twice a year.
+Print it. Keep one copy at home and one elsewhere.
 
 > [!success] How do you know it worked?
 > You can find the sheet in under a minute without touching a computer, and the numbers are current.
 
 ## Go further
 
-- [Playbooks](../../playbooks/index.md)
 - [Practice a bad day with a tabletop exercise](resp-tabletop-exercise.md)

@@ -5,14 +5,9 @@ description: "Offices and shops with 1 to 50 people: protect the money, the data
 
 Small businesses are where most of my work happens. They have money and data, usually no full-time security person, and they're targeted constantly. A handful of controls block most real-world attacks.
 
-> [!question] Ask yourself
-> - If your bookkeeper got a convincing email from a real vendor saying "we changed banks", what would happen?
-> - If ransomware hit Monday morning, how many days until you could serve customers again?
-> - Could you answer a customer's or insurer's security questionnaire today?
-
 ## Your first five Sparks
 
-Start here. Each one takes an afternoon or less.
+Each takes an afternoon or less.
 
 1. [Turn on two-step login, starting with your email](../../practices/accounts-and-identity/acct-two-step-login.md)
 2. [Never change payment details on the strength of an email](../../practices/scams-and-social-engineering/scam-payment-change-verification.md)
@@ -72,9 +67,4 @@ Start here. Each one takes an afternoon or less.
 
 ## If something goes wrong
 
-- [Playbook: ransomware in a small office](../../playbooks/ransomware-small-office.md)
-- [Playbook: my email or social media account was hacked](../../playbooks/hacked-email.md)
-- [Playbook: I think I got scammed](../../playbooks/scam-victim.md)
-- [Playbook: I got a data breach notice](../../playbooks/data-breach-notice.md)
-
-[All playbooks](../../playbooks/index.md)
+See the [playbooks](../../playbooks/index.md).

@@ -4,7 +4,7 @@ description: "Sextortion, threats, harassment, or a scary contact: what to do fi
 tags: [playbook]
 ---
 
-If your child came to you, **thank them.** Stay calm in front of them. They need to know they're not in trouble and you'll handle it together.
+If your child came to you, **thank them.** Stay calm. They need to know they're not in trouble and you'll handle it together.
 
 **If your child is in immediate danger or talking about hurting themselves, call 911.** For a mental health crisis, call or text **988**, the Suicide & Crisis Lifeline.
 
@@ -20,13 +20,10 @@ If your child came to you, **thank them.** Stay calm in front of them. They need
 
 ## If it's bullying, harassment, or a creepy contact
 
-1. **Save evidence** (screenshots with dates and usernames).
-2. **Block and report** on the platform.
-3. **Involve the school** if classmates are involved. Most school bullying policies cover online behavior.
-4. **Contact police** for threats of violence, stalking, or an adult seeking contact with your child.
+1. **Save evidence** (screenshots with dates and usernames), then **block and report** on the platform.
+2. **Involve the school** if classmates are involved.
+3. **Contact police** for threats of violence, stalking, or an adult seeking contact with your child.
 
 ## Afterwards
 
-- Lock down privacy settings together ([Do a privacy checkup on your big accounts and phone](../practices/privacy-and-footprint/priv-account-privacy-review.md)).
-- Keep checking in gently for weeks. Kids often feel ashamed long after the crisis passes. Consider a counselor.
-- Next time, [have the family tech talk](../practices/people-and-culture/ppl-family-tech-talk.md), and keep having it.
+Lock down privacy settings together ([Do a privacy checkup on your big accounts and phone](../practices/privacy-and-footprint/priv-account-privacy-review.md)). Keep checking in gently for weeks, since kids often feel ashamed long after. Consider a counselor.

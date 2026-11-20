@@ -3,11 +3,7 @@ title: Respond & Recover
 description: "What to do when something goes wrong: contact sheets, playbooks, practice drills, and getting back to normal."
 ---
 
-Something will eventually go wrong. The difference between a bad day and a disaster is usually whether you knew who to call, had a backup, and had practiced once.
-
-> [!question] Ask yourself
-> - If your office computers were locked tomorrow, how long until you could work again?
-> - Have you ever practiced?
+The difference between a bad day and a disaster is usually whether you knew who to call, had a backup, and had practiced once.
 
 Already in trouble? Go to the [playbooks](../../playbooks/index.md).
 

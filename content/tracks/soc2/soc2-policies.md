@@ -25,14 +25,12 @@ Auditors read your policies, then check that you do what they say. Every gap bet
 | Security awareness | Training at hire and on a schedule |
 | HR security | Background checks, confidentiality agreements, onboarding and offboarding |
 
-Smaller companies often combine these into a few documents.
-
 ## Keeping them honest
 
 - **One owner per policy**, reviewed at least yearly, with the review date recorded.
 - **People acknowledge them** at hire and yearly. A signature or checkbox in your HR or compliance tool is evidence.
 - **When reality changes, change the policy.**
 
-JupiterOne's security policy templates (CC BY-SA 4.0) map to SOC 2, HIPAA, and NIST. Adapt them heavily. A template that says you do things you don't is worse than none.
+JupiterOne's security policy templates (CC BY-SA 4.0) map to SOC 2, HIPAA, and NIST. Adapt them heavily, since a template that says you do things you don't is worse than none.
 
 Next: [Controls and evidence](soc2-controls-and-evidence.md)

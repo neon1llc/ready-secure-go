@@ -27,9 +27,6 @@ sources:
 
 Almost every site and app now uses HTTPS, so someone on the same cafe network can see *which* sites you visit but not what you type. The real risks are fake networks with convincing names, fake login pages, and your device sharing more than you think.
 
-> [!question] Ask yourself
-> - How do you know "Airport_Free_WiFi" is the airport's?
-
 ## Do it
 
 1. **Confirm the network name** with staff or a posted sign. Be suspicious of duplicates.
@@ -37,8 +34,8 @@ Almost every site and app now uses HTTPS, so someone on the same cafe network ca
 3. **Don't click through certificate warnings.**
 4. **Turn off sharing:** set AirDrop to "Contacts Only" or "Receiving Off" and turn off file and printer sharing. On Windows, choose "Public network" when asked.
 5. **Use your phone's hotspot** for banking, work admin, or anything sensitive.
-6. **VPNs:** a VPN moves your trust from the cafe to the VPN company. It helps on hostile networks and when traveling, but it doesn't make you anonymous or stop phishing. Use one your employer gives you, or a reputable, audited provider.
-7. **Forget the network** when you leave, so your device doesn't auto-join a look-alike later.
+6. **VPNs:** a VPN moves your trust from the cafe to the VPN company. It doesn't make you anonymous or stop phishing. Use one your employer gives you, or a reputable, audited provider.
+7. **Forget the network** when you leave.
 
 > [!success] How do you know it worked?
 > Your device is set to "Public network" or similar, sharing is off, and sensitive things go over the hotspot.

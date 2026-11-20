@@ -3,15 +3,11 @@ title: Public & On the Go
 description: "Travel, public Wi-Fi, events, libraries, shared computers and crowded places."
 ---
 
-Away from home, your devices leave your network and your attention splits. Most of the risk is simple: theft, shoulder-surfing, fake networks and charging spots, and losing access while far away.
-
-> [!question] Ask yourself
-> - If your phone were stolen at an airport, could you still get into your email?
-> - What's visible on your screen to the person behind you?
+Away from home, most of the risk is simple: theft, shoulder-surfing, fake networks and charging spots, and losing access while far away.
 
 ## Your first five Sparks
 
-Start here. Each one takes an afternoon or less.
+Each takes an afternoon or less.
 
 1. [Set up find-my-device and remote wipe before you need it](../../practices/devices-and-updates/dev-find-and-wipe.md)
 2. [Lock your screens and encrypt your devices](../../practices/devices-and-updates/dev-screen-lock-and-encryption.md)
@@ -42,7 +38,4 @@ Start here. Each one takes an afternoon or less.
 
 ## If something goes wrong
 
-- [Playbook: my phone or laptop is lost or stolen](../../playbooks/lost-or-stolen-phone.md)
-- [Playbook: my email or social media account was hacked](../../playbooks/hacked-email.md)
-
-[All playbooks](../../playbooks/index.md)
+See the [playbooks](../../playbooks/index.md).

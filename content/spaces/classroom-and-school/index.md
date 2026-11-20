@@ -5,13 +5,9 @@ description: "Teachers, staff and students: protecting student data, classroom t
 
 Schools hold sensitive data about children, run on tight budgets, and are frequent ransomware targets, according to CISA's K-12 reporting. Every teacher is part of the defense.
 
-> [!question] Ask yourself
-> - Which apps and websites hold your students' information, and who approved them?
-> - If the "principal" emailed asking you to buy gift cards for a staff event, what would you do?
-
 ## Your first five Sparks
 
-Start here. Each one takes an afternoon or less.
+Each takes an afternoon or less.
 
 1. [Turn on two-step login, starting with your email](../../practices/accounts-and-identity/acct-two-step-login.md)
 2. [Learn the scam reflex, pause and verify](../../practices/scams-and-social-engineering/scam-pause-and-verify.md)
@@ -61,8 +57,4 @@ Start here. Each one takes an afternoon or less.
 
 ## If something goes wrong
 
-- [Playbook: my email or social media account was hacked](../../playbooks/hacked-email.md)
-- [Playbook: my child is in trouble online](../../playbooks/kid-in-trouble-online.md)
-- [Playbook: I got a data breach notice](../../playbooks/data-breach-notice.md)
-
-[All playbooks](../../playbooks/index.md)
+See the [playbooks](../../playbooks/index.md).

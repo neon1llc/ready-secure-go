@@ -28,20 +28,15 @@ sources:
 
 Your router is the front door between your home or office and the internet, and everything you do passes through it. Most people set it up once and never look at it again.
 
-> [!question] Ask yourself
-> - Is the router's admin password still the one on the sticker?
-> - Who has your Wi-Fi password? The neighbors from three years ago?
-
 ## Do it
 
 1. **Find the admin page or app.** The address and default login are usually on a sticker on the router (often 192.168.1.1 or 192.168.0.1), or in a phone app (eero, Nest, Orbi, Deco, your ISP's app).
 2. **Change the admin password** to a unique one in your password manager.
 3. **Wi-Fi security:** choose **WPA3** (or "WPA2/WPA3"). If you only see WEP or WPA, replace the router.
-4. **Wi-Fi password:** long, unique, and not your address or last name. Change it if many people have had it. Don't put your name or address in the network name.
-5. **Firmware:** update now and turn on automatic updates.
+4. **Wi-Fi password:** long, unique, and not your address or last name. Change it if many people have had it.
+5. **Firmware:** update now and turn on automatic updates. If your ISP rents you the router, check that it still gets updates.
 6. **Turn off** WPS (push-button pairing), remote administration from the internet, and UPnP unless something you rely on needs it.
 7. **Set up a guest network** for visitors and smart devices. See [Give guests and gadgets their own Wi-Fi](net-guest-network.md).
-8. If your ISP rents you the router, check that it still gets updates, or ask for a newer one.
 
 > [!success] How do you know it worked?
 > You can log into the router with a password from your password manager. It shows WPA3 or WPA2, the latest firmware, auto-update on, and WPS and remote admin off.
@@ -51,5 +46,4 @@ Your router is the front door between your home or office and the internet, and 
 
 ## Go further
 
-- [Give guests and gadgets their own Wi-Fi](net-guest-network.md)
 - [Secure your cameras and smart devices](../devices-and-updates/dev-iot-and-cameras.md)

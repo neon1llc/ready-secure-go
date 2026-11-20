@@ -27,18 +27,15 @@ sources:
 
 ## Why this matters
 
-Updates are mostly security fixes. Once a fix ships, attackers compare old and new versions to find what was broken and use it against everyone who hasn't updated, often within days. Automatic updates close that gap.
-
-> [!question] Ask yourself
-> - Which device can't update anymore? An old tablet, an old Windows PC, the camera recorder in the closet?
+Updates are mostly security fixes. Once a fix ships, attackers compare old and new versions to find what was broken and use it against everyone who hasn't updated, often within days.
 
 ## Do it
 
 1. **Phones:** on iPhone, Settings > General > Software Update > Automatic Updates, everything on. On Android, Settings > System > Software update, and Google Play > Settings > Auto-update apps.
-2. **Computers:** set Windows Update and macOS Software Update to install automatically. Restart when asked, since most updates finish then.
+2. **Computers:** set Windows Update and macOS Software Update to install automatically. Restart when asked.
 3. **Browsers** update only when restarted. Close yours fully once a week.
 4. **Router, cameras, smart devices:** turn on auto-update in each app or admin page. See [Set up your router like you mean it](../networks-and-wifi/net-router-basics.md) and [Secure your cameras and smart devices](dev-iot-and-cameras.md).
-5. **Offices:** use device management (Microsoft Intune, Google endpoint management, Jamf, or a monthly checklist) to confirm every machine is current. Prioritize anything on CISA's Known Exploited Vulnerabilities list, which CISA also publishes as a downloadable feed to match against your inventory.
+5. **Offices:** use device management (Microsoft Intune, Google endpoint management, Jamf, or a monthly checklist) to confirm every machine is current. Prioritize anything on CISA's Known Exploited Vulnerabilities list.
 6. **Replace what can't update.** See [Retire devices that can't get updates, and wipe them first](dev-retire-old-devices.md).
 
 > [!success] How do you know it worked?
@@ -49,5 +46,4 @@ Updates are mostly security fixes. Once a fix ships, attackers compare old and n
 
 ## Go further
 
-- [Retire devices that can't get updates, and wipe them first](dev-retire-old-devices.md)
 - [Know what you have](../govern-and-build/gov-inventory.md)

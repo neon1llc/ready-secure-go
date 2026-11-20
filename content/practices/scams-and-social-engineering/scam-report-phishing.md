@@ -24,16 +24,12 @@ sources:
 
 Somebody in your organization will eventually click a bad link. What matters is how fast you find out. When people report quickly, even with "I clicked it, sorry", a breach becomes a near miss. Blame makes people hide it.
 
-> [!question] Ask yourself
-> - If someone on your team clicked a phishing link this morning, would they tell anyone? Who?
-
 ## Do it
 
 1. **One button or one address:** turn on the "Report phishing" button in Outlook or Gmail, or create `phish@yourdomain` or a chat channel.
-2. **Thank every report**, even false alarms. Fast, friendly replies keep people reporting.
-3. **"I clicked" is a report, not a confession.** Say out loud that nobody gets in trouble for reporting.
-4. **Act:** if one person got it, others did too. Search and remove it from other inboxes (Microsoft 365 and Google Workspace admins can) and block the sender or domain.
-5. **Share examples** monthly: "here's what came in, here's the tell".
+2. **Thank every report**, even false alarms. "I clicked" is a report, not a confession, and nobody gets in trouble for reporting.
+3. **Act:** if one person got it, others did too. Search and remove it from other inboxes (Microsoft 365 and Google Workspace admins can) and block the sender or domain.
+4. **Share examples** monthly: "here's what came in, here's the tell".
 
 > [!success] How do you know it worked?
 > Reports come in regularly (zero usually means people don't know how, not that there's no phishing), and you can show how fast you acted on the last one.
@@ -41,4 +37,3 @@ Somebody in your organization will eventually click a bad link. What matters is 
 ## Go further
 
 - [Run security awareness people actually remember](../people-and-culture/ppl-security-awareness-that-works.md)
-- [Write your "if something goes wrong" sheet, on paper](../respond-and-recover/resp-incident-contact-sheet.md)

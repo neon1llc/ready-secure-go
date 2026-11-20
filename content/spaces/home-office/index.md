@@ -3,15 +3,11 @@ title: Home Office
 description: "Remote workers, freelancers and side businesses: work and home on the same network."
 ---
 
-When your office is your kitchen table, your home network is a business network and your kid's tablet sits next to client files. A few deliberate separations go a long way.
-
-> [!question] Ask yourself
-> - Do family members use the computer you work on?
-> - If a client asked how you protect their data, what would you say?
+When your office is your kitchen table, your kid's tablet sits next to client files. A few deliberate separations go a long way.
 
 ## Your first five Sparks
 
-Start here. Each one takes an afternoon or less.
+Each takes an afternoon or less.
 
 1. [Let a password manager remember for you](../../practices/accounts-and-identity/acct-password-manager.md)
 2. [Turn on two-step login, starting with your email](../../practices/accounts-and-identity/acct-two-step-login.md)
@@ -62,8 +58,4 @@ Start here. Each one takes an afternoon or less.
 
 ## If something goes wrong
 
-- [Playbook: my email or social media account was hacked](../../playbooks/hacked-email.md)
-- [Playbook: I think I got scammed](../../playbooks/scam-victim.md)
-- [Playbook: my phone or laptop is lost or stolen](../../playbooks/lost-or-stolen-phone.md)
-
-[All playbooks](../../playbooks/index.md)
+See the [playbooks](../../playbooks/index.md).

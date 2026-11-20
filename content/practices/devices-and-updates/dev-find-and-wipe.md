@@ -25,10 +25,7 @@ sources:
 
 ## Why this matters
 
-Remote tracking and erasing only work if you turn them on *before* the device goes missing.
-
-> [!question] Ask yourself
-> - Do you know your Apple or Google password without your phone? You need it to use Find My from another device.
+Remote tracking and erasing only work if you turn them on *before* the device goes missing. You also need your Apple or Google password without your phone.
 
 ## Do it
 
@@ -36,8 +33,7 @@ Remote tracking and erasing only work if you turn them on *before* the device go
 2. **Android:** Settings > Security > Find My Device (Find Hub), on.
 3. **Windows:** Settings > Privacy & security > Find my device, on.
 4. **Practice once:** log into icloud.com/find or google.com/android/find from another device and see your phone on the map.
-5. **Families:** set up family sharing so you can help a kid or parent find theirs.
-6. **Offices:** enroll company devices in device management so IT can lock or wipe them, and say so in your device policy.
+5. **Offices:** enroll company devices in device management so IT can lock or wipe them.
 
 > [!success] How do you know it worked?
 > You can see each device on the map from a browser, and you know the password needed to get there.
@@ -45,4 +41,3 @@ Remote tracking and erasing only work if you turn them on *before* the device go
 ## Go further
 
 - [Playbook: lost or stolen phone](../../playbooks/lost-or-stolen-phone.md)
-- [Lock your screens and encrypt your devices](dev-screen-lock-and-encryption.md)

@@ -26,19 +26,15 @@ sources:
 
 ## Why this matters
 
-"Anyone with the link can view" feels private because the link is long. But links get forwarded, pasted into chats, and left in old emails. Schools, nonprofits, and small offices often have years of student records, donor lists, or tax documents behind public links nobody remembers making.
-
-> [!question] Ask yourself
-> - Of the files you shared last year, who can still open them?
+"Anyone with the link can view" feels private because the link is long. But links get forwarded, pasted into chats, and left in old emails. Years of student records, donor lists, or tax documents can sit behind public links nobody remembers making.
 
 ## Do it
 
-1. **Google Drive:** search `is:shared` or check "Shared with me" and your folders' share settings. Workspace admins can run a sharing report.
-2. **OneDrive/SharePoint:** use "Manage access" on folders. Admins can run sharing reports in the Microsoft 365 admin center.
-3. Change "anyone with the link" to **specific people** for anything personal, financial, medical, or about students.
-4. Set **expiration dates** on links to sensitive files.
-5. **Remove people who left.** See [Give access on day one and take it all back on the last day](../people-and-culture/ppl-onboarding-offboarding.md).
-6. **Organizations:** default sharing to "people in your organization" and decide which data is never shared externally.
+1. **Google Drive:** search `is:shared` and check your folders' share settings. **OneDrive/SharePoint:** use "Manage access". Admins can run sharing reports.
+2. Change "anyone with the link" to **specific people** for anything personal, financial, medical, or about students.
+3. Set **expiration dates** on links to sensitive files.
+4. **Remove people who left.** See [Give access on day one and take it all back on the last day](../people-and-culture/ppl-onboarding-offboarding.md).
+5. **Organizations:** default sharing to "people in your organization".
 
 > [!success] How do you know it worked?
 > Sensitive folders show only named people, and none are former members.

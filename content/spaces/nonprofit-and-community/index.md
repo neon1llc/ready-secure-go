@@ -5,13 +5,9 @@ description: "Volunteer groups, places of worship, community organizations: doin
 
 Nonprofits hold donor data, payment details, and sometimes information about vulnerable people, often with rotating volunteers, shared logins, and no IT budget. Google and Microsoft both offer free or discounted nonprofit plans.
 
-> [!question] Ask yourself
-> - How many people know the password to your main email, donation platform, or social media? Do some no longer volunteer?
-> - Who personally owns your domain name and website?
-
 ## Your first five Sparks
 
-Start here. Each one takes an afternoon or less.
+Each takes an afternoon or less.
 
 1. [Let a password manager remember for you](../../practices/accounts-and-identity/acct-password-manager.md)
 2. [Turn on two-step login, starting with your email](../../practices/accounts-and-identity/acct-two-step-login.md)
@@ -64,8 +60,4 @@ Start here. Each one takes an afternoon or less.
 
 ## If something goes wrong
 
-- [Playbook: my email or social media account was hacked](../../playbooks/hacked-email.md)
-- [Playbook: I think I got scammed](../../playbooks/scam-victim.md)
-- [Playbook: I got a data breach notice](../../playbooks/data-breach-notice.md)
-
-[All playbooks](../../playbooks/index.md)
+See the [playbooks](../../playbooks/index.md).

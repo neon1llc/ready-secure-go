@@ -8,7 +8,7 @@ Most breaches don't lead to harm *if* you act on what leaked.
 
 ## First: is the notice real?
 
-Scammers send fake breach notices. **Don't click links or call numbers in the notice.** Go to the company's website yourself, or search for news of the breach, and check that it matches.
+Scammers send fake breach notices. **Don't click links or call numbers in the notice.** Go to the company's website yourself and check that it matches.
 
 ## Then match your action to what leaked
 
@@ -20,15 +20,11 @@ Scammers send fake breach notices. **Don't click links or call numbers in the no
 | **Card number** | Ask your bank for a new card. Watch statements. |
 | **Bank account number** | Tell your bank and ask about extra protection. |
 | **Medical or insurance info** | Check insurer statements ("explanation of benefits") for services you didn't get. |
-| **Driver's license or passport** | Watch for identity misuse. Report to IdentityTheft.gov if it happens. |
+| **Driver's license or passport** | Report to IdentityTheft.gov if it's misused. |
 | **Security question answers** | Change them to made-up answers stored in your password manager. |
 
 Accept any free credit monitoring, signing up through the company's official site.
 
 ## If you're the organization that was breached
 
-- Call your lawyer and cyber insurer first. Notification rules depend on the data, the state, and your contracts.
-- The FTC's *Data Breach Response: A Guide for Business* is a solid free checklist.
-- Tell affected people quickly and plainly what leaked and what to do, ideally with a table like the one above.
-
-Next time, [find out what's already leaked about you](../practices/accounts-and-identity/acct-breach-check.md).
+Call your lawyer and cyber insurer first, since notification rules depend on the data, the state, and your contracts. The FTC's *Data Breach Response: A Guide for Business* is a checklist. Tell affected people quickly and plainly what leaked and what to do.

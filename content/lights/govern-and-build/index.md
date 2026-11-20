@@ -3,11 +3,7 @@ title: Govern & Build
 description: "Inventories, vendors, policies, compliance, cloud accounts and secure software: running security on purpose."
 ---
 
-This is where security becomes something you run: knowing what you have, choosing vendors carefully, writing down the few rules that matter, and building software and cloud systems that are safe by default. SOC 2, NIST CSF, OWASP, and MITRE ATT&CK earn their keep here.
-
-> [!question] Ask yourself
-> - Could you list every system and vendor that holds your customers' data?
-> - If a big customer asked how you protect their data, what would you show them?
+This is where security becomes something you run: knowing what you have, choosing vendors carefully, writing down the few rules that matter, and building software and cloud systems that are safe by default.
 
 See the [SOC 2 readiness track](../../tracks/soc2/index.md) and the [Builders](../../spaces/builders/index.md) space.
 

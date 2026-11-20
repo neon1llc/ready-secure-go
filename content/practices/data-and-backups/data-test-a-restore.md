@@ -25,17 +25,13 @@ sources:
 
 Backups fail quietly. The drive filled up eight months ago, the job only covered the Desktop, or the encryption password left with an employee. Find out before an emergency.
 
-> [!question] Ask yourself
-> - If your main computer died today, how long until you're working again? Have you timed it?
-
 ## Do it
 
 1. **Pick a target:** a file, a folder, a whole laptop, or for a business, your most important system.
-2. **Restore it somewhere safe**, such as a different folder or a spare machine, not over the original.
-3. **Open it.** Does it work, and is it the version you expected?
-4. **Write down** how long it took and what you'd need next time (passwords, license keys, installers).
-5. **Repeat:** a file restore every quarter, a full system restore once a year, with a different person each time.
-6. **Businesses:** record the date, scope, result, and time taken. SOC 2 availability criteria and cyber insurance questionnaires ask for that evidence.
+2. **Restore it somewhere safe**, not over the original, and **open it.** Is it the version you expected?
+3. **Write down** how long it took and what you'd need next time (passwords, license keys, installers).
+4. **Repeat:** a file restore every quarter, a full system restore once a year.
+5. **Businesses:** record the date, scope, result, and time taken. SOC 2 availability criteria and cyber insurance questionnaires ask for that evidence.
 
 > [!success] How do you know it worked?
 > You have a dated note saying "restored X in Y minutes, it opened fine", and someone else could follow it.
@@ -43,4 +39,3 @@ Backups fail quietly. The drive filled up eight months ago, the job only covered
 ## Go further
 
 - [Practice a bad day with a tabletop exercise](../respond-and-recover/resp-tabletop-exercise.md)
-- [SOC 2 track](../../tracks/soc2/index.md)

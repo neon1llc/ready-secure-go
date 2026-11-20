@@ -22,27 +22,18 @@ sources:
 
 ## Why this matters
 
-Every assessment I do starts here, because every other control depends on it. The laptop nobody patches is the one nobody remembered. The forgotten free trial still has your customer list. The old website on a cheap host gets hacked and serves malware with your name on it.
-
-> [!question] Ask yourself
-> - Who owns your domain name and website hosting, and do you have the logins?
+Every assessment I do starts here, because every other control depends on it. The laptop nobody patches is the one nobody remembered. The forgotten free trial still has your customer list.
 
 ## Do it
 
 Make a spreadsheet with four tabs:
 
-1. **Devices:** type, user, serial number, operating system and version, encrypted (yes/no), managed (yes/no).
-2. **Software and online services:** name, purpose, owner, data it holds, MFA on (yes/no), admins.
+1. **Devices:** type, user, serial number, operating system and version, encrypted, managed.
+2. **Software and online services:** name, owner, data it holds, MFA on, admins.
 3. **Accounts that matter most:** domain registrar, DNS, website host, email admin, bank, payroll, social media, with who holds the keys and where recovery goes.
 4. **Vendors:** who has access to your data or systems ([Ask your vendors the five questions that matter](gov-vendor-review.md)).
 
-Then:
-
-- Go through **credit card and bank statements** for services you forgot.
-- Mark anything **unowned, unsupported, or unused**, then fix, replace, or cancel it.
-- Review monthly (new hires, new tools) and fully once a year.
-
-Growing organizations: device management (Intune, Jamf, Google endpoint management) and your identity provider's app list can automate much of this.
+Then check **card and bank statements** for services you forgot, and mark anything **unowned, unsupported, or unused**. Fix, replace, or cancel it. Review monthly and fully once a year.
 
 > [!success] How do you know it worked?
 > If someone asks "do we use X, and who owns it?", you can answer in under a minute.

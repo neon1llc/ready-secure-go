@@ -6,8 +6,9 @@ Ready, Secure, Go releases use `v0.MINOR.PATCH` until the first complete release
 
 ### Changed
 - Tighter wording in the README, landing page, About, readiness check, levels, library, and teach pages.
-- Shorter practice cards, playbooks, Lights, teach kits, Spaces, and tracks. Steps, citations, and figures are unchanged, and the Discovery questions on cameras sit under Devices & Updates.
-- The teach kits group their demos and practice into one Activities section.
+- About 30 percent fewer words in practice cards and about 20 percent fewer in playbooks, teach kits, and Lights. Causes, citations, figures, and fix steps are kept. The "Ask yourself" prompts, repeated links, background anecdotes, and low-value steps are cut, and the Discovery questions on cameras sit under Devices & Updates.
+- The teach kits group their demos and practice into one Activities section, and drop their Misconceptions sections.
+- Each Space links to the playbooks page instead of repeating its own list, and the SOC 2 readiness checklist links its practices from the criteria page.
 - The README carries the one disclaimer, moved from the SOC 2 track.
 - The offer of free sessions and the tagline are removed from the README and About page.
 

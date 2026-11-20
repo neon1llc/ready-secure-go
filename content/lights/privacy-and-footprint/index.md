@@ -3,11 +3,7 @@ title: Privacy & Footprint
 description: "What's out there about you: settings, data brokers, breaches, the dark web, and identity protection."
 ---
 
-Every detail about you online, from your address to your kids' school, is raw material for scams and account takeovers. You can't erase everything, but you can shrink your footprint and make leaked data useless.
-
-> [!question] Ask yourself
-> - What would a stranger learn about you in two minutes of searching your name and city?
-> - Is your credit frozen? Your kids'?
+Every detail about you online is raw material for scams and account takeovers. You can't erase everything, but you can shrink your footprint and make leaked data useless.
 
 ## Practices
 

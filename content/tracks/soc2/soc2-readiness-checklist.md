@@ -4,7 +4,7 @@ description: "A printable self-assessment to see where you stand before you call
 tags: [soc2, checklist]
 ---
 
-Tick what's true *and provable* today.
+Tick what's true *and provable* today. The practice cards behind each item are linked from [the criteria page](soc2-criteria-in-plain-words.md).
 
 ## Foundations
 
@@ -12,47 +12,47 @@ Tick what's true *and provable* today.
 - [ ] The reason and target date are clear (which customers, which report type, when)
 - [ ] Scope is defined: system, categories, subservice organizations ([Scoping: what's in, what's out](soc2-scope.md))
 - [ ] A system diagram and data flow exist
-- [ ] Inventory of devices, software, cloud accounts, and vendors ([Know what you have](../../practices/govern-and-build/gov-inventory.md))
+- [ ] Inventory of devices, software, cloud accounts, and vendors
 
 ## People
 
-- [ ] Policies written, approved, owned, and acknowledged by staff ([Policies people will actually read](soc2-policies.md))
-- [ ] Onboarding and offboarding checklists in use, with records ([Give access on day one and take it all back on the last day](../../practices/people-and-culture/ppl-onboarding-offboarding.md))
-- [ ] Security training at hire and yearly, with completion records ([Run security awareness people actually remember](../../practices/people-and-culture/ppl-security-awareness-that-works.md))
+- [ ] Policies written, approved, owned, and acknowledged by staff
+- [ ] Onboarding and offboarding checklists in use, with records
+- [ ] Security training at hire and yearly, with completion records
 - [ ] Background checks and confidentiality agreements where appropriate
 
 ## Access
 
 - [ ] Single sign-on for core tools where possible
-- [ ] MFA enforced on email, identity provider, cloud, code repository, and admin access ([Turn on two-step login, starting with your email](../../practices/accounts-and-identity/acct-two-step-login.md))
-- [ ] Separate admin accounts, few of them ([Keep admin power out of everyday accounts](../../practices/accounts-and-identity/acct-admin-separation.md))
+- [ ] MFA enforced on email, identity provider, cloud, code repository, and admin access
+- [ ] Separate admin accounts, few of them
 - [ ] Quarterly access reviews scheduled and recorded
-- [ ] Physical access to offices controlled and logged ([Control who can walk into your space](../../practices/physical-and-travel/phys-office-access.md))
+- [ ] Physical access to offices controlled and logged
 
 ## Systems
 
-- [ ] Laptops managed: encrypted, updated, screen lock, malware protection ([Lock your screens and encrypt your devices](../../practices/devices-and-updates/dev-screen-lock-and-encryption.md), [Turn on automatic updates, everywhere](../../practices/devices-and-updates/dev-auto-updates.md))
+- [ ] Laptops managed: encrypted, updated, screen lock, malware protection
 - [ ] Vulnerability scanning and a patching timeline
 - [ ] Logging on critical systems, with alerts someone actually reads
-- [ ] Cloud root accounts locked down ([Lock down the root of your cloud account](../../practices/govern-and-build/gov-cloud-account-basics.md))
-- [ ] Code changes reviewed and tested, with branch protection on ([Build the OWASP Top 10 habits into how you ship](../../practices/govern-and-build/build-owasp-top10-habits.md))
-- [ ] Secrets in a secrets manager, scanning in CI ([Keep secrets out of code and chat](../../practices/govern-and-build/build-secrets-out-of-code.md))
+- [ ] Cloud root accounts locked down
+- [ ] Code changes reviewed and tested, with branch protection on
+- [ ] Secrets in a secrets manager, scanning in CI
 
 ## Resilience
 
-- [ ] Backups running, with at least one protected copy ([Back up what you can't lose, the 3-2-1 way](../../practices/data-and-backups/data-3-2-1-backup.md))
-- [ ] Restore test done and recorded ([Prove your backup works by restoring from it](../../practices/data-and-backups/data-test-a-restore.md))
-- [ ] Incident response plan written and tested with a tabletop ([Practice a bad day with a tabletop exercise](../../practices/respond-and-recover/resp-tabletop-exercise.md))
+- [ ] Backups running, with at least one protected copy
+- [ ] Restore test done and recorded
+- [ ] Incident response plan written and tested with a tabletop
 - [ ] Business continuity plan for the in-scope system
 
 ## Risk and vendors
 
 - [ ] Annual risk assessment with a risk register
-- [ ] Vendor reviews with SOC reports collected and their user-entity controls checked ([Ask your vendors the five questions that matter](../../practices/govern-and-build/gov-vendor-review.md))
+- [ ] Vendor reviews with SOC reports collected and their user-entity controls checked
 
 ## Reviewing the gaps
 
-Use this as a discussion checklist, not a readiness score. Record what is in place, what evidence exists, what is out of scope, and what still needs review. A checked box does not show that a control is designed well or operates effectively.
+Use this as a discussion checklist, not a readiness score. Record what is in place, what evidence exists, what is out of scope, and what needs review. A checked box does not show that a control is designed well or operates effectively.
 
 Discuss the in-scope system, criteria, evidence, exceptions, and examination period with the CPA firm. This checklist cannot tell you whether you are ready for a Type I or Type II examination. The [Growing Organization](../../spaces/growing-organization/index.md) path can help you pick follow-up work.
 

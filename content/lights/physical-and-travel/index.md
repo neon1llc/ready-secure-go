@@ -3,11 +3,7 @@ title: Physical & Travel
 description: "Doors, keys, badges, visitors, screens, paper, and keeping devices safe on the move."
 ---
 
-A propped-open door, an unlocked network closet, or a laptop left in a cafe can undo every digital control. I always walk the space.
-
-> [!question] Ask yourself
-> - How many keys or codes to your space exist, and who has them?
-> - Could a stranger carrying a box follow someone inside?
+A propped-open door, an unlocked network closet, or a laptop left in a cafe can undo every digital control.
 
 ## Practices
 

@@ -24,9 +24,6 @@ sources:
 
 Plans that have never been practiced fail in boring ways: the backup admin password is in the hacked email, nobody has the insurer's number, or two people each think the other is calling the bank. A tabletop exercise is a structured "what would we do if...?" conversation that touches no computers.
 
-> [!question] Ask yourself
-> - How would you reach each other if email and chat were down?
-
 ## Do it
 
 1. **Pick a realistic scenario.** Good first ones: "the office manager's email is hacked and sent invoices to all our clients", "ransomware on the file server Monday morning", or for a family, "Mom's phone is stolen while traveling".
@@ -38,9 +35,8 @@ Plans that have never been practiced fail in boring ways: the backup admin passw
 7. **Keep the record** (date, attendees, scenario, findings, fixes) as evidence for SOC 2 and insurers.
 
 > [!success] How do you know it worked?
-> You leave with a short list of concrete fixes, and the next exercise goes noticeably smoother.
+> You leave with a short list of concrete fixes.
 
 ## Go further
 
 - [Write your "if something goes wrong" sheet, on paper](resp-incident-contact-sheet.md)
-- [Prove your backup works by restoring from it](../data-and-backups/data-test-a-restore.md)

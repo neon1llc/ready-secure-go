@@ -30,10 +30,7 @@ sources:
 
 ## Why this matters
 
-The OWASP Top 10 lists the most serious web application risks, built from data across thousands of applications. The same mistakes recur every year, they're cheap to prevent while building, and expensive to fix after a breach.
-
-> [!question] Ask yourself
-> - Can a logged-in user change an ID in a URL and see someone else's data?
+The OWASP Top 10 lists the most serious web application risks. The same mistakes recur every year, and they're cheap to prevent while building and expensive to fix after a breach.
 
 ## Do it
 
@@ -42,7 +39,7 @@ Turn each risk into a habit. The table uses the long-standing category names. Th
 | Risk | Habit |
 |---|---|
 | **Broken access control** | Check authorization on the server for *every* request, deny by default, and test with other users' IDs. |
-| **Security misconfiguration** | Hardened defaults, no debug mode or default credentials in production, security headers, and infrastructure as code reviewed like code. |
+| **Security misconfiguration** | Hardened defaults, no debug mode or default credentials in production, and infrastructure as code reviewed like code. |
 | **Vulnerable and outdated components** | Dependabot or Renovate on, a software bill of materials, and critical patches within days. |
 | **Cryptographic failures** | TLS everywhere, standard libraries only, passwords hashed with Argon2id, scrypt, or bcrypt, and secrets in a manager ([Keep secrets out of code and chat](build-secrets-out-of-code.md)). |
 | **Injection** | Parameterized queries, auto-escaping templates, and no shell commands built from input. |
@@ -52,11 +49,7 @@ Turn each risk into a habit. The table uses the long-standing category names. Th
 | **Logging and alerting failures** | Log logins, access-control denials, and admin actions, and alert on spikes. |
 | **Server-side request forgery** | Allow-list outbound destinations and block cloud metadata endpoints from app code. |
 
-Then:
-
-1. Add the relevant OWASP Cheat Sheets to your code review checklist.
-2. Run SAST (Semgrep, CodeQL), dependency scanning, and secret scanning in CI.
-3. Aim for OWASP ASVS Level 1 on most apps, and Level 2 on apps holding sensitive data.
+Then run SAST (Semgrep, CodeQL), dependency scanning, and secret scanning in CI. Aim for OWASP ASVS Level 1 on most apps, and Level 2 on apps holding sensitive data.
 
 > [!success] How do you know it worked?
 > Your pull request template has a security checklist, CI fails on new critical findings, and your last dependency update is under a month old.
@@ -67,4 +60,3 @@ Then:
 ## Go further
 
 - [Lock down the root of your cloud account](gov-cloud-account-basics.md)
-- [Library: OWASP projects](../../library/index.md)

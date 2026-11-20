@@ -3,15 +3,10 @@ title: Growing Organization
 description: "Organizations reviewing existing security controls, responsibilities, evidence, and new requirements."
 ---
 
-Use this path when customer requirements, growth, a system change, or an internal review calls for stronger control evidence. Start from the systems, controls, staff, and providers you already have, choose the relevant practices, and assess gaps within an agreed scope.
+Use this path when customer requirements, growth, a system change, or an internal review calls for stronger control evidence. Start from the controls you already have, choose the relevant practices, and assess gaps within an agreed scope.
 
 > [!note] Basics-plus
 > This path covers the practices most organizations need first. It is not a security program or an assessment. For depth, use the [NIST Cybersecurity Framework 2.0](https://www.nist.gov/cyberframework), the [CIS Controls Implementation Groups](https://www.cisecurity.org/controls/implementation-groups), and CISA's [Cross-Sector Cybersecurity Performance Goals](https://www.cisa.gov/cross-sector-cybersecurity-performance-goals).
-
-> [!question] Ask yourself
-> - Could you produce, today, a list of everyone with admin access to your critical systems?
-> - Who is accountable for security, and do they have time and budget for it?
-> - When a big customer asks for your SOC 2 report, what's the plan?
 
 ## Your first five
 
@@ -71,8 +66,4 @@ Review these against your existing controls. They are Glow level, and the time e
 
 ## If something goes wrong
 
-- [Playbook: ransomware in a small office](../../playbooks/ransomware-small-office.md)
-- [Playbook: I got a data breach notice](../../playbooks/data-breach-notice.md)
-- [Playbook: my email or social media account was hacked](../../playbooks/hacked-email.md)
-
-[All playbooks](../../playbooks/index.md)
+See the [playbooks](../../playbooks/index.md).

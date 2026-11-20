@@ -26,26 +26,21 @@ sources:
 
 ## Why this matters
 
-Scams don't beat your technology. They beat your *attention*. A scammer only needs you to act before you think: click, pay, read out the code, buy the gift cards. The FBI's yearly Internet Crime Reports show fraud losses in the billions of dollars, and they keep growing. The fix is a habit, not an app.
+Scams don't beat your technology. They beat your *attention*. A scammer only needs you to act before you think. The FBI's yearly Internet Crime Reports show fraud losses in the billions of dollars, and they keep growing. Slow down if a request carries any of these:
 
-> [!question] Ask yourself
-> Does the request carry any of these four pressures?
->
-> - **Urgency:** "within 24 hours", "your account will be closed", "Grandpa, I'm in jail".
-> - **Secrecy:** "don't tell anyone".
-> - **Authority or emotion:** the IRS, the bank, the CEO, a crying grandchild, a romance.
-> - **Strange payment:** gift cards, wire transfers, crypto, payment apps, or "move your money to a safe account".
->
-> If so, slow down.
+- **Urgency:** "within 24 hours", "your account will be closed".
+- **Secrecy:** "don't tell anyone".
+- **Authority or emotion:** the IRS, the bank, the CEO, a crying grandchild, a romance.
+- **Strange payment:** gift cards, wire transfers, crypto, payment apps, or "move your money to a safe account".
 
 ## Do it
 
 1. **Pause.** Real banks, agencies, and bosses can wait ten minutes.
 2. **Don't use the contact info in the message.** Hang up, close the email, and reach the person or company on a number or app *you already have*: the back of your card, the official app, your saved contacts.
-3. **Never share one-time codes.** No legitimate caller asks you to read back a code you just received. That code is the key to your account.
-4. **Never pay with gift cards, crypto, or wires** because someone told you to. Legitimate organizations don't ask for that.
+3. **Never share one-time codes.** No legitimate caller asks you to read back a code you just received.
+4. **Never pay with gift cards, crypto, or wires** because someone told you to.
 5. **Hover before you click.** Check where a link really goes, or type the website yourself.
-6. **Talk about it.** Telling family, coworkers, or students "I almost fell for this" makes it safe for others to ask.
+6. **Talk about it.** Telling family or coworkers "I almost fell for this" makes it safe for others to ask.
 7. **Report it:** forward phishing texts to **7726** (SPAM), report fraud at **ReportFraud.ftc.gov**, and internet crime at **ic3.gov**.
 
 > [!success] How do you know it worked?
@@ -57,5 +52,4 @@ Scams don't beat your technology. They beat your *attention*. A scammer only nee
 ## Go further
 
 - [Agree on a family code word for emergencies](scam-family-code-word.md)
-- [Never change payment details on the strength of an email](scam-payment-change-verification.md)
 - [Playbook: I think I got scammed](../../playbooks/scam-victim.md)

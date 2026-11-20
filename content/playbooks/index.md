@@ -3,7 +3,7 @@ title: Playbooks
 description: "Step-by-step help when something has already gone wrong."
 ---
 
-If money is moving or a child is in danger, act on that first. Call the bank or 911. Everything else can wait ten minutes.
+If money is moving or a child is in danger, act on that first. Call the bank or 911.
 
 | What happened | Playbook |
 |---|---|

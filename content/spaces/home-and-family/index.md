@@ -3,15 +3,11 @@ title: Home & Family
 description: "The household: parents, kids, partners, roommates, the router in the closet and the cameras by the door."
 ---
 
-A home network is a tiny organization with no IT department: kids, grandparents, smart TVs, cameras, game consoles, and one router. The goal is a family that's hard to scam, quick to recover, and comfortable talking about what happens online.
-
-> [!question] Ask yourself
-> - Would your kids tell you if something online scared or embarrassed them?
-> - Who knows the router password, and when did it last change?
+A home network is a tiny organization with no IT department. The goal is a family that's hard to scam, quick to recover, and comfortable talking about what happens online.
 
 ## Your first five Sparks
 
-Start here. Each one takes an afternoon or less.
+Each takes an afternoon or less.
 
 1. [Have the family tech talk, and keep having it](../../practices/people-and-culture/ppl-family-tech-talk.md)
 2. [Agree on a family code word for emergencies](../../practices/scams-and-social-engineering/scam-family-code-word.md)
@@ -62,8 +58,4 @@ Start here. Each one takes an afternoon or less.
 
 ## If something goes wrong
 
-- [Playbook: my child is in trouble online](../../playbooks/kid-in-trouble-online.md)
-- [Playbook: I think I got scammed](../../playbooks/scam-victim.md)
-- [Playbook: my email or social media account was hacked](../../playbooks/hacked-email.md)
-
-[All playbooks](../../playbooks/index.md)
+See the [playbooks](../../playbooks/index.md).

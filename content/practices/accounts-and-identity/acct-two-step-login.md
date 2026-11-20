@@ -31,31 +31,28 @@ sources:
 
 ## Why this matters
 
-Passwords leak through breaches, fake login pages, and malware. Two-step login (**multi-factor authentication**, or **MFA**) means a thief also needs something you *have*, like your phone or a key, or something you *are*, like your face. Microsoft and Google have both reported that it blocks the vast majority of automated account takeovers.
-
-> [!question] Ask yourself
-> - If someone talked your carrier into moving your number to their SIM, which codes would they receive?
+Passwords leak through breaches, fake login pages, and malware. Two-step login (**multi-factor authentication**, or **MFA**) means a thief also needs something you *have*, like your phone or a key. Microsoft and Google have both reported that it blocks the vast majority of automated account takeovers.
 
 ## Do it
 
 Use the strongest each account supports:
 
 1. **Passkey or hardware security key** (FIDO2/WebAuthn). Phishing-resistant, because they only work on the real website. See [Switch important accounts to passkeys](acct-passkeys.md).
-2. **Authenticator app** (Google Authenticator, Microsoft Authenticator, Aegis, 2FAS, or your password manager's). It gives a 6-digit code that changes every 30 seconds.
-3. **Push approval** ("Is this you?"). Fine if it shows a number to match. Never approve a prompt you didn't start.
+2. **Authenticator app.** A 6-digit code that changes every 30 seconds.
+3. **Push approval.** Fine if it shows a number to match. Never approve a prompt you didn't start.
 4. **Text-message code.** Better than nothing, but vulnerable to SIM swaps.
 
 Then:
 
 - **Order:** email, phone carrier account (also set a carrier PIN or port-out lock), banking, password manager, social media, work.
-- **Save the backup codes** each site gives you, in your password manager or printed.
+- **Save the backup codes** each site gives you.
 - **Offices:** require MFA for email, remote access, cloud admin consoles, and anything reachable from the internet. Admins get the phishing-resistant kind.
 
 > [!success] How do you know it worked?
 > Log out of email on another device and back in. You're asked for the second step, and your settings show two sign-in methods and saved backup codes.
 
 > [!danger] Attacker's-eye view
-> With a leaked password, an attacker just logs in (MITRE ATT&CK T1078, Valid Accounts). With MFA they must spam you with push prompts (T1621, MFA Request Generation) or relay your code through a fake login page in real time.
+> With a leaked password, an attacker just logs in (MITRE ATT&CK T1078, Valid Accounts). With MFA they must spam you with push prompts (T1621, MFA Request Generation) or relay your code through a fake login page.
 
 ## Go further
 

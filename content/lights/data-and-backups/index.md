@@ -3,11 +3,7 @@ title: Data & Backups
 description: "What you can't afford to lose, where it lives, who can see it, and how you'd get it back."
 ---
 
-Data is what attackers want and what you'd miss most. Backups work against almost everything: dead drives, theft, mistakes, and ransomware.
-
-> [!question] Ask yourself
-> - If ransomware locked your files today, could it reach your backups too?
-> - Who can open the files you've shared over the years?
+Backups work against almost everything: dead drives, theft, mistakes, and ransomware. Check that ransomware can't reach yours, and who can open the files you've shared.
 
 ## Practices
 

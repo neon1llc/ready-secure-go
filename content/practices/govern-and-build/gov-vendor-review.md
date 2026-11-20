@@ -24,24 +24,17 @@ sources:
 
 When a payroll provider, IT support firm, school app, donor database, or website plugin is breached, it's your data and your customers' trust. Some of the most damaging recent attacks came through a trusted vendor's access or software.
 
-> [!question] Ask yourself
-> - Which vendors could log into your systems right now? Your IT company's remote tool counts.
-
 ## Do it
 
 For each vendor that holds sensitive data or has access, ask and record:
 
-1. **Do you have a recent independent security report?** A SOC 2 Type II report or ISO 27001 certificate is the strongest evidence a vendor can show. Check its scope, dates, and exceptions, since it covers only what the vendor put in scope. For small vendors, a security page or completed questionnaire may be all there is.
+1. **Do you have a recent independent security report?** A SOC 2 Type II report or ISO 27001 certificate is the strongest evidence a vendor can show. Check its scope, dates, and exceptions, since it covers only what the vendor put in scope. Small vendors may have only a security page or questionnaire.
 2. **Do you require MFA for your staff, and offer it to us?**
 3. **Where is our data stored, who can see it, and is it encrypted?**
 4. **How and how fast will you tell us about a breach?** Get it in the contract if you can.
 5. **How do we get our data back, and deleted, if we leave?**
 
-Then:
-
-- **Limit access:** vendors get only what they need, ideally time-limited, with named accounts, not shared logins.
-- **Review important vendors yearly.** In their SOC 2 reports, read "exceptions" and "complementary user entity controls", which list what *you* must do.
-- **Students' and children's data:** check for privacy commitments (FERPA and COPPA in the U.S.) and signed data privacy agreements.
+Then limit access to what each vendor needs, with named accounts, not shared logins, and review important vendors yearly. In SOC 2 reports, read "exceptions" and "complementary user entity controls", which list what *you* must do. For students' and children's data, check for FERPA and COPPA commitments in the U.S. and signed data privacy agreements.
 
 > [!success] How do you know it worked?
 > Your vendor tab ([Know what you have](gov-inventory.md)) shows each important vendor's last review date and where their answers are kept.

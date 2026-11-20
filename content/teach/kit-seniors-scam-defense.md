@@ -6,7 +6,7 @@ tags: [teach, kit]
 
 **Audience:** older adults, caregivers, senior center staff. **Length:** 45 to 60 minutes. **You'll need:** large-print handouts, a phone for demos, and the [home checklist](../printables/home-spark-checklist.md) printed big.
 
-**Tone:** respectful, never condescending. Many in the room have spotted more scams than you have. Let them share.
+**Tone:** respectful. Many in the room have spotted more scams than you have.
 
 ## Objectives
 
@@ -19,7 +19,7 @@ Participants can:
 
 ## Hook (5 min)
 
-Ask: *"Who's gotten a call from 'Medicare', 'Social Security', or 'the bank' this year?"* Invite one or two stories. *"Every one of those callers counted on you acting before you had time to think. Today is about taking that time back."*
+Ask who has gotten a call from "Medicare", "Social Security", or "the bank" this year, and invite one or two stories.
 
 ## Explanation (15 min)
 
@@ -29,22 +29,15 @@ Ask: *"Who's gotten a call from 'Medicare', 'Social Security', or 'the bank' thi
 
 ## Activities (20 min)
 
-- **Name the pressure** (10 min): read three scam scripts aloud. The room calls out "pressure!" at urgency, secrecy, authority, or a strange payment. Then show a screenshot of a fake "your computer is infected, call this number" pop-up and demonstrate closing the browser instead of calling.
+- **Name the pressure** (10 min): read three scam scripts aloud. The room calls out "pressure!" at urgency, secrecy, authority, or a strange payment. Then show a fake "your computer is infected, call this number" pop-up and close the browser instead of calling.
 - **Code word** (10 min): in pairs, practice the conversation: "If anyone ever calls saying they're me and in trouble, they'll know our word" ([Agree on a family code word for emergencies](../practices/scams-and-social-engineering/scam-family-code-word.md)).
-
-## Misconceptions to address
-
-- *"Only careless people fall for scams."* Scammers are professionals, and anyone can be caught on a bad day.
-- *"If they know my name and address, they must be real."* That information is easy to buy ([Get yourself off data broker sites](../practices/privacy-and-footprint/priv-data-broker-opt-out.md)).
-- *"Telling my family would be embarrassing."* Telling family stops it and protects them too.
 
 ## Check for understanding (5 min)
 
 1. Someone says they're your grandchild, needs bail money, and asks you to keep it secret. What do you do?
-2. A pop-up says your computer is infected and to call a number. What do you do?
-3. Who can you call if you think you've lost money to a scam? Your bank first, then the **National Elder Fraud Hotline, 1-833-FRAUD-11 (1-833-372-8311)**.
+2. Who can you call if you think you've lost money to a scam? Your bank first, then the **National Elder Fraud Hotline, 1-833-FRAUD-11 (1-833-372-8311)**.
 
-Everyone takes home a card with a family code word idea, not shared with the room, and the Elder Fraud Hotline number.
+Everyone takes home a card with a family code word idea and the Elder Fraud Hotline number.
 
 ## Sources
 

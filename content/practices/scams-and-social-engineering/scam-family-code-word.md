@@ -26,9 +26,6 @@ sources:
 
 A few seconds of audio from a social media video is enough to clone a voice. "Family emergency" calls now use cloned voices: it sounds exactly like your kid, crying, saying they've been arrested or hurt and need money now. Businesses get the same trick with a cloned "CEO" asking for an urgent transfer.
 
-> [!question] Ask yourself
-> - Could you tell a perfect copy of your child's voice from the real one when they sound panicked?
-
 ## Do it
 
 1. **Pick a word or phrase** that isn't guessable or online, so not a pet's name or a street. Something silly works ("purple lasagna").
@@ -41,9 +38,8 @@ A few seconds of audio from a social media video is enough to clone a voice. "Fa
 > Ask a family member, out of the blue, "what's our word?" They know it.
 
 > [!danger] Attacker's-eye view
-> Impersonation (MITRE ATT&CK T1656) keeps getting cheaper and more convincing. A shared secret is low-tech, and a clone can't know it unless it leaks.
+> Impersonation (MITRE ATT&CK T1656) keeps getting cheaper and more convincing. A clone can't know a shared secret unless it leaks.
 
 ## Go further
 
 - [Learn the scam reflex, pause and verify](scam-pause-and-verify.md)
-- [Seniors & Caregivers](../../spaces/seniors-and-caregivers/index.md)

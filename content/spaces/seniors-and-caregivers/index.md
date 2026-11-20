@@ -3,17 +3,13 @@ title: Seniors & Caregivers
 description: "Older adults and the people who help them: staying connected while staying out of scammers' reach."
 ---
 
-The FBI's yearly elder fraud reports show older adults are targeted more often and lose more per scam. Scammers go where the savings are, and they exploit kindness, trust, and isolation. Caregivers can help a lot, as long as they do it *with* the person, not to them.
-
-> [!question] Ask yourself
-> - Has anyone called claiming to be from Medicare, the IRS, Amazon, the bank, or "tech support"? What happened?
-> - Who would they call first if something felt wrong, and do they know they can call you without embarrassment?
+The FBI's yearly elder fraud reports show older adults are targeted more often and lose more per scam. Caregivers can help a lot, as long as they do it *with* the person, not to them.
 
 **If money was already lost:** call the bank, then the **National Elder Fraud Hotline, 1-833-FRAUD-11 (1-833-372-8311)**, run by the U.S. Department of Justice. Also see the [scam playbook](../../playbooks/scam-victim.md).
 
 ## Your first five Sparks
 
-Start here. Each one takes an afternoon or less.
+Each takes an afternoon or less.
 
 1. [Learn the scam reflex, pause and verify](../../practices/scams-and-social-engineering/scam-pause-and-verify.md)
 2. [Agree on a family code word for emergencies](../../practices/scams-and-social-engineering/scam-family-code-word.md)
@@ -57,8 +53,4 @@ Start here. Each one takes an afternoon or less.
 
 ## If something goes wrong
 
-- [Playbook: I think I got scammed](../../playbooks/scam-victim.md)
-- [Playbook: my email or social media account was hacked](../../playbooks/hacked-email.md)
-- [Playbook: my phone or laptop is lost or stolen](../../playbooks/lost-or-stolen-phone.md)
-
-[All playbooks](../../playbooks/index.md)
+See the [playbooks](../../playbooks/index.md).

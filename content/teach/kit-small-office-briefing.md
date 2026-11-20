@@ -17,7 +17,7 @@ Every participant can:
 
 ## Hook (5 min)
 
-Show a real, convincing fake invoice email (anonymized) and ask: *"Who in this room would pay this?"* Then reveal the one detail that gives it away. *"The criminals who sent this do it all day, to thousands of offices. Today we make this office one they give up on."*
+Show a convincing fake invoice email (anonymized), ask who would pay it, then reveal the detail that gives it away.
 
 ## Explanation (20 min)
 
@@ -27,24 +27,16 @@ Show a real, convincing fake invoice email (anonymized) and ask: *"Who in this r
 
 ## Activities (25 min)
 
-- **Spot the phish** (10 min): show six messages, three real phish from this office's inbox and three legitimate. Teams vote and explain. Celebrate the reasoning more than the right answers.
-- **Report one live** (5 min): report a message on screen with the "Report phishing" button or the report address, and show what happens next ([Make reporting a phish easy, quick and blame-free](../practices/scams-and-social-engineering/scam-report-phishing.md)).
+- **Spot the phish** (10 min): show six messages, three real phish from this office's inbox and three legitimate. Teams vote and explain.
+- **Report one live** (5 min): report a message on screen with the "Report phishing" button or the report address ([Make reporting a phish easy, quick and blame-free](../practices/scams-and-social-engineering/scam-report-phishing.md)).
 - **Role-play** (10 min): one person calls "the bookkeeper" pretending to be a vendor who changed banks, and the bookkeeper practices the callback rule. Then ask: "You clicked a link and entered your password. What now?" Report immediately, change the password, and have IT sign out sessions.
-
-## Misconceptions to address
-
-- *"We're too small to be a target."* Small businesses are targeted *because* they're small.
-- *"IT handles security."* IT can't stop you from wiring money to a scammer.
-- *"If I report that I clicked, I'll get in trouble."* Here, reporting is always right, and fast reports limit the damage.
-- *"Our email provider filters everything."* Filters miss some, and the best attacks come from real, hacked accounts.
 
 ## Check for understanding (5 min)
 
 1. A long-time vendor emails new bank details. What do you do?
-2. Your phone shows a sign-in approval you didn't start. What do you do?
-3. How do you report a suspicious email here?
+2. How do you report a suspicious email here?
 
-Everyone checks that MFA is on for their email before leaving. The owner posts the [office checklist](../printables/office-spark-checklist.md) in the break room.
+Everyone checks that MFA is on for their email before leaving. Post the [office checklist](../printables/office-spark-checklist.md) in the break room.
 
 ## Sources
 

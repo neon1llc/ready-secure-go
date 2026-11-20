@@ -27,9 +27,6 @@ sources:
 
 **Business email compromise** (BEC) is one of the costliest kinds of internet crime the FBI tracks, by a wide margin. A vendor emails that they've "changed banks", a "CEO" asks for a quick wire, or a "parent" asks the school office to update direct deposit. Often the email really does come from that account, because it was hacked first.
 
-> [!question] Ask yourself
-> - If your bookkeeper got an email from a real vendor saying "please use our new account", what would they do today?
-
 ## Do it
 
 1. **Write the rule down:** *"Changes to payment details, and any urgent or unusual payment request, are verified by phone using a number already on file, never a number in the request."*
@@ -47,5 +44,4 @@ sources:
 
 ## Go further
 
-- [Learn the scam reflex, pause and verify](scam-pause-and-verify.md)
 - [Playbook: I think I got scammed](../../playbooks/scam-victim.md)

@@ -23,17 +23,13 @@ A **control** is something you do, consistently, that meets a criterion. **Evide
 | Security training at hire and yearly | Completion records |
 | Vendors reviewed | Vendor list with review dates and their SOC reports |
 | Risk assessment performed yearly | Risk register with dates and decisions |
-| Background checks for new hires (where lawful) | Completion records |
-| Policies acknowledged | Signed acknowledgments |
-
-> [!question] Ask yourself
-> - Which controls depend on one person remembering? Those break in month four.
-> - For each control, could you produce the evidence for any date in the past six months?
+| Background checks (where lawful) and policy acknowledgments | Completion records and signatures |
 
 ## Tips
 
 - **Automate evidence where you can.** Many controls leave their own trail (pull requests, device management, identity provider logs). Compliance automation platforms can gather evidence too, but they don't replace running the controls.
 - **Use tickets for human work:** access requests, reviews, incidents, vendor reviews. Tickets are timestamped evidence.
+- **Controls that depend on one person remembering** break in month four.
 - **If you miss a control,** document it, fix it, and show the fix.
 
 Next: [Type I, Type II, auditors and timelines](soc2-audit-process.md)

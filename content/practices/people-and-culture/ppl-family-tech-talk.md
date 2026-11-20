@@ -28,10 +28,7 @@ sources:
 
 ## Why this matters
 
-Parental controls help, but no setting replaces a kid who comes to you when something goes wrong. The worst online harms, like **sextortion** (someone tricks a kid into sharing an image, then threatens to spread it unless they pay or send more), work by making the child feel ashamed and alone. The FBI has repeatedly warned of sharp increases in sextortion targeting teenage boys especially. The best protection is a kid who knows: *you can tell me anything, and I'll help, not punish.*
-
-> [!question] Ask yourself
-> - If your child saw something scary or embarrassing online tonight, would they tell you?
+No parental setting replaces a kid who comes to you when something goes wrong. The worst online harms, like **sextortion** (someone tricks a kid into sharing an image, then threatens to spread it unless they pay or send more), work by making the child feel ashamed and alone. The FBI has repeatedly warned of sharp increases in sextortion targeting teenage boys especially.
 
 ## Do it
 
@@ -42,11 +39,10 @@ Parental controls help, but no setting replaces a kid who comes to you when some
    - Passwords are shared only with parents.
    - Never send images you wouldn't want everyone to see. Anyone asking is a red flag.
    - Devices charge outside bedrooms at night.
-   - Younger kids ask before installing apps or games.
 4. **Set up the controls** together: Apple Screen Time, Google Family Link, and game console family settings, with age-appropriate limits and purchase approvals.
-5. **Teach the scam reflex** ([Learn the scam reflex, pause and verify](../scams-and-social-engineering/scam-pause-and-verify.md)): free game currency, "you won", requests from strangers, a "friend" with a new account.
+5. **Teach the scam reflex** ([Learn the scam reflex, pause and verify](../scams-and-social-engineering/scam-pause-and-verify.md)).
 6. **Know the sextortion steps:** don't pay, don't send more, keep the messages, block and report, and use **NCMEC's Take It Down** (takeitdown.ncmec.org) to help remove images. Report to the **CyberTipline** (report.cybertip.org) or the FBI.
-7. **Revisit it** every few months, and with each new device, app, or birthday.
+7. **Revisit it** every few months and with each new device or app.
 
 > [!success] How do you know it worked?
 > Your kid has told you about something weird they saw online, and you reacted calmly.
@@ -54,4 +50,3 @@ Parental controls help, but no setting replaces a kid who comes to you when some
 ## Go further
 
 - [Playbook: my child is in trouble online](../../playbooks/kid-in-trouble-online.md)
-- [Classroom & School](../../spaces/classroom-and-school/index.md)

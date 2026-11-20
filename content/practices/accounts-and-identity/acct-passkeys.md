@@ -29,16 +29,13 @@ sources:
 
 A passkey is a key pair. The website keeps the public half. Your device or password manager keeps the private half, unlocked with your face, fingerprint, or PIN. It only works for that exact website, so a look-alike phishing site gets nothing.
 
-> [!question] Ask yourself
-> - If your phone were lost, would your passkeys return on a new one? They do if synced to your Apple, Google, or password-manager account.
-
 ## Do it
 
 1. Check your password manager or [passkeys.directory](https://passkeys.directory) for supporting sites.
 2. Start with **Google, Microsoft, Apple, Amazon, PayPal**, and your password manager. In security settings, choose "Create a passkey".
-3. Store passkeys somewhere that **syncs and backs up**: iCloud Keychain, Google Password Manager, or a manager like Bitwarden, 1Password, or Proton Pass. A synced passkey is only as safe as the account that syncs it, so protect that account with MFA. NIST SP 800-63B-4 accepts synced passkeys at AAL2 but not AAL3, so admins and high-risk roles should use device-bound hardware keys.
+3. Store passkeys somewhere that **syncs and backs up**: iCloud Keychain, Google Password Manager, Bitwarden, 1Password, or Proton Pass. A synced passkey is only as safe as the account that syncs it, so protect that account with MFA. NIST SP 800-63B-4 accepts synced passkeys at AAL2 but not AAL3, so admins and high-risk roles should use device-bound hardware keys.
 4. For your most important accounts, keep a second way in: backup codes, or a second passkey on a hardware key.
-5. **Offices:** turn on passkey or security-key sign-in for email and your identity provider (Google Workspace, Microsoft Entra ID), admins first.
+5. **Offices:** turn on passkey or security-key sign-in for email and your identity provider, admins first.
 
 > [!success] How do you know it worked?
 > Sign out, then sign in with "Use a passkey". You get a face, fingerprint, or PIN prompt and no password box.
@@ -49,4 +46,3 @@ A passkey is a key pair. The website keeps the public half. Your device or passw
 ## Go further
 
 - [Turn on two-step login, starting with your email](acct-two-step-login.md)
-- [Keep admin power out of everyday accounts](acct-admin-separation.md)

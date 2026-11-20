@@ -28,17 +28,14 @@ sources:
 
 Exposed remote desktop (RDP), old VPN appliances, and port-forwarded camera recorders are among the most common ways ransomware enters small and mid-sized organizations. Attackers scan the whole internet constantly, and an open door gets tried within hours.
 
-> [!question] Ask yourself
-> - Did an IT vendor ever "open a port" to support you remotely? Is it still open?
-
 ## Do it
 
-1. **Look at yourself from outside:** check your router or firewall for port forwards. Free tools show what your public IP exposes. U.S. organizations can sign up for **CISA's free vulnerability scanning**.
+1. **Look at yourself from outside:** check your router or firewall for port forwards, including any a vendor opened to support you remotely. U.S. organizations can sign up for **CISA's free vulnerability scanning**.
 2. **Close what isn't needed.** Never expose RDP (port 3389), SMB file sharing, database ports, or camera DVR/NVR web pages directly.
 3. **Route remote access through one front door** with MFA: a modern VPN, a zero-trust access service, or cloud apps with single sign-on.
 4. **Patch the front door first.** VPNs and firewalls get attacked the moment bugs are announced. Use auto-update or a 48-hour patch rule.
-5. **Vendors' remote support tools:** know which are installed, require MFA, and remove unused ones.
-6. **Log** remote-access logins and alert on logins from unexpected countries.
+5. **Vendors' remote support tools:** require MFA and remove unused ones.
+6. **Alert** on remote logins from unexpected countries.
 
 > [!success] How do you know it worked?
 > An outside scan of your office IP shows only what you intended, often nothing, and every remote login requires MFA.
@@ -48,5 +45,4 @@ Exposed remote desktop (RDP), old VPN appliances, and port-forwarded camera reco
 
 ## Go further
 
-- [Turn on two-step login, starting with your email](../accounts-and-identity/acct-two-step-login.md)
 - [Playbook: ransomware in a small office](../../playbooks/ransomware-small-office.md)

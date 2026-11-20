@@ -26,20 +26,14 @@ sources:
 
 ## Why this matters
 
-When a manufacturer stops shipping updates, every new security hole stays open. Windows 10 reached end of support in October 2025, so millions of PCs stopped getting fixes unless enrolled in paid extended updates. Old phones, tablets, routers, and camera recorders hit the same wall. A device you got rid of may also still hold your photos, saved passwords, and client files.
-
-> [!question] Ask yourself
-> - Where is the last phone or laptop you replaced? In a drawer, or with someone else?
+When a manufacturer stops shipping updates, every new security hole stays open. Windows 10 reached end of support in October 2025, so millions of PCs stopped getting fixes unless enrolled in paid extended updates. A device you got rid of may also still hold your photos, saved passwords, and client files.
 
 ## Do it
 
 1. **Check support status:** Windows (Settings > Windows Update), Mac (Apple's list of supported macOS versions), phones (the manufacturer's update policy), routers and cameras (the vendor's site).
 2. **Plan replacements** for anything out of support. Offices and schools: budget the year *before* support ends.
-3. **Before giving a device away:**
-   - Back it up, sign out of Apple ID or Google, and turn off Find My, or it stays activation-locked.
-   - Do a full factory reset. On encrypted devices this destroys the key, so the old data becomes unreadable.
-   - Remove SIM and memory cards.
-4. **Hard drives from old PCs and copiers:** use the drive's secure-erase tool or destroy it physically. Office copiers and printers often have drives too.
+3. **Before giving a device away:** back it up, sign out of Apple ID or Google, turn off Find My, do a full factory reset, and remove SIM and memory cards. On encrypted devices the reset destroys the key, so the old data becomes unreadable.
+4. **Old PC and copier hard drives:** use the drive's secure-erase tool or destroy it physically.
 5. **Offices:** keep a disposal log (device, date, how wiped, by whom). Auditors ask for it.
 
 > [!success] How do you know it worked?
@@ -48,4 +42,3 @@ When a manufacturer stops shipping updates, every new security hole stays open. 
 ## Go further
 
 - [Turn on automatic updates, everywhere](dev-auto-updates.md)
-- [Know what you have](../govern-and-build/gov-inventory.md)
