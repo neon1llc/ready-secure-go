@@ -26,33 +26,31 @@ sources:
 
 ## Why this matters
 
-Cameras, doorbells, baby monitors, smart TVs, thermostats, printers, and door locks are each a small computer on your network, usually with weaker security than your laptop and almost never updated. Some ship with a default password printed in the manual and listed online. Cameras raise the stakes because they record your home or office.
+Cameras, doorbells, baby monitors, smart TVs, printers, and door locks are small computers on your network, rarely updated and often shipped with a default password listed online. Cameras raise the stakes because they record your home or office.
 
 > [!question] Ask yourself
-> - How many devices are on your Wi-Fi right now? (Your router's app will tell you. It's usually more than you'd guess.)
-> - Who can see your camera feeds? Is there an old shared login, or a former employee or roommate with app access?
-> - Does your camera recorder (DVR/NVR) need to be reachable from the internet, or does the app work without it?
+> - Does anyone still have camera access, such as a former employee or roommate?
 
 ## Do it
 
-1. **Inventory:** list every connected device. Your router's device list is a good start.
+1. **Inventory:** list every connected device. Your router's device list is a start, and it's usually longer than you'd guess.
 2. **Change every default password** to a unique one in your password manager. Turn on two-step login in the camera or doorbell app.
 3. **Update firmware** and turn on auto-update where offered.
-4. **Turn off what you don't use:** remote access you don't need, UPnP, microphones, cloud features you don't want.
+4. **Turn off what you don't use:** remote access, UPnP, microphones, cloud features.
 5. **Separate network:** put smart devices on a guest or IoT network so a hacked lightbulb can't reach your laptop. See [Give guests and gadgets their own Wi-Fi](../networks-and-wifi/net-guest-network.md).
-6. **Cameras specifically:**
-   - Point them at what you need to see, not at neighbors' windows, and in an office, not at screens or keypads.
-   - Review who has access in the app, and remove old users.
-   - Prefer systems with end-to-end encryption options.
-   - Don't port-forward a DVR/NVR to the internet. Use the vendor's app or a VPN instead.
+6. **Cameras:**
+   - Point them at what you need to see, not neighbors' windows, and in an office, not at screens or keypads.
+   - Remove old users in the app.
+   - Prefer end-to-end encryption options.
+   - Don't port-forward a DVR/NVR to the internet. Use the vendor's app or a VPN.
    - Know where recordings are stored and for how long.
 7. **Buying new:** look for a stated number of years of security updates. The U.S. Cyber Trust Mark program is new and not yet widespread, so ask the vendor how long updates last.
 
 > [!success] How do you know it worked?
-> No device on your list still uses a default password, camera apps show only the people you expect, and your router shows smart devices on the separate network.
+> No device uses a default password, camera apps show only the people you expect, and smart devices sit on the separate network.
 
 > [!danger] Attacker's-eye view
-> Botnets scan the internet nonstop for devices with factory passwords (MITRE ATT&CK T1078.001, Default Accounts) or known holes in exposed recorders (T1190). They aren't targeting *you*. They harvest whatever answers. Changing the password and not exposing the device takes you off their list.
+> Botnets scan the internet for factory passwords (MITRE ATT&CK T1078.001, Default Accounts) and known holes in exposed recorders (T1190). They aren't targeting you. They harvest whatever answers.
 
 ## Go further
 

@@ -11,7 +11,6 @@ You make security decisions for everyone who uses what you build. OWASP and MITR
 > [!question] Ask yourself
 > - What stops a leaked key in your repository from becoming a cloud bill or a breach?
 > - Can a user see another user's data by changing an ID?
-> - If an attacker got a developer's laptop, what could they reach?
 
 ## Your first five
 
@@ -56,4 +55,4 @@ Start here. The first takes an afternoon or less. The Glow ones take longer.
 - [Playbook: I got a data breach notice](../../playbooks/data-breach-notice.md)
 - [Playbook: ransomware in a small office](../../playbooks/ransomware-small-office.md)
 
-See all [playbooks](../../playbooks/index.md).
+[All playbooks](../../playbooks/index.md)

@@ -7,8 +7,7 @@ The strongest setup still depends on people who feel safe asking questions, repo
 
 > [!question] Ask yourself
 > - If your kid or coworker clicked something bad, would they tell you?
-> - When someone leaves your organization, how sure are you that their access leaves too?
-> - Is security something people talk about where you are, or only something that's done to them?
+> - When someone leaves your organization, how sure are you their access leaves too?
 
 ## Practices
 

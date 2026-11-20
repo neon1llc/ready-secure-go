@@ -22,25 +22,23 @@ sources:
 
 ## Why this matters
 
-Plans that have never been practiced fail in boring ways: the backup admin password is in the hacked email, nobody has the insurer's number, or two people each think the other is calling the bank. A tabletop exercise is a structured "what would we do if...?" conversation. It touches no computers and risks no real systems.
+Plans that have never been practiced fail in boring ways: the backup admin password is in the hacked email, nobody has the insurer's number, or two people each think the other is calling the bank. A tabletop exercise is a structured "what would we do if...?" conversation that touches no computers.
 
 > [!question] Ask yourself
-> - Who would make the call to disconnect the whole office from the internet?
-> - How would you talk to each other if email and chat were down?
-> - What would you tell customers, parents, or donors, and who would say it?
+> - How would you reach each other if email and chat were down?
 
 ## Do it
 
 1. **Pick a realistic scenario.** Good first ones: "the office manager's email is hacked and sent invoices to all our clients", "ransomware on the file server Monday morning", or for a family, "Mom's phone is stolen while traveling".
-2. **Invite the right people:** decision-makers, whoever handles IT, whoever handles money, and someone for communications. One person facilitates and one takes notes.
-3. **Reveal it in stages (injects):** "It's 8:15 a.m. and three staff can't open files. ... At 9:00 a note appears demanding payment. ... At 10:30 a reporter calls."
+2. **Invite** decision-makers, whoever handles IT, whoever handles money, and someone for communications. One person facilitates and one takes notes.
+3. **Reveal it in stages:** "It's 8:15 a.m. and three staff can't open files. At 9:00 a note demands payment. At 10:30 a reporter calls."
 4. **At each stage ask:** What do we know? What do we do? Who decides? What do we need that we don't have?
 5. **Capture gaps** honestly: missing numbers, unclear owners, untested backups.
 6. **Fix the top three** within a month, then run another scenario next year. CISA publishes free ready-made packages.
-7. **Keep the record** (date, attendees, scenario, findings, fixes). It's evidence for SOC 2 and insurers.
+7. **Keep the record** (date, attendees, scenario, findings, fixes) as evidence for SOC 2 and insurers.
 
 > [!success] How do you know it worked?
-> You come out with a short list of concrete fixes, and the next exercise goes noticeably smoother.
+> You leave with a short list of concrete fixes, and the next exercise goes noticeably smoother.
 
 ## Go further
 

@@ -6,7 +6,6 @@ description: "What to do when something goes wrong: contact sheets, playbooks, p
 Something will eventually go wrong. The difference between a bad day and a disaster is usually whether you knew who to call, had a backup, and had practiced once.
 
 > [!question] Ask yourself
-> - If your email were hacked right now, who would you call, and how?
 > - If your office computers were locked tomorrow, how long until you could work again?
 > - Have you ever practiced?
 

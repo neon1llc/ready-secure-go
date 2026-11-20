@@ -26,26 +26,24 @@ sources:
 
 ## Why this matters
 
-Bots watch public code repositories and grab leaked cloud keys within minutes. Private repositories leak too, through a contractor's laptop, a public fork, or a breach at the code host. Once a secret is in git history, deleting the line doesn't remove it.
+Bots watch public repositories and grab leaked cloud keys within minutes. Private repositories leak too, through a contractor's laptop, a public fork, or a breach at the code host. Deleting a secret from the code doesn't remove it from git history.
 
 > [!question] Ask yourself
-> - Search your repositories for `password`, `secret`, `api_key`, `AKIA` (the start of AWS access keys). What turns up?
-> - Where does your app read its database password from?
-> - Has anyone ever pasted a key into a ticket or a chat to "just get it working"?
+> - What turns up when you search your repositories for `password`, `secret`, `api_key`, and `AKIA` (the start of AWS access keys)?
 
 ## Do it
 
 1. **Store secrets in a secrets manager:** AWS Secrets Manager or Parameter Store, Azure Key Vault, Google Secret Manager, 1Password or Bitwarden Secrets Manager, or Doppler or Infisical.
-2. **Load them at runtime** through environment or the platform's integration. Commit `.env.example` with placeholders, and add `.env` to `.gitignore`.
+2. **Load them at runtime** from the environment or the platform's integration. Commit `.env.example` with placeholders and add `.env` to `.gitignore`.
 3. **Scan:** run gitleaks or trufflehog as a pre-commit hook and in CI. Turn on GitHub secret scanning and push protection.
-4. **Prefer short-lived credentials** (OIDC from CI to cloud, SSO for people) so there's less to leak.
-5. **If a secret leaks, rotate it first,** then clean history. Rotation is what protects you. Check the provider's logs for use of the leaked key.
+4. **Prefer short-lived credentials** (OIDC from CI to cloud, SSO for people).
+5. **If a secret leaks, rotate it first,** then clean history. Rotation is what protects you. Check the provider's logs for use of the key.
 
 > [!success] How do you know it worked?
-> A secrets scan of every repository's full history comes back clean (or every finding is rotated), and pushing a fake key gets blocked.
+> A scan of every repository's full history is clean or every finding is rotated, and pushing a fake key gets blocked.
 
 > [!danger] Attacker's-eye view
-> Unsecured Credentials: Credentials In Files (MITRE ATT&CK T1552.001) is a top way into cloud accounts (T1078.004). Scanners and push protection catch it at the source.
+> Credentials In Files (MITRE ATT&CK T1552.001) is a top way into cloud accounts (T1078.004).
 
 ## Go further
 

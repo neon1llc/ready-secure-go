@@ -15,7 +15,7 @@ Use this path when customer requirements, growth, a system change, or an interna
 
 ## Your first five
 
-Review these against your existing controls. These are Glow level, and the time each takes depends on scope, dependencies, and change approval.
+Review these against your existing controls. They are Glow level, and the time each takes depends on scope, dependencies, and change approval.
 
 1. [Keep admin power out of everyday accounts](../../practices/accounts-and-identity/acct-admin-separation.md)
 2. [Know what you have](../../practices/govern-and-build/gov-inventory.md)
@@ -75,4 +75,4 @@ Review these against your existing controls. These are Glow level, and the time 
 - [Playbook: I got a data breach notice](../../playbooks/data-breach-notice.md)
 - [Playbook: my email or social media account was hacked](../../playbooks/hacked-email.md)
 
-See all [playbooks](../../playbooks/index.md).
+[All playbooks](../../playbooks/index.md)

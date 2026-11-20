@@ -20,28 +20,26 @@ sources:
 
 ## Why this matters
 
-You've almost certainly been in a data breach, and most people have been in several. Knowing *which* ones tells you which passwords to change and what scams to expect. A breach that leaked your phone number and address makes a convincing "delivery problem" text more likely.
+You've almost certainly been in several data breaches. Knowing which tells you which passwords to change and which scams to expect.
 
 > [!question] Ask yourself
-> - Which old accounts did you sign up for years ago and forget about?
-> - If a breach listed your password, did you use that password anywhere else?
+> - If a breach listed your password, did you use it anywhere else?
 
 ## Do it
 
-1. Go to [haveibeenpwned.com](https://haveibeenpwned.com) and enter each email address you use or used to use.
-2. For each breach listed, note **what leaked**: passwords, phone numbers, addresses, security questions.
-3. If passwords leaked and you reused that password anywhere, change it everywhere, using [Let a password manager remember for you](acct-password-manager.md).
-4. Turn on **notifications** there so you hear about the next one.
-5. Turn on your password manager's breach report, if it has one.
-6. Delete accounts you don't need. An account that doesn't exist can't leak.
+1. Enter each email address you use or used to use at [haveibeenpwned.com](https://haveibeenpwned.com).
+2. Note **what leaked** in each breach: passwords, phone numbers, addresses, security questions.
+3. If a leaked password was reused, change it everywhere with [Let a password manager remember for you](acct-password-manager.md).
+4. Turn on breach **notifications** there, and your password manager's breach report if it has one.
+5. Delete accounts you don't need. An account that doesn't exist can't leak.
 
 > [!success] How do you know it worked?
-> Every breached site in the list either has a new unique password or has been deleted, and notifications are on.
+> Every breached site has a new unique password or is deleted, and notifications are on.
 
 > [!danger] Attacker's-eye view
-> Attackers start by gathering what's public or leaked about a target (MITRE ATT&CK T1589, Gather Victim Identity Information), then try the leaked passwords elsewhere (T1110.004). You're doing that homework first.
+> Attackers gather what's leaked about a target (MITRE ATT&CK T1589, Gather Victim Identity Information), then try leaked passwords elsewhere (T1110.004). You're doing that homework first.
 
 ## Go further
 
-- [Understand what's on the dark web about you, and what to do about it](../privacy-and-footprint/priv-dark-web-reality.md): what "dark web monitoring" actually means.
+- [Understand what's on the dark web about you, and what to do about it](../privacy-and-footprint/priv-dark-web-reality.md)
 - [Freeze your credit (and your kids' credit)](../privacy-and-footprint/priv-credit-freeze.md)

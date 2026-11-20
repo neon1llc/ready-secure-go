@@ -26,29 +26,28 @@ sources:
 
 ## Why this matters
 
-The root user of a cloud account can do anything, including delete everything and run up enormous bills. Leaked cloud keys get abused within minutes, often to mine cryptocurrency on your credit card. Most cloud breaches aren't clever: a leaked key, missing MFA, or a public storage bucket.
+The root user of a cloud account can do anything, including delete everything and run up enormous bills. Most cloud breaches aren't clever. They're a leaked key, missing MFA, or a public storage bucket, and leaked keys get abused within minutes, often to mine cryptocurrency on your card.
 
 > [!question] Ask yourself
-> - Who knows the root password for your AWS (or Azure or Google Cloud) account? Is MFA on it?
-> - Does anyone have long-lived access keys sitting on their laptop or in a code repository?
+> - Does anyone have long-lived access keys on a laptop or in a code repository?
 > - Would you notice if your bill jumped tenfold overnight?
 
 ## Do it
 
-1. **Root user:** strong unique password, **hardware key or passkey MFA**, and no access keys. Use it only for the handful of tasks that require it.
-2. **People get their own access:** use IAM Identity Center (single sign-on) or individual IAM users with MFA. Never share logins.
-3. **Least privilege:** start with narrow roles and grant more when needed. Separate production from everything else, ideally in separate accounts (AWS Organizations).
-4. **No long-lived keys:** use roles and short-term credentials (SSO, OIDC for CI/CD). If keys exist, rotate them and scan code for them ([Keep secrets out of code and chat](build-secrets-out-of-code.md)).
-5. **Logging:** turn on **CloudTrail** for all regions (organization trail if you use Organizations) and keep logs in a protected bucket.
-6. **Guardrails:** enable GuardDuty, block public access to S3 at the account level, and turn on Security Hub or a free scanner like Prowler to find misconfigurations.
+1. **Root user:** strong unique password, **hardware key or passkey MFA**, no access keys. Use it only for the few tasks that require it.
+2. **People get their own access:** IAM Identity Center (single sign-on) or individual IAM users with MFA. Never share logins.
+3. **Least privilege:** start with narrow roles and add as needed. Keep production apart from everything else, ideally in separate accounts (AWS Organizations).
+4. **No long-lived keys:** use roles and short-term credentials (SSO, OIDC for CI/CD). Rotate any that exist ([Keep secrets out of code and chat](build-secrets-out-of-code.md)).
+5. **Logging:** turn on **CloudTrail** for all regions (an organization trail if you use Organizations), stored in a protected bucket.
+6. **Guardrails:** enable GuardDuty, block public S3 access at the account level, and run Security Hub or a free scanner like Prowler.
 7. **Billing alarms:** set budgets and alerts so a surprise shows up in hours, not at month-end.
-8. **Microsoft 365 and Google Workspace** are cloud tenants too. CISA's SCuBA baselines are a free, practical checklist for them.
+8. **Microsoft 365 and Google Workspace** are cloud tenants too. CISA's SCuBA baselines are a free, practical checklist.
 
 > [!success] How do you know it worked?
-> Root has hardware MFA and no keys, every human logs in through their own identity with MFA, CloudTrail is on in every region, and a budget alert exists.
+> Root has hardware MFA and no keys, every human logs in with their own identity and MFA, CloudTrail is on in every region, and a budget alert exists.
 
 > [!danger] Attacker's-eye view
-> Stolen cloud credentials (MITRE ATT&CK T1078.004, Cloud Accounts) followed by creating new keys or users to keep access (T1098, Account Manipulation) is the most common cloud intrusion pattern. Logging shows it. MFA and no long-lived keys prevent it.
+> The most common cloud intrusion is stolen credentials (MITRE ATT&CK T1078.004, Cloud Accounts) followed by new keys or users to keep access (T1098, Account Manipulation).
 
 ## Go further
 

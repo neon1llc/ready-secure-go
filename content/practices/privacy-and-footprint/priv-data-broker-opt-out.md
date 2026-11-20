@@ -27,13 +27,12 @@ sources:
 Data brokers collect public records, purchase histories, app data, and social media, then sell profiles: your address, phone numbers, age, relatives, sometimes income estimates. People-search sites sell them to anyone for a few dollars. That's how scammers know your grandson's name and how a stalker or angry ex finds a new address. Teachers, healthcare workers, and anyone in a public-facing job have good reason to care.
 
 > [!question] Ask yourself
-> - Search your full name and city on a people-search site. How accurate is it? Who's listed as your relatives?
-> - Who would you *not* want to be able to find your home address in two minutes?
+> - Who would you *not* want to find your home address in two minutes?
 
 ## Do it
 
 1. **Search yourself** on the big people-search sites (Spokeo, Whitepages, BeenVerified, TruePeopleSearch, FastPeopleSearch, Radaris, Intelius) and note what's listed.
-2. **Opt out** using each site's removal page. Many are listed with links and instructions in Yael Grauer's free *Big Ass Data Broker Opt-Out List*. Use a separate email address for opt-outs.
+2. **Opt out** on each site's removal page. Yael Grauer's free *Big Ass Data Broker Opt-Out List* has links and instructions for many. Use a separate email address for opt-outs.
 3. **California residents** can use the state's **DROP** platform to send one deletion request to every registered data broker. Other states are adding similar rights, so check yours.
 4. **Or use a removal service** (for example DeleteMe, Optery, Kanary, EasyOptOuts) that files and re-files opt-outs for you. Look for transparency about which sites they cover.
 5. **Repeat** every few months. Brokers re-add people as new data comes in.
@@ -43,7 +42,7 @@ Data brokers collect public records, purchase histories, app data, and social me
 > Searching your name on the major people-search sites no longer shows your current address and phone number.
 
 > [!danger] Attacker's-eye view
-> Gathering identity details (MITRE ATT&CK T1589) and organizational details (T1591) is step one of targeted scams and impersonation. Data brokers do that step for attackers, for pennies.
+> Gathering identity details (MITRE ATT&CK T1589) and organizational details (T1591) is step one of targeted scams and impersonation. Data brokers do it for attackers, for pennies.
 
 ## Go further
 

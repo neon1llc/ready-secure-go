@@ -6,9 +6,8 @@ description: "Teachers, staff and students: protecting student data, classroom t
 Schools hold sensitive data about children, run on tight budgets, and are frequent ransomware targets, according to CISA's K-12 reporting. Every teacher is part of the defense.
 
 > [!question] Ask yourself
-> - Which apps and websites hold your students' information? Who approved them?
-> - If you got an email from the "principal" asking you to buy gift cards for a staff event, what would you do?
-> - What do your students know about scams, privacy, and passwords? Who taught them?
+> - Which apps and websites hold your students' information, and who approved them?
+> - If the "principal" emailed asking you to buy gift cards for a staff event, what would you do?
 
 ## Your first five Sparks
 
@@ -16,7 +15,7 @@ Start here. Each one takes an afternoon or less.
 
 1. [Turn on two-step login, starting with your email](../../practices/accounts-and-identity/acct-two-step-login.md)
 2. [Learn the scam reflex, pause and verify](../../practices/scams-and-social-engineering/scam-pause-and-verify.md)
-3. [Share files on purpose, not "anyone with the link](../../practices/data-and-backups/data-share-safely.md)
+3. [Share files on purpose, not "anyone with the link"](../../practices/data-and-backups/data-share-safely.md)
 4. [Make reporting a phish easy, quick and blame-free](../../practices/scams-and-social-engineering/scam-report-phishing.md)
 5. [Lock your screens and encrypt your devices](../../practices/devices-and-updates/dev-screen-lock-and-encryption.md)
 
@@ -66,4 +65,4 @@ Start here. Each one takes an afternoon or less.
 - [Playbook: my child is in trouble online](../../playbooks/kid-in-trouble-online.md)
 - [Playbook: I got a data breach notice](../../playbooks/data-breach-notice.md)
 
-See all [playbooks](../../playbooks/index.md).
+[All playbooks](../../playbooks/index.md)

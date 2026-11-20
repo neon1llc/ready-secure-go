@@ -7,7 +7,6 @@ Away from home, your devices leave your network and your attention splits. Most 
 
 > [!question] Ask yourself
 > - If your phone were stolen at an airport, could you still get into your email?
-> - How do you know which Wi-Fi network is the real one?
 > - What's visible on your screen to the person behind you?
 
 ## Your first five Sparks
@@ -46,4 +45,4 @@ Start here. Each one takes an afternoon or less.
 - [Playbook: my phone or laptop is lost or stolen](../../playbooks/lost-or-stolen-phone.md)
 - [Playbook: my email or social media account was hacked](../../playbooks/hacked-email.md)
 
-See all [playbooks](../../playbooks/index.md).
+[All playbooks](../../playbooks/index.md)

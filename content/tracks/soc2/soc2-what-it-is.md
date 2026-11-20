@@ -4,8 +4,6 @@ description: "A CPA firm's independent report on how you protect customer data, 
 tags: [soc2]
 ---
 
-## In one sentence
-
 A **SOC 2 report** is an independent CPA firm's opinion on whether your controls for protecting customer data are designed well and, for a Type II, actually working over a period of time.
 
 ## What that means in practice
@@ -17,14 +15,13 @@ A **SOC 2 report** is an independent CPA firm's opinion on whether your controls
 
 ## What it isn't
 
-- **Not a checklist.** There's no fixed list of things you must do, so you have to design controls that fit.
+- **Not a checklist.** There's no fixed list of things you must do, so you design controls that fit.
 - **Not ISO 27001.** ISO 27001 is an international *certification* of your information security management system. They overlap a lot, and many companies eventually do both.
-- **Not SOC 1.** SOC 1 covers controls relevant to customers' *financial reporting* (think payroll processors). SOC 2 covers security and related trust categories.
+- **Not SOC 1.** SOC 1 covers controls relevant to customers' *financial reporting*, such as payroll processors.
 - **Not SOC 3.** SOC 3 is a short, public summary of a SOC 2, for your website.
 - **Not a guarantee** you won't be breached.
 
 > [!question] Ask yourself
 > - Which customers are asking, and what do they need? Sometimes a completed security questionnaire or a Type I is enough to start.
-> - Could you show an outsider evidence that your controls work, or would you be describing intentions?
 
 Next: [Scoping: what's in, what's out](soc2-scope.md)

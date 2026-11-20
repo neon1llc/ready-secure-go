@@ -31,36 +31,33 @@ sources:
 
 ## Why this matters
 
-Passwords leak through breaches, fake login pages, and malware, often through no fault of yours. Two-step login (**multi-factor authentication**, or **MFA**) means a thief also needs something you *have*, like your phone or a key, or something you *are*, like your face. Microsoft and Google have both reported that it blocks the vast majority of automated account takeovers.
+Passwords leak through breaches, fake login pages, and malware. Two-step login (**multi-factor authentication**, or **MFA**) means a thief also needs something you *have*, like your phone or a key, or something you *are*, like your face. Microsoft and Google have both reported that it blocks the vast majority of automated account takeovers.
 
 > [!question] Ask yourself
-> - If someone had your email password right now, what would stop them?
-> - Which of your accounts could reset all the others? (Hint: usually email and your phone number.)
-> - Are you still using text-message codes? What would happen if someone talked your phone carrier into moving your number to their SIM?
+> - If someone talked your carrier into moving your number to their SIM, which codes would they receive?
 
 ## Do it
 
-Strongest to weakest. Use the strongest each account supports:
+Use the strongest each account supports:
 
-1. **Passkey or hardware security key** (FIDO2/WebAuthn). These are phishing-resistant because they only work on the real website. See [Switch important accounts to passkeys](acct-passkeys.md).
+1. **Passkey or hardware security key** (FIDO2/WebAuthn). Phishing-resistant, because they only work on the real website. See [Switch important accounts to passkeys](acct-passkeys.md).
 2. **Authenticator app** (Google Authenticator, Microsoft Authenticator, Aegis, 2FAS, or your password manager's). It gives a 6-digit code that changes every 30 seconds.
 3. **Push approval** ("Is this you?"). Fine if it shows a number to match. Never approve a prompt you didn't start.
-4. **Text-message code.** Better than nothing, but vulnerable to SIM swaps. Use it only where nothing else is offered.
+4. **Text-message code.** Better than nothing, but vulnerable to SIM swaps.
 
 Then:
 
-- **Order:** email, then phone carrier account (set a carrier PIN or port-out lock too), banking, password manager, social media, work.
-- **Save the backup codes** each site gives you, in your password manager or printed in a safe place.
-- **Offices:** require MFA for email, remote access, cloud admin consoles and anything reachable from the internet. Admin accounts get the phishing-resistant kind.
+- **Order:** email, phone carrier account (also set a carrier PIN or port-out lock), banking, password manager, social media, work.
+- **Save the backup codes** each site gives you, in your password manager or printed.
+- **Offices:** require MFA for email, remote access, cloud admin consoles, and anything reachable from the internet. Admins get the phishing-resistant kind.
 
 > [!success] How do you know it worked?
-> Log out of your email on another device and log back in. You should be asked for the second step. In your account's security settings you should see at least two sign-in methods and saved backup codes.
+> Log out of email on another device and back in. You're asked for the second step, and your settings show two sign-in methods and saved backup codes.
 
 > [!danger] Attacker's-eye view
-> With a leaked password, an attacker just logs in (MITRE ATT&CK T1078, Valid Accounts). With MFA they have to spam you with push prompts hoping you tap "approve" (T1621, MFA Request Generation), or build a fake login page that relays your code in real time. Phishing-resistant kinds are worth it for anything important.
+> With a leaked password, an attacker just logs in (MITRE ATT&CK T1078, Valid Accounts). With MFA they must spam you with push prompts (T1621, MFA Request Generation) or relay your code through a fake login page in real time.
 
 ## Go further
 
 - [Make sure you can get back into your own accounts](acct-recovery-check.md)
-- [Switch important accounts to passkeys](acct-passkeys.md)
-- [Learn the scam reflex, pause and verify](../scams-and-social-engineering/scam-pause-and-verify.md): why you should never read a code to someone who calls you.
+- [Learn the scam reflex, pause and verify](../scams-and-social-engineering/scam-pause-and-verify.md): never read a code to someone who calls you.

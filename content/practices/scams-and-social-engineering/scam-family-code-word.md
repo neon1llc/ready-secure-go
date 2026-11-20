@@ -24,25 +24,24 @@ sources:
 
 ## Why this matters
 
-Cloning a voice now takes only a few seconds of audio from a social media video. "Grandparent scams" and "family emergency" calls use cloned voices: it sounds exactly like your kid, crying, saying they've been arrested or hurt and need money now. Businesses get the same trick with a cloned "CEO" asking for an urgent transfer.
+A few seconds of audio from a social media video is enough to clone a voice. "Family emergency" calls now use cloned voices: it sounds exactly like your kid, crying, saying they've been arrested or hurt and need money now. Businesses get the same trick with a cloned "CEO" asking for an urgent transfer.
 
 > [!question] Ask yourself
-> - Could you tell a perfect copy of your child's or parent's voice from the real thing, when they sound panicked?
-> - What would you ask to be sure?
+> - Could you tell a perfect copy of your child's voice from the real one when they sound panicked?
 
 ## Do it
 
 1. **Pick a word or phrase** that isn't guessable or online, so not a pet's name or a street. Something silly works ("purple lasagna").
 2. **Share it in person** with family, including grandparents and older kids. Don't text it.
-3. **The rule:** any call or message asking for money or secrecy in an emergency must include the code word. No word, no money, no matter how real it sounds.
-4. **Also:** hang up and call the person back on their known number. Call another family member.
-5. **Businesses:** do the same for payment approvals. A verbal code, or better, a rule that money only moves after a callback to a known number. See [Never change payment details on the strength of an email](scam-payment-change-verification.md).
+3. **The rule:** any call or message asking for money or secrecy in an emergency must include the code word. No word, no money, however real it sounds.
+4. **Also:** hang up and call the person back on their known number, or call another family member.
+5. **Businesses:** move money only after a callback to a known number. See [Never change payment details on the strength of an email](scam-payment-change-verification.md).
 
 > [!success] How do you know it worked?
 > Ask a family member, out of the blue, "what's our word?" They know it.
 
 > [!danger] Attacker's-eye view
-> Impersonation (MITRE ATT&CK T1656) is getting cheaper and more convincing. A shared secret is low-tech, and a clone can't know it unless it leaks.
+> Impersonation (MITRE ATT&CK T1656) keeps getting cheaper and more convincing. A shared secret is low-tech, and a clone can't know it unless it leaks.
 
 ## Go further
 

@@ -26,18 +26,17 @@ sources:
 
 ## Why this matters
 
-When something goes wrong, the information you need is often locked inside the broken or hacked computer. A printed page turns panic into a checklist. For a business, it's also the seed of an incident response plan, which insurers and auditors ask about.
+When something goes wrong, the information you need is often locked inside the hacked computer. A printed page turns panic into a checklist. For a business, it's also the seed of an incident response plan, which insurers and auditors ask about.
 
 > [!question] Ask yourself
-> - If your email were hacked right now, who would you call first? Do you have their number somewhere other than your phone?
-> - For a business: who's allowed to decide to shut systems down, call the insurer, or call a lawyer?
+> - If your email were hacked now, whose number would you need, and is it somewhere other than your phone?
 
 ## Do it
 
 **For a household**, one page with:
 
 1. Bank and credit card fraud numbers (from the back of your cards).
-2. Phone carrier support and account PIN location.
+2. Phone carrier support and where the account PIN is.
 3. Email and Apple or Google account recovery steps.
 4. The three credit bureaus ([Freeze your credit (and your kids' credit)](../privacy-and-footprint/priv-credit-freeze.md)).
 5. The tech-savvy friend or family member to call.
@@ -45,17 +44,17 @@ When something goes wrong, the information you need is often locked inside the b
 
 **For an organization**, add:
 
-1. Who leads during an incident, and a backup person.
-2. IT support or managed service provider, with after-hours number.
-3. Cyber insurance carrier and policy number. Call them *early*, since many policies require it and provide response firms.
+1. Who leads during an incident, who decides to shut systems down or call the insurer or a lawyer, and a backup.
+2. IT support or managed service provider, with an after-hours number.
+3. Cyber insurance carrier and policy number. Call them *early*. Many policies require it and provide response firms.
 4. Lawyer, bank, and key vendors (email, payroll, website host).
 5. The first three moves: **disconnect** affected devices from the network (don't power them off), **don't pay or negotiate** before talking to your insurer and lawyer, and **write down** what happened and when.
 6. Who must be notified (customers, regulators, parents, board) and who speaks for the organization.
 
-Print it. Keep one copy at home and one somewhere else. Review it twice a year.
+Print it. Keep one copy at home and one elsewhere. Review it twice a year.
 
 > [!success] How do you know it worked?
-> You can find the sheet in under a minute without touching a computer, and the numbers on it are current.
+> You can find the sheet in under a minute without touching a computer, and the numbers are current.
 
 ## Go further
 

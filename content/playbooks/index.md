@@ -3,7 +3,7 @@ title: Playbooks
 description: "Step-by-step help when something has already gone wrong."
 ---
 
-Follow these in order. **First, for any of them:** if money is moving or a child is in danger, act on that first. Call the bank or 911. Everything else can wait ten minutes.
+If money is moving or a child is in danger, act on that first. Call the bank or 911. Everything else can wait ten minutes.
 
 | What happened | Playbook |
 |---|---|
@@ -16,4 +16,4 @@ Follow these in order. **First, for any of them:** if money is moving or a child
 
 **Report lines (U.S.):** fraud at **ReportFraud.ftc.gov**, identity theft at **IdentityTheft.gov**, internet crime at **ic3.gov**, child exploitation at **report.cybertip.org**, and older adults at the **National Elder Fraud Hotline, 1-833-FRAUD-11 (1-833-372-8311)**.
 
-Next time, you'll want a [contact sheet](../practices/respond-and-recover/resp-incident-contact-sheet.md) ready before anything happens.
+Before anything happens, prepare a [contact sheet](../practices/respond-and-recover/resp-incident-contact-sheet.md).

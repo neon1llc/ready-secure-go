@@ -8,7 +8,6 @@ When your office is your kitchen table, your home network is a business network 
 > [!question] Ask yourself
 > - Do family members use the computer you work on?
 > - If a client asked how you protect their data, what would you say?
-> - Where are your work files backed up, and could ransomware reach them?
 
 ## Your first five Sparks
 
@@ -67,4 +66,4 @@ Start here. Each one takes an afternoon or less.
 - [Playbook: I think I got scammed](../../playbooks/scam-victim.md)
 - [Playbook: my phone or laptop is lost or stolen](../../playbooks/lost-or-stolen-phone.md)
 
-See all [playbooks](../../playbooks/index.md).
+[All playbooks](../../playbooks/index.md)

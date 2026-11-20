@@ -6,9 +6,8 @@ description: "Phones, laptops, tablets, cameras and smart gadgets: keeping them 
 Updates fix broken locks, and encryption makes stolen devices useless. A device that stopped getting updates years ago is often the weakest point in a home or office.
 
 > [!question] Ask yourself
-> - Which device in your home or office is the oldest? Does it still get updates?
+> - Which device is your oldest, and does it still get updates?
 > - If your laptop were stolen from your car, what would the thief get?
-> - How many things are connected to your Wi-Fi? Can you name them all?
 
 ## Practices
 

@@ -10,15 +10,15 @@ A **control** is something you do, consistently, that meets a criterion. **Evide
 
 | Control | Evidence an auditor usually asks for |
 |---|---|
-| MFA required on email, identity provider, cloud and code repository | Settings screenshots or exports showing enforcement |
-| Access is approved before it's granted | Tickets or requests with approvals for sampled new hires |
-| Access is removed promptly when people leave | For sampled leavers: last day vs. account disable date |
+| MFA required on email, identity provider, cloud, and code repository | Settings screenshots or exports showing enforcement |
+| Access approved before it's granted | Tickets or requests with approvals for sampled new hires |
+| Access removed promptly when people leave | For sampled leavers: last day vs. account disable date |
 | Quarterly access reviews | Review records with dates, reviewers, and changes made |
-| Code changes are peer reviewed and tested before deploy | Pull requests with approvals and passing checks, plus branch protection settings |
-| Laptops are encrypted, updated and protected against malware | Device management reports |
+| Code changes peer reviewed and tested before deploy | Pull requests with approvals and passing checks, plus branch protection settings |
+| Laptops encrypted, updated, and protected against malware | Device management reports |
 | Vulnerability scanning and patching | Scan reports and remediation tickets with dates |
 | Logging and alerting on critical systems | Logging configuration, plus examples of alerts and how they were handled |
-| Backups run and restores are tested | Backup job history and dated restore test records |
+| Backups run and restores tested | Backup job history and dated restore test records |
 | Incident response plan tested yearly | Tabletop exercise notes |
 | Security training at hire and yearly | Completion records |
 | Vendors reviewed | Vendor list with review dates and their SOC reports |
@@ -27,13 +27,13 @@ A **control** is something you do, consistently, that meets a criterion. **Evide
 | Policies acknowledged | Signed acknowledgments |
 
 > [!question] Ask yourself
-> - For each control, *where* does the evidence come from, and could you get it for any date in the past six months?
-> - Which controls depend on one person remembering? Those are the ones that break in month four.
+> - Which controls depend on one person remembering? Those break in month four.
+> - For each control, could you produce the evidence for any date in the past six months?
 
 ## Tips
 
 - **Automate evidence where you can.** Many controls leave their own trail (pull requests, device management, identity provider logs). Compliance automation platforms can gather evidence too, but they don't replace running the controls.
-- **Use tickets for human work:** access requests, reviews, incidents, and vendor reviews. Tickets are timestamped evidence.
-- **Exceptions happen.** If you miss a control, document it, fix it, and show the fix.
+- **Use tickets for human work:** access requests, reviews, incidents, vendor reviews. Tickets are timestamped evidence.
+- **If you miss a control,** document it, fix it, and show the fix.
 
 Next: [Type I, Type II, auditors and timelines](soc2-audit-process.md)

@@ -24,23 +24,21 @@ sources:
 
 ## Why this matters
 
-"We found your info on the dark web!" sounds terrifying and sells subscriptions. The reality is calmer. The dark web is websites reachable only through special software like Tor. Some of it is legitimate, such as privacy tools and news sites avoiding censorship. The part people worry about is criminal marketplaces and forums trading stolen data: email and password combos, credit cards, identity bundles, and access to hacked company networks. You can't delete anything from them, but you *can* make the stolen data useless.
+"We found your info on the dark web!" sounds terrifying and sells subscriptions. The dark web is websites reachable only through special software like Tor. Some is legitimate. The part people worry about is criminal marketplaces trading stolen email and password combos, credit cards, identity bundles, and access to hacked company networks. You can't delete anything from them, but you *can* make the stolen data useless.
 
 > [!question] Ask yourself
 > - If your old password is for sale, does it still open anything?
-> - If your Social Security number is out there, is your credit frozen?
-> - For a business: if an employee's login was sold, would MFA stop the buyer?
 
 ## Do it
 
 1. **Treat every monitoring alert as a to-do list:**
-   - Password leaked: change it anywhere you used it ([Let a password manager remember for you](../accounts-and-identity/acct-password-manager.md)).
+   - Password leaked: change it everywhere you used it ([Let a password manager remember for you](../accounts-and-identity/acct-password-manager.md)).
    - Email leaked: expect more phishing, and keep two-step login on ([Turn on two-step login, starting with your email](../accounts-and-identity/acct-two-step-login.md)).
    - SSN or ID leaked: freeze credit ([Freeze your credit (and your kids' credit)](priv-credit-freeze.md)) and get an IRS Identity Protection PIN.
    - Card number leaked: ask your bank for a new card.
-2. **Free monitoring is enough for most people:** Have I Been Pwned notifications, your password manager's breach report, and the free alerts from your credit bureaus or bank.
-3. **Businesses:** Have I Been Pwned offers free domain search for domains you own, so you can see which company addresses appear in breaches. Many identity providers also flag leaked credentials.
-4. **Don't browse criminal markets yourself** to "check". There's nothing to gain and real risk.
+2. **Free monitoring is enough for most people:** Have I Been Pwned notifications, your password manager's breach report, and free alerts from your credit bureaus or bank.
+3. **Businesses:** Have I Been Pwned offers free domain search, so you can see which company addresses appear in breaches. Many identity providers also flag leaked credentials.
+4. **Don't browse criminal markets yourself** to "check". You gain nothing and risk a lot.
 
 > [!success] How do you know it worked?
 > For every alert you've received, the leaked item has been changed, frozen, or replaced.

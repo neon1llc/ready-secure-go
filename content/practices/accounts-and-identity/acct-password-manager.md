@@ -30,30 +30,27 @@ sources:
 
 ## Why this matters
 
-After a breach, the stolen email and password pairs get tried on hundreds of other sites, automatically, within days. That's **credential stuffing**. If you reuse a password, one breach at a store you forgot about can open your email, bank, and work account. Nobody can remember 100 unique random passwords. A password manager can.
+After a breach, stolen email and password pairs are tried on hundreds of other sites within days. That's **credential stuffing**. If you reuse a password, a breach at a forgotten store can open your email, bank, and work account. A password manager remembers a unique random password for every site.
 
 > [!question] Ask yourself
-> - How many accounts share your "usual" password, or a small variation of it?
-> - If you forgot every password tonight, which account could you *not* get back into?
-> - Who in your family would need to get into your accounts if something happened to you?
+> - How many accounts share your "usual" password, or a variation of it?
 
 ## Do it
 
-1. **Pick one.** Good options are Bitwarden (free, open source), 1Password, Proton Pass, or the one built into Apple or Google devices if you only use that ecosystem. Families and offices: choose one with a family or team plan so you can share safely.
-2. **Make one strong master password** you'll remember: four or five random words, like `copper lantern awkward tide`. Length beats symbols. Write it on paper and keep it safe at home until you know it by heart. Change a password when there's a reason, such as a breach or a shared login, not on a calendar. NIST SP 800-63B-4 sets a 15-character minimum for passwords used alone, 8 when paired with MFA, and says not to require periodic changes.
-3. **Turn on two-step login for the password manager itself.** See [Turn on two-step login, starting with your email](acct-two-step-login.md).
-4. **Start with the important ones**: email first (it resets everything else), then banking, phone carrier, work, and social media. Let the manager generate a new random password for each.
-5. **Do the rest as you go.** Each time you log in somewhere, update that password.
-6. **Set up emergency access** (most managers have it), so a trusted person can get in if you can't.
+1. **Pick one.** Bitwarden (free, open source), 1Password, Proton Pass, or the one built into Apple or Google devices if you stay in that ecosystem. Families and offices: choose a family or team plan so you can share safely.
+2. **Make one strong master password** you'll remember: four or five random words, like `copper lantern awkward tide`. Length beats symbols. Keep it on paper at home until you know it by heart. Change a password when there's a reason, such as a breach, not on a calendar. NIST SP 800-63B-4 sets a 15-character minimum for passwords used alone, 8 when paired with MFA, and says not to require periodic changes.
+3. **Turn on two-step login for the manager itself.** See [Turn on two-step login, starting with your email](acct-two-step-login.md).
+4. **Start with the important accounts:** email first (it resets everything else), then banking, phone carrier, work, and social media. Let the manager generate a new password for each.
+5. **Do the rest as you go.** Update each password the next time you log in.
+6. **Set up emergency access** so a trusted person can get in if you can't.
 
 > [!success] How do you know it worked?
-> Your password manager's security report shows **zero reused passwords** on your email, bank, and phone carrier accounts, and you can log in to your email on a new device using only the manager and your second step.
+> The manager's security report shows **zero reused passwords** on your email, bank, and phone carrier accounts.
 
 > [!danger] Attacker's-eye view
-> Attackers don't guess your password. They buy leaked password lists and try them everywhere (MITRE ATT&CK T1110.004, Credential Stuffing), then log in as you (T1078, Valid Accounts). A unique random password per site turns one leak into a dead end.
+> Attackers buy leaked password lists and try them everywhere (MITRE ATT&CK T1110.004, Credential Stuffing), then log in as you (T1078, Valid Accounts). A unique password per site makes one leak a dead end.
 
 ## Go further
 
-- [Turn on two-step login, starting with your email](acct-two-step-login.md): the second lock on the door.
-- [Switch important accounts to passkeys](acct-passkeys.md): logins with nothing to steal.
-- [Find out what's already leaked about you](acct-breach-check.md)
+- [Turn on two-step login, starting with your email](acct-two-step-login.md)
+- [Switch important accounts to passkeys](acct-passkeys.md)

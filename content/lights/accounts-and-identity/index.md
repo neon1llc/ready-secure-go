@@ -6,11 +6,8 @@ description: "Passwords, password managers, two-step login, passkeys, and who ha
 Your accounts hold your money, messages, photos, work, and school. Almost everything resets through one place, your email.
 
 > [!question] Ask yourself
-> - If someone had your email password right now, what could they reach from there?
-> - How would *you* get back into your accounts if you lost your phone today?
-> - Who else has a way in: an ex, a former employee, an old IT company?
-
-## The big idea
+> - If someone had your email password now, what could they reach?
+> - How would you get back into your accounts if you lost your phone today?
 
 Attackers rarely "hack" accounts. They log in with passwords leaked elsewhere, or trick you into typing them into a fake page. The defenses are a unique password everywhere (a password manager does it), a second step a thief doesn't have, and recovery options that point to *you*.
 

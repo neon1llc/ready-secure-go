@@ -25,10 +25,9 @@ A common path: readiness, then a Type I, then a Type II with a shorter first win
 
 ## Choosing an auditor
 
-- Only a **licensed CPA firm** can issue a SOC 2 report. Check that they do SOC 2 regularly for companies your size and in your industry.
-- Ask about: their process, who does the work, how they handle exceptions, timelines, and price for Type I and Type II.
+- Only a **licensed CPA firm** can issue a SOC 2 report. Check that it does SOC 2 regularly for companies your size and in your industry, and ask for its CPA license and AICPA peer review enrollment.
+- Ask about process, who does the work, how exceptions are handled, timelines, and price for Type I and Type II.
 - Keep your **readiness advisor and your auditor separate**, since auditors must stay independent.
-- Ask for the firm's CPA license and its enrollment in the AICPA peer review program.
 - Big customers sometimes prefer certain firms. Ask them.
 
 ## Between reports
@@ -38,6 +37,5 @@ A common path: readiness, then a Type I, then a Type II with a shorter first win
 
 > [!question] Ask yourself
 > - When does your biggest prospect need the report? Count backward from that date.
-> - Who will be the auditor's point of contact, and how much of their time will this take?
 
 Next: [The SOC 2 readiness checklist](soc2-readiness-checklist.md)

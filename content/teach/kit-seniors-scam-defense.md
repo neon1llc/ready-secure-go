@@ -10,12 +10,12 @@ tags: [teach, kit]
 
 ## Objectives
 
-By the end, participants can:
+Participants can:
 
-1. Name the most common scams aimed at older adults (impostor calls, grandparent emergencies, tech support pop-ups, romance, and prizes and lotteries).
+1. Name the most common scams aimed at older adults: impostor calls, grandparent emergencies, tech support pop-ups, romance, and prizes and lotteries.
 2. Use the hang up, look up, call back habit.
 3. Set up a family code word.
-4. Know who to call if money was lost.
+4. Say who to call if money was lost.
 
 ## Hook (5 min)
 
@@ -23,21 +23,14 @@ Ask: *"Who's gotten a call from 'Medicare', 'Social Security', or 'the bank' thi
 
 ## Explanation (15 min)
 
-1. **The scams** (8 min): grandparent and voice clones, government impostors, tech support pop-ups, romance, prize and lottery. They're different stories with the same four pressures ([Learn the scam reflex, pause and verify](../practices/scams-and-social-engineering/scam-pause-and-verify.md)).
+1. **The scams** (8 min): grandparent and voice clones, government impostors, tech support pop-ups, romance, prizes and lotteries. Different stories, same four pressures ([Learn the scam reflex, pause and verify](../practices/scams-and-social-engineering/scam-pause-and-verify.md)).
 2. **The habit** (4 min): hang up, look up the real number yourself, call back. Real agencies never demand gift cards, wires, or crypto.
 3. **Protecting money and identity** (3 min): credit freezes and bank alerts ([Freeze your credit (and your kids' credit)](../practices/privacy-and-footprint/priv-credit-freeze.md)).
 
-## Interactive (10 min)
+## Activities (20 min)
 
-Read three scam scripts aloud. The room calls out "pressure!" at urgency, secrecy, authority, or a strange payment.
-
-## Worked example (5 min)
-
-Show a screenshot of a fake "your computer is infected, call this number" pop-up. Demonstrate closing the browser instead of calling.
-
-## Practice (10 min)
-
-In pairs, practice the code-word conversation: "If anyone ever calls saying they're me and in trouble, they'll know our word" ([Agree on a family code word for emergencies](../practices/scams-and-social-engineering/scam-family-code-word.md)).
+- **Name the pressure** (10 min): read three scam scripts aloud. The room calls out "pressure!" at urgency, secrecy, authority, or a strange payment. Then show a screenshot of a fake "your computer is infected, call this number" pop-up and demonstrate closing the browser instead of calling.
+- **Code word** (10 min): in pairs, practice the conversation: "If anyone ever calls saying they're me and in trouble, they'll know our word" ([Agree on a family code word for emergencies](../practices/scams-and-social-engineering/scam-family-code-word.md)).
 
 ## Misconceptions to address
 
@@ -47,13 +40,11 @@ In pairs, practice the code-word conversation: "If anyone ever calls saying they
 
 ## Check for understanding (5 min)
 
-1. Someone says they're your grandchild and needs money for bail, and asks you to keep it secret. What do you do?
+1. Someone says they're your grandchild, needs bail money, and asks you to keep it secret. What do you do?
 2. A pop-up says your computer is infected and to call a number. What do you do?
-3. Who can you call if you think you've lost money to a scam? (Your bank first, then the **National Elder Fraud Hotline, 1-833-FRAUD-11 (1-833-372-8311)**.)
+3. Who can you call if you think you've lost money to a scam? Your bank first, then the **National Elder Fraud Hotline, 1-833-FRAUD-11 (1-833-372-8311)**.
 
-## Leave with one action
-
-Everyone writes a family code word idea on a card to take home, not to share with the room, plus the Elder Fraud Hotline number.
+Everyone takes home a card with a family code word idea, not shared with the room, and the Elder Fraud Hotline number.
 
 ## Sources
 

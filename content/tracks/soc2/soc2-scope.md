@@ -8,7 +8,7 @@ Scope is the biggest lever on how hard SOC 2 will be.
 
 ## Decide three things
 
-1. **The system:** the product or service your customers rely on, and everything that supports it. That means the application, its infrastructure (for example your AWS accounts), the data stores, the people who run it, and their tools (code repository, CI/CD, ticketing, identity provider, laptops).
+1. **The system:** the product or service your customers rely on, and everything that supports it: the application, its infrastructure (for example your AWS accounts), the data stores, the people who run it, and their tools (code repository, CI/CD, ticketing, identity provider, laptops).
 2. **The Trust Services Categories:**
    - **Security** (required): protection against unauthorized access.
    - **Availability:** if customers depend on uptime commitments.
@@ -21,10 +21,9 @@ Scope is the biggest lever on how hard SOC 2 will be.
 
 > [!question] Ask yourself
 > - Which systems would a customer be upset to learn were *not* covered?
-> - Is there an old product, office or acquired team you can leave out of the first report?
-> - Which vendors hold or process your customers' data?
+> - Is there an old product, office, or acquired team you can leave out of the first report?
 
-## Tips from readiness work
+## Tips
 
 - **Draw a simple diagram** of the in-scope system and data flows. It exposes gaps.
 - **Keep year one small.** You can expand later.

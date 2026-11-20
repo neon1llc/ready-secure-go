@@ -6,6 +6,8 @@ Ready, Secure, Go releases use `v0.MINOR.PATCH` until the first complete release
 
 ### Changed
 - Tighter wording in the README, landing page, About, readiness check, levels, library, and teach pages.
+- Shorter practice cards, playbooks, Lights, teach kits, Spaces, and tracks. Steps, citations, and figures are unchanged, and the Discovery questions on cameras sit under Devices & Updates.
+- The teach kits group their demos and practice into one Activities section.
 - The README carries the one disclaimer, moved from the SOC 2 track.
 - The offer of free sessions and the tagline are removed from the README and About page.
 

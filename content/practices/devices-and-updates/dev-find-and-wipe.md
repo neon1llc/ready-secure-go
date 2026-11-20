@@ -28,8 +28,7 @@ sources:
 Remote tracking and erasing only work if you turn them on *before* the device goes missing.
 
 > [!question] Ask yourself
-> - If your phone disappeared, could you log into a website and see where it is right now?
-> - Do you know your Apple or Google password without your phone? (You'll need it to use Find My from someone else's device.)
+> - Do you know your Apple or Google password without your phone? You need it to use Find My from another device.
 
 ## Do it
 
@@ -41,7 +40,7 @@ Remote tracking and erasing only work if you turn them on *before* the device go
 6. **Offices:** enroll company devices in device management so IT can lock or wipe them, and say so in your device policy.
 
 > [!success] How do you know it worked?
-> You can see each of your devices on the map from a browser, and you know the password needed to get there.
+> You can see each device on the map from a browser, and you know the password needed to get there.
 
 ## Go further
 

@@ -23,23 +23,22 @@ sources:
 
 ## Why this matters
 
-Backups fail quietly. The drive filled up eight months ago, the job only covered the Desktop, or the encryption password is in the head of someone who left. Don't find out during an emergency.
+Backups fail quietly. The drive filled up eight months ago, the job only covered the Desktop, or the encryption password left with an employee. Find out before an emergency.
 
 > [!question] Ask yourself
-> - How long would it take to get back to working if your main computer or server died today? Have you ever timed it?
-> - Who knows how to do the restore? What if they're on vacation?
+> - If your main computer died today, how long until you're working again? Have you timed it?
 
 ## Do it
 
-1. **Pick a target:** a single file, a folder, a whole laptop, or for a business, your most important system.
-2. **Restore it somewhere safe** (a different folder or a spare machine), not over the original.
-3. **Open it.** Does it work? Is it the version you expected? How old was it?
-4. **Write down** how long it took, what was confusing, and what you'd need next time (passwords, license keys, installers).
-5. **Repeat on a schedule:** a file restore every quarter, a full system restore once a year. Rotate who does it.
-6. **Businesses:** record the date, scope, result, and time taken. That record is evidence for SOC 2 availability criteria and cyber insurance questionnaires.
+1. **Pick a target:** a file, a folder, a whole laptop, or for a business, your most important system.
+2. **Restore it somewhere safe**, such as a different folder or a spare machine, not over the original.
+3. **Open it.** Does it work, and is it the version you expected?
+4. **Write down** how long it took and what you'd need next time (passwords, license keys, installers).
+5. **Repeat:** a file restore every quarter, a full system restore once a year, with a different person each time.
+6. **Businesses:** record the date, scope, result, and time taken. SOC 2 availability criteria and cyber insurance questionnaires ask for that evidence.
 
 > [!success] How do you know it worked?
-> You have a dated note saying "restored X in Y minutes, it opened fine", and someone other than the usual person could follow your notes.
+> You have a dated note saying "restored X in Y minutes, it opened fine", and someone else could follow it.
 
 ## Go further
 

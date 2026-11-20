@@ -26,27 +26,25 @@ sources:
 
 ## Why this matters
 
-Exposed remote desktop (RDP), old VPN appliances, and port-forwarded camera recorders are among the most common ways ransomware gets into small and mid-sized organizations. Attackers scan the whole internet constantly, and an open door gets tried within hours.
+Exposed remote desktop (RDP), old VPN appliances, and port-forwarded camera recorders are among the most common ways ransomware enters small and mid-sized organizations. Attackers scan the whole internet constantly, and an open door gets tried within hours.
 
 > [!question] Ask yourself
-> - How do people work from home? Do you know exactly how their connection reaches the office?
-> - Did an IT vendor ever "open a port" so they could support you remotely? Is it still open?
-> - When did your firewall or VPN box last get an update?
+> - Did an IT vendor ever "open a port" to support you remotely? Is it still open?
 
 ## Do it
 
-1. **Look at yourself from outside:** check your router or firewall for port forwards. Free tools can show what your public IP exposes. U.S. organizations can sign up for **CISA's free vulnerability scanning**.
+1. **Look at yourself from outside:** check your router or firewall for port forwards. Free tools show what your public IP exposes. U.S. organizations can sign up for **CISA's free vulnerability scanning**.
 2. **Close what isn't needed.** Never expose RDP (port 3389), SMB file sharing, database ports, or camera DVR/NVR web pages directly.
-3. **Remote access goes through one front door** with MFA: a modern VPN or zero-trust access service, or cloud apps with single sign-on.
-4. **Patch the front door first.** VPNs and firewalls get attacked the moment bugs are announced. Turn on auto-update or have a 48-hour patch rule for them.
-5. **Vendors' remote support tools:** know which ones are installed, require MFA, and remove the ones you don't use.
-6. **Log** remote-access logins, and alert on logins from unexpected countries.
+3. **Route remote access through one front door** with MFA: a modern VPN, a zero-trust access service, or cloud apps with single sign-on.
+4. **Patch the front door first.** VPNs and firewalls get attacked the moment bugs are announced. Use auto-update or a 48-hour patch rule.
+5. **Vendors' remote support tools:** know which are installed, require MFA, and remove unused ones.
+6. **Log** remote-access logins and alert on logins from unexpected countries.
 
 > [!success] How do you know it worked?
-> An outside scan of your office IP shows only what you intended (often nothing at all), and every remote login requires MFA.
+> An outside scan of your office IP shows only what you intended, often nothing, and every remote login requires MFA.
 
 > [!danger] Attacker's-eye view
-> External Remote Services (MITRE ATT&CK T1133) and Exploit Public-Facing Application (T1190) are front doors attackers love, often combined with password guessing (T1110). Removing exposure is cheaper than detection.
+> External Remote Services (MITRE ATT&CK T1133) and Exploit Public-Facing Application (T1190) are favorite front doors, often combined with password guessing (T1110).
 
 ## Go further
 

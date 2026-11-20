@@ -7,8 +7,7 @@ A home network is a tiny organization with no IT department: kids, grandparents,
 
 > [!question] Ask yourself
 > - Would your kids tell you if something online scared or embarrassed them?
-> - Who in your house knows the router password, and when was it last changed?
-> - If someone called pretending to be your child in trouble, how would you know?
+> - Who knows the router password, and when did it last change?
 
 ## Your first five Sparks
 
@@ -67,4 +66,4 @@ Start here. Each one takes an afternoon or less.
 - [Playbook: I think I got scammed](../../playbooks/scam-victim.md)
 - [Playbook: my email or social media account was hacked](../../playbooks/hacked-email.md)
 
-See all [playbooks](../../playbooks/index.md).
+[All playbooks](../../playbooks/index.md)

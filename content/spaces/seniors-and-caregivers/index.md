@@ -6,9 +6,8 @@ description: "Older adults and the people who help them: staying connected while
 The FBI's yearly elder fraud reports show older adults are targeted more often and lose more per scam. Scammers go where the savings are, and they exploit kindness, trust, and isolation. Caregivers can help a lot, as long as they do it *with* the person, not to them.
 
 > [!question] Ask yourself
-> - Has anyone ever called claiming to be from Medicare, the IRS, Amazon, the bank, or "tech support"? What happened?
-> - If a grandchild called crying and asked for bail money, what would happen next?
-> - Who would they call first if something felt wrong? Do they know they can call you without embarrassment?
+> - Has anyone called claiming to be from Medicare, the IRS, Amazon, the bank, or "tech support"? What happened?
+> - Who would they call first if something felt wrong, and do they know they can call you without embarrassment?
 
 **If money was already lost:** call the bank, then the **National Elder Fraud Hotline, 1-833-FRAUD-11 (1-833-372-8311)**, run by the U.S. Department of Justice. Also see the [scam playbook](../../playbooks/scam-victim.md).
 
@@ -62,4 +61,4 @@ Start here. Each one takes an afternoon or less.
 - [Playbook: my email or social media account was hacked](../../playbooks/hacked-email.md)
 - [Playbook: my phone or laptop is lost or stolen](../../playbooks/lost-or-stolen-phone.md)
 
-See all [playbooks](../../playbooks/index.md).
+[All playbooks](../../playbooks/index.md)

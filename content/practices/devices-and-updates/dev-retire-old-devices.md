@@ -26,25 +26,24 @@ sources:
 
 ## Why this matters
 
-When a manufacturer stops shipping updates, every new security hole stays open forever. Windows 10 reached end of support in October 2025, so millions of PCs stopped getting fixes unless enrolled in paid extended updates. Old phones, tablets, routers, and camera recorders hit the same wall. And a device you got rid of may still hold your photos, saved passwords, and client files.
+When a manufacturer stops shipping updates, every new security hole stays open. Windows 10 reached end of support in October 2025, so millions of PCs stopped getting fixes unless enrolled in paid extended updates. Old phones, tablets, routers, and camera recorders hit the same wall. A device you got rid of may also still hold your photos, saved passwords, and client files.
 
 > [!question] Ask yourself
-> - Which of your devices are more than five or six years old?
-> - What happened to the last phone or laptop you replaced? Is it in a drawer, or did someone else get it?
+> - Where is the last phone or laptop you replaced? In a drawer, or with someone else?
 
 ## Do it
 
 1. **Check support status:** Windows (Settings > Windows Update), Mac (Apple's list of supported macOS versions), phones (the manufacturer's update policy), routers and cameras (the vendor's site).
-2. **Plan replacements** for anything out of support. For offices and schools, put it in the budget the year *before* support ends.
+2. **Plan replacements** for anything out of support. Offices and schools: budget the year *before* support ends.
 3. **Before giving a device away:**
-   - Back it up, then sign out of Apple ID or Google and turn off Find My (otherwise it's activation-locked).
-   - Do a full factory reset. On encrypted devices this destroys the key, which makes the old data unreadable.
+   - Back it up, sign out of Apple ID or Google, and turn off Find My, or it stays activation-locked.
+   - Do a full factory reset. On encrypted devices this destroys the key, so the old data becomes unreadable.
    - Remove SIM and memory cards.
-4. **Hard drives from old PCs and copiers:** use the drive's secure-erase tool or physically destroy it. Office copiers and printers often have hard drives too.
-5. **Offices:** keep a disposal log (device, date, how wiped, by whom). Auditors ask for this.
+4. **Hard drives from old PCs and copiers:** use the drive's secure-erase tool or destroy it physically. Office copiers and printers often have drives too.
+5. **Offices:** keep a disposal log (device, date, how wiped, by whom). Auditors ask for it.
 
 > [!success] How do you know it worked?
-> Every device you use is in support, and every device you've given away was reset and signed out.
+> Every device you use is in support, and every device you gave away was reset and signed out.
 
 ## Go further
 

@@ -8,7 +8,6 @@ A propped-open door, an unlocked network closet, or a laptop left in a cafe can 
 > [!question] Ask yourself
 > - How many keys or codes to your space exist, and who has them?
 > - Could a stranger carrying a box follow someone inside?
-> - What would you lose if your bag were stolen on a trip?
 
 ## Practices
 

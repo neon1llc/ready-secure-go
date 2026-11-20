@@ -8,7 +8,7 @@ tags: [teach, kit]
 
 ## Objectives
 
-By the end, every participant can:
+Every participant can:
 
 1. Recognize business email compromise and follow the payment-verification rule.
 2. Report a suspicious message in under 30 seconds, knowing they won't be blamed.
@@ -21,21 +21,15 @@ Show a real, convincing fake invoice email (anonymized) and ask: *"Who in this r
 
 ## Explanation (20 min)
 
-1. **The money attacks** (8 min): fake invoices, vendor bank changes, "CEO" gift card requests, payroll redirect. The rule: verify by calling a known number ([Never change payment details on the strength of an email](../practices/scams-and-social-engineering/scam-payment-change-verification.md)).
+1. **The money attacks** (8 min): fake invoices, vendor bank changes, "CEO" gift card requests, payroll redirects. The rule: verify by calling a known number ([Never change payment details on the strength of an email](../practices/scams-and-social-engineering/scam-payment-change-verification.md)).
 2. **The account attacks** (6 min): phishing for passwords, push-prompt fatigue, why MFA and passkeys matter ([Turn on two-step login, starting with your email](../practices/accounts-and-identity/acct-two-step-login.md)).
-3. **The device and data basics** (6 min): updates, screen locks, backups, and why we don't plug in found USB drives ([Turn on automatic updates, everywhere](../practices/devices-and-updates/dev-auto-updates.md), [Lock your screens and encrypt your devices](../practices/devices-and-updates/dev-screen-lock-and-encryption.md), [Back up what you can't lose, the 3-2-1 way](../practices/data-and-backups/data-3-2-1-backup.md)).
+3. **Device and data basics** (6 min): updates, screen locks, backups, and why we don't plug in found USB drives ([Turn on automatic updates, everywhere](../practices/devices-and-updates/dev-auto-updates.md), [Lock your screens and encrypt your devices](../practices/devices-and-updates/dev-screen-lock-and-encryption.md), [Back up what you can't lose, the 3-2-1 way](../practices/data-and-backups/data-3-2-1-backup.md)).
 
-## Interactive (10 min)
+## Activities (25 min)
 
-**Spot the phish:** show six messages (three real phish from this office's inbox, three legitimate). Teams vote and explain. Celebrate the reasoning more than the right answers.
-
-## Worked example (5 min)
-
-Report a message live on screen with the "Report phishing" button or the report address. Show what happens next ([Make reporting a phish easy, quick and blame-free](../practices/scams-and-social-engineering/scam-report-phishing.md)).
-
-## Practice (10 min)
-
-Role-play: one person calls "the bookkeeper" pretending to be a vendor who changed banks, and the bookkeeper practices the callback rule. Then ask: "You clicked a link and entered your password. What now?" The steps are to report immediately, change the password, and have IT sign out sessions.
+- **Spot the phish** (10 min): show six messages, three real phish from this office's inbox and three legitimate. Teams vote and explain. Celebrate the reasoning more than the right answers.
+- **Report one live** (5 min): report a message on screen with the "Report phishing" button or the report address, and show what happens next ([Make reporting a phish easy, quick and blame-free](../practices/scams-and-social-engineering/scam-report-phishing.md)).
+- **Role-play** (10 min): one person calls "the bookkeeper" pretending to be a vendor who changed banks, and the bookkeeper practices the callback rule. Then ask: "You clicked a link and entered your password. What now?" Report immediately, change the password, and have IT sign out sessions.
 
 ## Misconceptions to address
 
@@ -49,8 +43,6 @@ Role-play: one person calls "the bookkeeper" pretending to be a vendor who chang
 1. A long-time vendor emails new bank details. What do you do?
 2. Your phone shows a sign-in approval you didn't start. What do you do?
 3. How do you report a suspicious email here?
-
-## Leave with one action
 
 Everyone checks that MFA is on for their email before leaving. The owner posts the [office checklist](../printables/office-spark-checklist.md) in the break room.
 

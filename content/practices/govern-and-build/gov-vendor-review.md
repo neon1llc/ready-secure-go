@@ -22,12 +22,10 @@ sources:
 
 ## Why this matters
 
-Your security is only as good as the companies holding your data. When a payroll provider, IT support firm, school app, donor database, or website plugin is breached, it's your data and your customers' trust. Some of the most damaging recent attacks came through a trusted vendor's access or software.
+When a payroll provider, IT support firm, school app, donor database, or website plugin is breached, it's your data and your customers' trust. Some of the most damaging recent attacks came through a trusted vendor's access or software.
 
 > [!question] Ask yourself
-> - Which vendors could log into your systems right now? (Your IT company's remote tool counts.)
-> - Which vendors hold sensitive data about your clients, students, patients, or donors?
-> - If one of them were breached, how would you find out?
+> - Which vendors could log into your systems right now? Your IT company's remote tool counts.
 
 ## Do it
 
@@ -41,15 +39,15 @@ For each vendor that holds sensitive data or has access, ask and record:
 
 Then:
 
-- **Limit access:** vendors get only what they need, ideally time-limited, with their own named accounts (not shared logins).
-- **Review yearly** for important vendors. Read the "exceptions" and "complementary user entity controls" sections of their SOC 2 reports, which list what *you* are expected to do.
-- **Students and children's data:** check for privacy commitments (FERPA and COPPA in the U.S.) and signed data privacy agreements.
+- **Limit access:** vendors get only what they need, ideally time-limited, with named accounts, not shared logins.
+- **Review important vendors yearly.** In their SOC 2 reports, read "exceptions" and "complementary user entity controls", which list what *you* must do.
+- **Students' and children's data:** check for privacy commitments (FERPA and COPPA in the U.S.) and signed data privacy agreements.
 
 > [!success] How do you know it worked?
-> Your vendor tab ([Know what you have](gov-inventory.md)) shows, for every important vendor, the date you last reviewed them and where their answers are kept.
+> Your vendor tab ([Know what you have](gov-inventory.md)) shows each important vendor's last review date and where their answers are kept.
 
 > [!danger] Attacker's-eye view
-> Trusted Relationship (MITRE ATT&CK T1199) and Supply Chain Compromise (T1195) let attackers skip your defenses by coming in through someone you already let in.
+> Trusted Relationship (MITRE ATT&CK T1199) and Supply Chain Compromise (T1195) let attackers come in through someone you already let in.
 
 ## Go further
 

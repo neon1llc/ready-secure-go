@@ -4,7 +4,7 @@ description: "A company says your data was exposed. Find out what leaked, then d
 tags: [playbook]
 ---
 
-Most breaches don't lead to harm *if* you act on what leaked. Don't ignore the notice.
+Most breaches don't lead to harm *if* you act on what leaked.
 
 ## First: is the notice real?
 
@@ -19,13 +19,11 @@ Scammers send fake breach notices. **Don't click links or call numbers in the no
 | **Social Security number** | Freeze credit at all three bureaus ([Freeze your credit (and your kids' credit)](../practices/privacy-and-footprint/priv-credit-freeze.md)). Get an IRS Identity Protection PIN. |
 | **Card number** | Ask your bank for a new card. Watch statements. |
 | **Bank account number** | Tell your bank and ask about extra protection. |
-| **Medical or insurance info** | Review your insurer's statements ("explanation of benefits") for services you didn't get. |
+| **Medical or insurance info** | Check insurer statements ("explanation of benefits") for services you didn't get. |
 | **Driver's license or passport** | Watch for identity misuse. Report to IdentityTheft.gov if it happens. |
-| **Security question answers** | Change them, and use made-up answers stored in your password manager. |
+| **Security question answers** | Change them to made-up answers stored in your password manager. |
 
-## Take what they offer
-
-Accept free credit monitoring. Sign up through the company's official site.
+Accept any free credit monitoring, signing up through the company's official site.
 
 ## If you're the organization that was breached
 
@@ -33,6 +31,4 @@ Accept free credit monitoring. Sign up through the company's official site.
 - The FTC's *Data Breach Response: A Guide for Business* is a solid free checklist.
 - Tell affected people quickly and plainly what leaked and what to do, ideally with a table like the one above.
 
-## Next time
-
-[Find out what's already leaked about you](../practices/accounts-and-identity/acct-breach-check.md) · [Understand what's on the dark web about you, and what to do about it](../practices/privacy-and-footprint/priv-dark-web-reality.md)
+Next time, [find out what's already leaked about you](../practices/accounts-and-identity/acct-breach-check.md).

@@ -22,27 +22,26 @@ sources:
 
 ## Why this matters
 
-Former employees, volunteers, and contractors with working logins are among the most common findings in my security assessments. Sometimes it's harmless. Sometimes an ex-employee deletes files, or a former contractor's reused password leaks and someone walks right in. SOC 2 auditors commonly check this, by sampling people who left and asking you to prove their access was removed on time.
+Former employees, volunteers, and contractors with working logins are among the most common findings in my security assessments. Sometimes an ex-employee deletes files, or a former contractor's reused password leaks and someone walks right in. SOC 2 auditors commonly sample people who left and ask you to prove their access was removed on time.
 
 > [!question] Ask yourself
-> - If someone left today, could you list every system they had access to? (Email, files, payroll, the website, social media, the bank, the alarm code, the Wi-Fi password, the shared password vault?)
-> - Who removes access, and how do they find out someone left?
+> - If someone left today, could you list every system they could reach, from email and payroll to the alarm code and the Wi-Fi password?
 
 ## Do it
 
-1. **Write a one-page checklist** for joiners, movers and leavers. List every system and who owns it.
-2. **Joiners:** create accounts with the least access needed, turn on MFA from day one, issue company devices from your inventory, and do a 15-minute security welcome ([Run security awareness people actually remember](ppl-security-awareness-that-works.md)).
-3. **Movers:** when someone changes roles, remove the old access. Don't just add new.
+1. **Write a one-page checklist** for joiners, movers, and leavers. List every system and its owner.
+2. **Joiners:** least access needed, MFA from day one, company devices from your inventory, and a 15-minute security welcome ([Run security awareness people actually remember](ppl-security-awareness-that-works.md)).
+3. **Movers:** remove the old access. Don't just add new.
 4. **Leavers, on the last day:**
    - Disable (don't delete yet) their email and single sign-on account, and sign out all sessions.
    - Transfer file ownership and forward email to their manager for a set period.
    - Remove them from shared vaults, social media admin, the bank, the domain registrar, and vendor portals.
    - Collect devices and badges, and change shared codes (alarm, door, Wi-Fi) they knew.
-5. **Single sign-on** (Google Workspace or Microsoft Entra ID logging into everything else) makes this much easier, because one switch turns off most access.
-6. **Quarterly access review:** list who has access to each important system and confirm each person still needs it. Keep the record.
+5. **Single sign-on** (Google Workspace or Microsoft Entra ID logging into everything else) helps most, because one switch turns off most access.
+6. **Quarterly access review:** confirm each person with access to each important system still needs it. Keep the record.
 
 > [!success] How do you know it worked?
-> Pick someone who left in the past year. You can show the date each of their accounts was disabled, and it's within a day of their last day.
+> For someone who left in the past year, you can show each account's disable date, within a day of their last day.
 
 > [!danger] Attacker's-eye view
 > A forgotten account is a working key (MITRE ATT&CK T1078, Valid Accounts) that nobody is watching.

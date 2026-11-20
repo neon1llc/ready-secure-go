@@ -29,30 +29,30 @@ sources:
 Scams don't beat your technology. They beat your *attention*. A scammer only needs you to act before you think: click, pay, read out the code, buy the gift cards. The FBI's yearly Internet Crime Reports show fraud losses in the billions of dollars, and they keep growing. The fix is a habit, not an app.
 
 > [!question] Ask yourself
-> Next time something asks you to act, check for the four pressures:
+> Does the request carry any of these four pressures?
 >
 > - **Urgency:** "within 24 hours", "your account will be closed", "Grandpa, I'm in jail".
-> - **Secrecy:** "don't tell anyone", "this is confidential".
+> - **Secrecy:** "don't tell anyone".
 > - **Authority or emotion:** the IRS, the bank, the CEO, a crying grandchild, a romance.
 > - **Strange payment:** gift cards, wire transfers, crypto, payment apps, or "move your money to a safe account".
 >
-> If you feel any of these, slow down.
+> If so, slow down.
 
 ## Do it
 
 1. **Pause.** Real banks, agencies, and bosses can wait ten minutes.
-2. **Don't use the contact info in the message.** Hang up, close the email, and contact the person or company using a number or app *you already have*: the back of your card, the official app, your saved contacts.
-3. **Never share one-time codes.** No legitimate caller will ask you to read back a code you just received. That code is the key to your account.
+2. **Don't use the contact info in the message.** Hang up, close the email, and reach the person or company on a number or app *you already have*: the back of your card, the official app, your saved contacts.
+3. **Never share one-time codes.** No legitimate caller asks you to read back a code you just received. That code is the key to your account.
 4. **Never pay with gift cards, crypto, or wires** because someone told you to. Legitimate organizations don't ask for that.
-5. **Hover before you click.** Look at where a link really goes. When in doubt, type the website yourself.
-6. **Talk about it.** Tell family, coworkers, or students about scams you've seen. Saying "I almost fell for this" makes it safe for others to ask.
-7. **Report it:** forward phishing texts to **7726** (SPAM), report fraud at **ReportFraud.ftc.gov**, and report internet crime at **ic3.gov**.
+5. **Hover before you click.** Check where a link really goes, or type the website yourself.
+6. **Talk about it.** Telling family, coworkers, or students "I almost fell for this" makes it safe for others to ask.
+7. **Report it:** forward phishing texts to **7726** (SPAM), report fraud at **ReportFraud.ftc.gov**, and internet crime at **ic3.gov**.
 
 > [!success] How do you know it worked?
-> Ask a family member or coworker to send you a fake "urgent" message as a test. You verify it through a separate channel before acting.
+> Ask someone to send you a fake "urgent" message as a test. You verify it through a separate channel before acting.
 
 > [!danger] Attacker's-eye view
-> Phishing (MITRE ATT&CK T1566) and phishing for information (T1598) rely on you running the attacker's code or handing over secrets yourself (T1204, User Execution). No exploit is needed when the victim opens the door.
+> Phishing (MITRE ATT&CK T1566) and phishing for information (T1598) rely on you running the attacker's code or handing over secrets yourself (T1204, User Execution).
 
 ## Go further
 

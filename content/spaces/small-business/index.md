@@ -8,7 +8,6 @@ Small businesses are where most of my work happens. They have money and data, us
 > [!question] Ask yourself
 > - If your bookkeeper got a convincing email from a real vendor saying "we changed banks", what would happen?
 > - If ransomware hit Monday morning, how many days until you could serve customers again?
-> - When someone leaves, how sure are you that all their access goes too?
 > - Could you answer a customer's or insurer's security questionnaire today?
 
 ## Your first five Sparks
@@ -78,4 +77,4 @@ Start here. Each one takes an afternoon or less.
 - [Playbook: I think I got scammed](../../playbooks/scam-victim.md)
 - [Playbook: I got a data breach notice](../../playbooks/data-breach-notice.md)
 
-See all [playbooks](../../playbooks/index.md).
+[All playbooks](../../playbooks/index.md)

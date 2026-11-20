@@ -14,6 +14,6 @@ These are sessions I've run for schools, families, offices, and community groups
 ## Running a good session
 
 - **Ask before you tell.** Start with "what's the weirdest message you've gotten lately?" Everyone has a story.
-- **Demo live.** Show a real, harmless phishing email, check a breach site together, or set up two-step login on a volunteer's phone.
+- **Demo live.** Show a harmless phishing email, check a breach site together, or set up two-step login on a volunteer's phone.
 - **No shame, no fear.** Laugh about the ones we almost fell for.
 - **Leave with one action.** Hand out the [printable checklist](../printables/index.md) and ask everyone to do *one* thing before they leave.

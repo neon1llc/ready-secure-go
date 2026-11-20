@@ -3,10 +3,9 @@ title: Networks & Wi-Fi
 description: "Routers, guest networks, public Wi-Fi, VPNs, and the doors your office leaves open to the internet."
 ---
 
-Everything travels over your network. At home it's usually one box in a closet nobody has looked at since the installer left. In an office it's often a tangle of old decisions. A little attention here protects every device behind it.
+Everything travels over your network. At home it's usually one box in a closet nobody has looked at since the installer left. In an office it's often a tangle of old decisions.
 
 > [!question] Ask yourself
-> - When did you last log into your router? Do you know how?
 > - Do guests and smart gadgets share a network with your work computers?
 > - What can someone on the internet reach in your office right now?
 

@@ -3,12 +3,11 @@ title: Me
 description: "Just you: your phone, your accounts, your money, your data."
 ---
 
-You don't need to be technical to be hard to hack. You just need to not be the easiest target. These five habits block much of what happens to real people.
+You don't need to be technical to be hard to hack. You just need not to be the easiest target. These five habits block much of what happens to real people.
 
 > [!question] Ask yourself
-> - If your phone vanished right now, what would you lose, and what could someone else get into?
+> - If your phone vanished now, what could someone else get into?
 > - How many of your accounts share a password?
-> - What would you do if your "bank" called and said your account was compromised?
 
 ## Your first five Sparks
 
@@ -65,4 +64,4 @@ Start here. Each one takes an afternoon or less.
 - [Playbook: I think I got scammed](../../playbooks/scam-victim.md)
 - [Playbook: my phone or laptop is lost or stolen](../../playbooks/lost-or-stolen-phone.md)
 
-See all [playbooks](../../playbooks/index.md).
+[All playbooks](../../playbooks/index.md)

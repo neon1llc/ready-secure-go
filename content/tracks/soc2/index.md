@@ -18,10 +18,7 @@ If you sell software or services to other businesses, a customer will eventually
 > [!question] Ask yourself
 > - Why do you want SOC 2? A specific customer deal, your whole market, or investor diligence? The answer shapes scope and timing.
 > - Who will own this? It needs a named person with real time, not "everyone".
-> - Do you already do most of the right things without writing them down? Most good teams do. SOC 2 is often more about proving than changing.
 
-## What it builds on
-
-The [Glow and Bright level](../../levels/index.md) practices across every Light cover much of what an auditor will ask about. An organization solidly at Glow may be closer than it thinks.
+Most good teams already do much of the right work without writing it down, so SOC 2 is often more about proving than changing. The [Glow and Bright level](../../levels/index.md) practices across every Light cover much of what an auditor will ask about.
 
 *SOC 2 and the Trust Services Criteria are from the AICPA. This track describes them in plain words.*

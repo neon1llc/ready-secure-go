@@ -27,28 +27,26 @@ sources:
 
 ## Why this matters
 
-Malware gets the power of whatever account you're logged into when you click a bad link. If you read email as an administrator, one mistake can take over the whole computer or the whole Microsoft 365 or Google Workspace tenant. With a regular account, the damage usually stays small.
+Malware gets the power of the account you're logged into. If you read email as an administrator, one bad click can take over the computer or your whole Microsoft 365 or Google Workspace tenant.
 
 > [!question] Ask yourself
-> - Who in your office can install software or change settings for everyone? Do they need to, every day?
-> - Does the person who left last spring still have admin rights somewhere?
-> - Is your cloud or email admin account the same one you read email with?
+> - Who can change settings for everyone, and does anyone who left still have that power?
 
 ## Do it
 
-1. **Computers:** make everyday user accounts *standard* (not administrator). Keep one admin account for installs, with a different password.
-2. **Email and cloud tenant:** create separate admin accounts (for example `pat.admin@`) protected by a security key or passkey. Don't read mail with them.
-3. **Fewer is better:** aim for two people with top-level admin, so one leaving doesn't lock you out, and no more.
-4. **Review quarterly:** list everyone with admin rights in each system, and remove anyone who doesn't need them.
+1. **Computers:** make everyday accounts *standard*. Keep one admin account for installs, with its own password.
+2. **Email and cloud:** create separate admin accounts (for example `pat.admin@`) protected by a security key or passkey. Don't read mail with them.
+3. **Two people with top-level admin, no more.** One leaving then can't lock you out.
+4. **Quarterly:** list who has admin in each system and remove anyone who doesn't need it.
 5. **Cloud:** never use the AWS root user or equivalent day to day. See [Lock down the root of your cloud account](../govern-and-build/gov-cloud-account-basics.md).
 
 > [!success] How do you know it worked?
-> You can produce a short list of every admin account in each system, and none of them is anyone's daily login.
+> You can list every admin account in each system, and none is anyone's daily login.
 
 > [!danger] Attacker's-eye view
-> Once in, attackers look for admin credentials to spread (MITRE ATT&CK T1078.003, Local Accounts, and T1068, Exploitation for Privilege Escalation). With separate admin accounts, the account they land on usually can't do much.
+> Attackers hunt for admin credentials to spread (MITRE ATT&CK T1078.003, Local Accounts, and T1068, Exploitation for Privilege Escalation). Separate admin accounts leave them with an account that can't do much.
 
 ## Go further
 
 - [Give access on day one and take it all back on the last day](../people-and-culture/ppl-onboarding-offboarding.md)
-- [SOC 2 track](../../tracks/soc2/index.md): access reviews are one of the first things auditors check.
+- [SOC 2 track](../../tracks/soc2/index.md)
