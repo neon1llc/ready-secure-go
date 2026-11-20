@@ -3,7 +3,7 @@ title: Nonprofit & Community
 description: "Volunteer groups, places of worship, community organizations: doing a lot with very little."
 ---
 
-Nonprofits hold donor data, payment details, and sometimes information about vulnerable people, often with rotating volunteers, shared logins, and no IT budget. Google and Microsoft both offer free or discounted nonprofit plans. The basics here cost almost nothing.
+Nonprofits hold donor data, payment details, and sometimes information about vulnerable people, often with rotating volunteers, shared logins, and no IT budget. Google and Microsoft both offer free or discounted nonprofit plans.
 
 > [!question] Ask yourself
 > - How many people know the password to your main email, donation platform or social media? Do some of them no longer volunteer?

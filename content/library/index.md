@@ -3,7 +3,7 @@ title: Library
 description: "The frameworks, standards, and sources behind Ready, Secure, Go, and how each is used."
 ---
 
-You don't need any of these to get started. They matter when customers, insurers, auditors, or regulators want proof, or when you want to go deeper.
+You don't need any of these to start. They matter when customers, insurers, auditors, or regulators want proof, or when you want to go deeper.
 
 ## Featured frameworks
 

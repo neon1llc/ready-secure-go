@@ -3,7 +3,7 @@ title: Classroom & School
 description: "Teachers, staff and students: protecting student data, classroom tech and the people behind it."
 ---
 
-neon1 began at a grade school with a new STEM edtech system, and teachers and parents who wanted to keep their classrooms and kids safe. Schools hold sensitive data about children, run on tight budgets, and are frequent ransomware targets, according to CISA's K-12 reporting. Every teacher is part of the defense.
+Schools hold sensitive data about children, run on tight budgets, and are frequent ransomware targets, according to CISA's K-12 reporting. Every teacher is part of the defense.
 
 > [!question] Ask yourself
 > - Which apps and websites hold your students' information? Who approved them?

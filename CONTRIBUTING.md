@@ -13,7 +13,7 @@
 - **Plain words, real depth.** Define a technical term once, then use it.
 - **Every step can be checked.** Each practice ends with a "How do you know it worked?" line.
 - **No fear selling.** Say what the risk is and how likely it is.
-- **No product pushing.** Name a tool only when it helps, and say why. Prefer free and open options, and give more than one.
+- **No product pushing.** Name a tool only when it helps, and say why. Prefer open options, and give more than one.
 
 ## Sources and licenses
 

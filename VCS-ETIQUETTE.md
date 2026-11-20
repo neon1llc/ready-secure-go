@@ -1,6 +1,6 @@
 # Version control etiquette
 
-How changes get into Ready, Secure, Go. The rules get stricter at `v1.0.0`, because people will depend on the content and the site from then on.
+How changes get into Ready, Secure, Go. The rules get stricter at `v1.0.0`, when people will depend on the content and the site.
 
 ## Always
 
@@ -48,7 +48,7 @@ Never rewrite history on `main` or on someone else's branch. Rebasing your own u
 
 ## Before `v1.0.0`: good habits
 
-Until the first full release, the project moves fast and the rules are recommendations.
+Until the first full release, these are recommendations.
 
 - Work on a named branch for anything larger than a typo. Merge it into `main` with `git merge --no-ff` so the branch stays visible in history, then delete it.
 - Small fixes such as typos and broken links may go straight to `main`.

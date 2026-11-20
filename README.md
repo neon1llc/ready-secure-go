@@ -2,15 +2,15 @@
 
 **Security readiness for every space.** Plain security guidance for your phone, a family's home network, a classroom, a ten-person office, a nonprofit on no budget, or a company heading into a SOC 2 audit.
 
-From [neon1](https://neon1.tech). *1 is glad to be of service.*
+From [neon1](https://neon1.tech).
 
-**Status:** the scope is stable. This repository gets accuracy and source updates, and no new modules for now.
+**Status:** stable. Accuracy and source updates only, no new modules for now.
 
 ---
 
 ## Start where you are
 
-Each space gives you five things to do first, then what comes next.
+Each space starts with five things to do first.
 
 | Space | For |
 |---|---|
@@ -27,22 +27,21 @@ Each space gives you five things to do first, then what comes next.
 
 Already in trouble? Go to the [playbooks](content/playbooks/index.md).
 
+This is guidance, not legal advice, an audit, or an attestation, and neon1 is not a CPA firm. Completing the SOC 2 track does not mean you will pass an audit. Only a licensed CPA firm can issue a SOC 2 report.
+
 ## How it's organized
 
-Every practice sits in three places:
+Every practice has a space, a light, and a level.
 
-- **Space**: who and where you are (above).
-- **Light**: the part of security it covers. There are ten: [Accounts & Identity](content/lights/accounts-and-identity/index.md), [Devices & Updates](content/lights/devices-and-updates/index.md), [Data & Backups](content/lights/data-and-backups/index.md), [Networks & Wi-Fi](content/lights/networks-and-wifi/index.md), [Scams & Social Engineering](content/lights/scams-and-social-engineering/index.md), [Privacy & Footprint](content/lights/privacy-and-footprint/index.md), [People & Culture](content/lights/people-and-culture/index.md), [Physical & Travel](content/lights/physical-and-travel/index.md), [Respond & Recover](content/lights/respond-and-recover/index.md), [Govern & Build](content/lights/govern-and-build/index.md).
-- **Level**: how far along you are, from [0 Dark to 4 Neon](content/levels/index.md). Framework references on the cards point to related requirements. A level does not establish a framework tier or control coverage.
+- **Space:** who and where you are (above).
+- **Light:** the part of security it covers, one of ten: [Accounts & Identity](content/lights/accounts-and-identity/index.md), [Devices & Updates](content/lights/devices-and-updates/index.md), [Data & Backups](content/lights/data-and-backups/index.md), [Networks & Wi-Fi](content/lights/networks-and-wifi/index.md), [Scams & Social Engineering](content/lights/scams-and-social-engineering/index.md), [Privacy & Footprint](content/lights/privacy-and-footprint/index.md), [People & Culture](content/lights/people-and-culture/index.md), [Physical & Travel](content/lights/physical-and-travel/index.md), [Respond & Recover](content/lights/respond-and-recover/index.md), [Govern & Build](content/lights/govern-and-build/index.md).
+- **Level:** how far along you are, from [0 Dark to 4 Neon](content/levels/index.md). Framework references on the cards point to related requirements. A level does not establish a framework tier or control coverage.
 
 A **practice card** is one thing to do, why it matters, the steps, and how to check it worked. Cards live in [`content/practices/`](content/practices/).
 
-Tracks:
-
 - [SOC 2 readiness](content/tracks/soc2/index.md): what auditors look for.
 - [Discovery](content/tracks/discovery/index.md): the walk-through of a whole environment that I do with every client. You can run it yourself.
-
-Teaching? [`content/teach/`](content/teach/index.md) has workshop kits for parents, teachers, small offices, and seniors' groups.
+- [Teach kits](content/teach/index.md): workshops for parents, teachers, small offices, and seniors' groups.
 
 ## Reading it
 
@@ -70,7 +69,7 @@ Teaching? [`content/teach/`](content/teach/index.md) has workshop kits for paren
 
 | What | License | What it means |
 |---|---|---|
-| Content (everything in `content/`) | [CC BY-SA 4.0](LICENSE) | Share, teach, or adapt it, even commercially. Credit it as *"Based on Ready, Secure, Go by neon1 (neon1.tech), CC BY-SA 4.0"* and share your changes under the same license. |
+| Content (everything in `content/`) | [CC BY-SA 4.0](LICENSE) | Share, teach, and adapt it, even commercially. Credit it as *"Based on Ready, Secure, Go by neon1 (neon1.tech), CC BY-SA 4.0"* and share changes under the same license. |
 | Code (`site/`, `tools/`, `documents/`) | [MIT](LICENSE-CODE) | Use it for anything, keeping the copyright notice. The bundled Inter and JetBrains Mono fonts are under the SIL Open Font License. |
 | The Ready, Secure, Go and neon1 names and the neon1 logo | Reserved | Not covered by either license. See [TRADEMARK.md](TRADEMARK.md). |
 | Material adapted from others | Its own license | Credited on each page and in [ATTRIBUTIONS.md](ATTRIBUTIONS.md). |

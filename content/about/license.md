@@ -2,9 +2,7 @@
 title: License and how to share this
 ---
 
-I want this to travel. Print it, teach from it, translate it, put it on your school's website.
-
-## The short version
+Print it, teach from it, translate it, put it on your school's website.
 
 - **Words and checklists** are [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). You can share and adapt them, even commercially, as long as you:
   1. **Credit it**, for example: *"Based on Ready, Secure, Go by neon1 (neon1.tech), CC BY-SA 4.0."*

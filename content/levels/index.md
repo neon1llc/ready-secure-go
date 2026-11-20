@@ -2,7 +2,7 @@
 title: Levels
 ---
 
-Levels order the practice cards from introductory actions to testing and improvement. Use the cards that fit your environment and what you already have in place. A level is a reading aid, not a security rating or a framework assessment.
+Levels order the practice cards from introductory actions to testing and improvement. A level is a reading aid, not a security rating or a framework assessment.
 
 | Level | Name | For a person or family | For an organization |
 |---|---|---|---|
@@ -17,11 +17,11 @@ Levels order the practice cards from introductory actions to testing and improve
 > - If your laptop died tomorrow, what would you lose forever?
 > - If someone in your office got a convincing fake invoice, who would they ask before paying it?
 
-If you hesitated on any of those, start with the Spark cards in your Space. The [readiness check](../check/index.md) suggests a level from your own answers in five minutes, and the [maturity grid](grid.md) shows every practice by area and level.
+If you hesitated on any of those, start with the Spark cards in your Space. The [readiness check](../check/index.md) suggests a level in five minutes, and the [maturity grid](grid.md) shows every practice by area and level.
 
 ## Using framework references
 
-Practice cards cite related requirements to help you find them. A citation does not show that an organization meets a requirement. There is no conversion from a neon1 level to a NIST CSF Tier, a CIS Implementation Group, an Essential Eight maturity level, or a SOC 2 outcome. Each needs its own review.
+Practice cards cite related requirements to help you find them. A citation does not show that an organization meets a requirement, and no neon1 level converts to a NIST CSF Tier, a CIS Implementation Group, an Essential Eight maturity level, or a SOC 2 outcome. Each needs its own review.
 
 | Framework | What needs its own review |
 |---|---|

@@ -3,7 +3,7 @@ title: Teach it
 description: "Workshop kits for parents, teachers, small offices, and seniors' groups."
 ---
 
-These kits are the sessions I've run for schools, families, offices, and community groups, written so anyone comfortable in front of a room can run them. Each has objectives, a hook, an explanation, an interactive part, a worked example, practice, misconceptions, a check for understanding, and sources.
+These are sessions I've run for schools, families, offices, and community groups, written so anyone comfortable in front of a room can run them.
 
 ## Kits
 
@@ -17,4 +17,3 @@ These kits are the sessions I've run for schools, families, offices, and communi
 - **Demo live.** Show a real, harmless phishing email, check a breach site together, or set up two-step login on a volunteer's phone.
 - **No shame, no fear.** Laugh about the ones we almost fell for.
 - **Leave with one action.** Hand out the [printable checklist](../printables/index.md) and ask everyone to do *one* thing before they leave.
-- **Free sessions:** schools, students, and community groups can often get a session from neon1 at no cost. Ask at [neon1.tech](https://neon1.tech).

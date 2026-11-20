@@ -4,11 +4,11 @@ title: Ready, Secure, Go
 
 **Security readiness for every space.**
 
-Most security advice is either written for experts or ten tips that never say *why*. This is neither. It's how I'd explain things if we sat down for coffee: plain words, the real reasons, and enough depth that you could explain it to someone else.
+Plain security guidance with the reasons included, so you can explain it to someone else.
 
 ## Where are you?
 
-Pick the one that sounds most like you, or take the five-minute [readiness check](check/index.md) to get your level and next three steps.
+Pick the one that sounds most like you, or take the five-minute [readiness check](check/index.md) for your level and next three steps.
 
 - [Me](spaces/me/index.md): just you, your phone, your accounts
 - [Home & Family](spaces/home-and-family/index.md): the household, the kids, the router in the closet
@@ -26,10 +26,10 @@ Pick the one that sounds most like you, or take the five-minute [readiness check
 ## How this works
 
 1. A **Space**: who and where you are.
-2. A **Light**: the part of security it covers. There are ten, from [Accounts & Identity](lights/accounts-and-identity/index.md) to [Govern & Build](lights/govern-and-build/index.md).
+2. A **Light**: the part of security it covers, one of ten, from [Accounts & Identity](lights/accounts-and-identity/index.md) to [Govern & Build](lights/govern-and-build/index.md).
 3. A **Level**: how far along you are, from **0 Dark** (not started) to **4 Neon** (you could teach it). See [Levels](levels/index.md).
 
-Start with the **Spark** (level 1) cards in your space. Each takes an afternoon or less, and together they block much of what happens to real people and small organizations.
+Start with the **Spark** (level 1) cards in your space. Each takes an afternoon or less.
 
 ## Go deeper
 
