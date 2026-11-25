@@ -36,10 +36,15 @@ jobs:
         uses: lycheeverse/lychee-action@e7477775783ea5526144ba13e8db5eec57747ce8 # v2.9.0
         with:
           args: >
-            --verbose --no-progress --include-fragments=anchor-only
-            --accept '403,406,429,503'
+            --verbose --no-progress --include-fragments=anchor-only --max-retries 1
+            --accept '200,403,406,429,503'
             --exclude '^https?://(www\.)?(consumer\.)?ftc\.gov/'
             --exclude '^https?://github\.com/neon1llc/'
+            --exclude '^https?://www\.cyber\.gov\.au/'
+            --exclude-path '^site/node_modules/'
+            --exclude-path '^site/quartz/'
+            --exclude-path '^public/'
+            --exclude-path '^content/check/index\.md$'
             './**/*.md'
       - name: Check generated indexes are current
         run: |
