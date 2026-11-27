@@ -1,6 +1,5 @@
 /* site/quartz/static/readiness/readiness.css - neon1 styles for the readiness check, light and dark. */
 
-
 /* Brand tokens, matching neon1.tech and the site theme */
 :root {
   --deep: #003b00;
@@ -53,7 +52,6 @@ footer {
   padding: 0 16px;
 }
 
-
 /* Header band */
 .band {
   display: flex;
@@ -86,7 +84,6 @@ footer {
   color: #f2f4f2;
   opacity: 0.85;
 }
-
 
 /* Headings and text */
 h1 {
@@ -134,7 +131,6 @@ a {
   color: var(--accent);
 }
 
-
 /* Space chips */
 .chips {
   display: flex;
@@ -157,7 +153,6 @@ a {
   background: var(--brand);
   color: #fff;
 }
-
 
 /* One block per Light, one row per practice */
 .light {
@@ -242,7 +237,6 @@ a {
   }
 }
 
-
 /* Score */
 .score {
   display: flex;
@@ -276,7 +270,6 @@ a {
 .score p {
   margin: 0;
 }
-
 
 /* Personal grid: Lights by levels */
 .grid {
@@ -313,7 +306,6 @@ a {
   opacity: 0.4;
 }
 
-
 /* Next steps and buttons */
 .next li {
   margin: 6px 0;
@@ -346,7 +338,6 @@ footer {
   font-size: 0.85rem;
   color: var(--muted);
 }
-
 
 /* Printing keeps the score, grid and next steps */
 @media print {

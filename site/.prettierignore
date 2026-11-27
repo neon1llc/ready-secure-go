@@ -1,3 +1,5 @@
 public
 node_modules
 .quartz-cache
+# Generated readiness data is rebuilt from content during the site build.
+quartz/static/readiness/practices.json
