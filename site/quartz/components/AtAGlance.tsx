@@ -6,6 +6,7 @@ import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { pathToRoot, joinSegments } from "../util/path"
 import style from "./styles/atAGlance.scss"
 
+
 // Level names, indexed by the card's integer level
 const LEVELS = ["Dark", "Spark", "Glow", "Bright", "Neon"]
 
@@ -14,6 +15,7 @@ const DOC_FOLDERS = ["practices/", "playbooks/", "teach/", "printables/", "track
 
 // Words kept lowercase when a space key becomes a label
 const SMALL_WORDS = new Set(["the"])
+
 
 // "home-and-family" becomes "Home & Family"
 function label(key: string): string {
@@ -24,6 +26,7 @@ function label(key: string): string {
     )
     .join(" ")
 }
+
 
 export default (() => {
   function AtAGlance({ fileData, displayClass }: QuartzComponentProps) {

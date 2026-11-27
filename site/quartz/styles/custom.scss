@@ -3,6 +3,7 @@
 @use "./base.scss";
 @use "./variables.scss" as *;
 
+
 // Shorter lines read faster
 article {
   max-width: 44rem;
@@ -18,6 +19,7 @@ article {
     border-bottom: 1px solid var(--lightgray);
   }
 }
+
 
 // Numbered steps become separated blocks with a bold lead on its own line
 article > ol > li {
@@ -38,6 +40,7 @@ article > ol > li {
     font-weight: 650;
   }
 }
+
 
 // Callouts in brand colors
 .callout {
@@ -62,6 +65,7 @@ article > ol > li {
   }
 }
 
+
 // Tables get room to breathe and zebra rows
 article table {
   width: 100%;
@@ -85,6 +89,7 @@ article table {
   }
 }
 
+
 // Print: drop navigation and keep content together
 @media print {
   .left,
@@ -102,6 +107,7 @@ article table {
   }
 }
 
+
 // Call-to-action link for the readiness check
 a.check-start {
   display: inline-block;
@@ -111,6 +117,7 @@ a.check-start {
   color: var(--light) !important;
   font-weight: 600;
 }
+
 
 // The maturity grid packs many links into each cell, so they go lighter and smaller
 body[data-slug="levels/grid"] article table {

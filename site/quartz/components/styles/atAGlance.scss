@@ -2,6 +2,7 @@
 
 @use "../../styles/variables.scss" as *;
 
+
 // Box frame, tinted with the page highlight color
 .at-a-glance {
   margin: 0.5rem 0 1.75rem;
@@ -24,12 +25,14 @@
   }
 }
 
+
 // One-sentence summary leads the box
 .glance-summary {
   font-size: 1.1rem;
   font-weight: 500;
   color: var(--dark);
 }
+
 
 // Level, time and cost as a wrapping row of facts
 .glance-facts {
@@ -45,13 +48,12 @@
   }
 }
 
+
 // Level brightens with the number
 .glance-level {
   font-weight: 600;
 
-  &.level-1 {
-    color: var(--tertiary);
-  }
+  &.level-1 { color: var(--tertiary); }
   &.level-2,
   &.level-3,
   &.level-4 {
@@ -59,6 +61,7 @@
     text-shadow: 0 0 10px var(--textHighlight);
   }
 }
+
 
 // Space links as small pills
 .glance-spaces {
@@ -75,6 +78,7 @@
   border-radius: 99px;
   background: var(--light) !important;
 }
+
 
 // Download link styled as a button
 .glance-download a {

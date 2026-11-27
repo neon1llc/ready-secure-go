@@ -3,3 +3,10 @@ node_modules
 .quartz-cache
 # Generated readiness data is rebuilt from content during the site build.
 quartz/static/readiness/practices.json
+# Hand-formatted, with this repository's spacing between sections
+quartz/components/AtAGlance.tsx
+quartz/components/styles/atAGlance.scss
+quartz/static/readiness/index.html
+quartz/static/readiness/readiness.css
+quartz/static/readiness/readiness.js
+quartz/styles/custom.scss
