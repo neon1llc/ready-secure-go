@@ -6,7 +6,6 @@ import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { pathToRoot, joinSegments } from "../util/path"
 import style from "./styles/atAGlance.scss"
 
-
 // Level names, indexed by the card's integer level
 const LEVELS = ["Dark", "Spark", "Glow", "Bright", "Neon"]
 
@@ -15,7 +14,6 @@ const DOC_FOLDERS = ["practices/", "playbooks/", "teach/", "printables/", "track
 
 // Words kept lowercase when a space key becomes a label
 const SMALL_WORDS = new Set(["the"])
-
 
 // "home-and-family" becomes "Home & Family"
 function label(key: string): string {
@@ -27,15 +25,18 @@ function label(key: string): string {
     .join(" ")
 }
 
-
 export default (() => {
   function AtAGlance({ fileData, displayClass }: QuartzComponentProps) {
-    const fm = fileData.frontmatter ?? {}
+    const fm = (fileData.frontmatter ?? {}) as Record<string, unknown>
     const slug = fileData.slug ?? ""
     const root = pathToRoot(slug as any)
     const summary = (fm.summary ?? fm.description) as string | undefined
-    const level = typeof fm.level === "number" ? (fm.level as number) : undefined
-    const spaces = (fm.spaces as string[] | undefined) ?? []
+    const level = typeof fm.level === "number" ? fm.level : undefined
+    const spaces = Array.isArray(fm.spaces)
+      ? fm.spaces.filter((s): s is string => typeof s === "string")
+      : []
+    const time = typeof fm.time === "string" ? fm.time : undefined
+    const cost = typeof fm.cost === "string" ? fm.cost : undefined
     const isDoc = DOC_FOLDERS.some((f) => slug.startsWith(f)) && !slug.endsWith("index")
 
     // Nothing to show on plain pages such as the glossary
@@ -50,14 +51,14 @@ export default (() => {
             <li class={`glance-level level-${level}`}>
               <span>Level</span> {level} · {LEVELS[level]}
             </li>
-            {fm.time && (
+            {time && (
               <li>
-                <span>Time</span> {fm.time as string}
+                <span>Time</span> {time}
               </li>
             )}
-            {fm.cost && (
+            {cost && (
               <li>
-                <span>Cost</span> {fm.cost as string}
+                <span>Cost</span> {cost}
               </li>
             )}
           </ul>

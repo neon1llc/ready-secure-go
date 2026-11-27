@@ -2,7 +2,6 @@
 //
 // A level counts as reached when every practice at that level and below is done, after leaving out the ones marked "Doesn't fit".
 
-
 const LEVEL_NAMES = ["Dark", "Spark", "Glow", "Bright", "Neon"]
 
 const ANSWERS = [
@@ -27,13 +26,12 @@ const $ = (id) => document.getElementById(id)
 let data = null
 let state = { space: null, answers: {} }
 
-
-
 // Browser storage can be missing or blocked, and the check still works without it
 function load() {
   try {
     const saved = JSON.parse(localStorage.getItem(STORE_KEY) ?? "null")
-    if (saved && typeof saved === "object") state = { space: saved.space ?? null, answers: saved.answers ?? {} }
+    if (saved && typeof saved === "object")
+      state = { space: saved.space ?? null, answers: saved.answers ?? {} }
   } catch {}
 }
 
@@ -42,7 +40,6 @@ function save() {
     localStorage.setItem(STORE_KEY, JSON.stringify(state))
   } catch {}
 }
-
 
 // Builds an element with attributes and children in one call
 function el(tag, attrs = {}, ...children) {
@@ -56,15 +53,12 @@ function el(tag, attrs = {}, ...children) {
   return node
 }
 
-
 // Practice pages live two folders up from /static/readiness/
 const practiceUrl = (p) => `../../${p.path}`
 
 const forSpace = () => data.practices.filter((p) => p.spaces.includes(state.space))
 
 const answerOf = (p) => state.answers[p.id] ?? "no"
-
-
 
 // Step 1: one chip per Space
 function drawSpaces() {
@@ -86,7 +80,6 @@ function drawSpaces() {
   )
 }
 
-
 // Step 2: practices for the chosen Space, grouped by their main Light
 function drawQuestions() {
   const practices = forSpace()
@@ -105,7 +98,6 @@ function drawQuestions() {
     ),
   )
 }
-
 
 // One practice with its four answer buttons
 function question(p) {
@@ -133,11 +125,13 @@ function question(p) {
       el("a", { href: practiceUrl(p), text: p.title }),
       el("small", { text: p.time ? `${p.summary} (${p.time})` : p.summary }),
     ),
-    el("div", { class: "answers", role: "group", "aria-label": `Status of ${p.title}` }, ...buttons),
+    el(
+      "div",
+      { class: "answers", role: "group", "aria-label": `Status of ${p.title}` },
+      ...buttons,
+    ),
   )
 }
-
-
 
 // Highest level where everything at or below it is done
 function levelOf(practices) {
@@ -153,7 +147,6 @@ function levelOf(practices) {
   return reached
 }
 
-
 // Cell state for one Light at one level
 function cellState(list) {
   const counted = list.filter((p) => answerOf(p) !== "skip")
@@ -163,7 +156,6 @@ function cellState(list) {
   return "empty"
 }
 
-
 // Step 3: badge, verdict, personal grid and the next three practices
 function drawResults() {
   const practices = forSpace()
@@ -172,7 +164,12 @@ function drawResults() {
   $("badge").replaceChildren(el("b", { text: String(level) }), LEVEL_NAMES[level])
   $("verdict").textContent = `${data.spaces[state.space]}: ${VERDICTS[level]}`
 
-  const head = el("tr", {}, el("th", { text: "Area" }), ...[1, 2, 3, 4].map((lv) => el("th", { text: LEVEL_NAMES[lv] })))
+  const head = el(
+    "tr",
+    {},
+    el("th", { text: "Area" }),
+    ...[1, 2, 3, 4].map((lv) => el("th", { text: LEVEL_NAMES[lv] })),
+  )
   const rows = Object.entries(data.lights)
     .map(([light, name]) => [name, practices.filter((p) => p.lights[0] === light)])
     .filter(([, list]) => list.length)
@@ -188,11 +185,21 @@ function drawResults() {
   const todo = practices.filter((p) => !["done", "skip"].includes(answerOf(p))).slice(0, 3)
   $("next").replaceChildren(
     ...(todo.length
-      ? todo.map((p) => el("li", {}, el("a", { href: practiceUrl(p), text: p.title }), ` (${LEVEL_NAMES[p.level]}). ${p.summary}`))
-      : [el("li", { text: "Everything here is done or doesn't fit. Check the next level on the maturity grid." })]),
+      ? todo.map((p) =>
+          el(
+            "li",
+            {},
+            el("a", { href: practiceUrl(p), text: p.title }),
+            ` (${LEVEL_NAMES[p.level]}). ${p.summary}`,
+          ),
+        )
+      : [
+          el("li", {
+            text: "Everything here is done or doesn't fit. Check the next level on the maturity grid.",
+          }),
+        ]),
   )
 }
-
 
 function drawAll() {
   drawSpaces()
@@ -203,8 +210,6 @@ function drawAll() {
   drawQuestions()
   drawResults()
 }
-
-
 
 $("print").addEventListener("click", () => window.print())
 $("reset").addEventListener("click", () => {
