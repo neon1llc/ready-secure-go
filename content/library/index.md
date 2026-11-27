@@ -19,9 +19,11 @@ You don't need any of these to start. They matter when customers, insurers, audi
 |---|---|---|
 | **NIST Cybersecurity Framework 2.0** | The U.S. government's widely used outcome framework: Govern, Identify, Protect, Detect, Respond, Recover | `nist_csf` IDs on each card. [Levels](../levels/index.md) organize the cards and do not determine CSF Tiers |
 | **CIS Critical Security Controls v8.1** | A prioritized list of safeguards, grouped into Implementation Groups 1 to 3 | `cis` safeguard numbers on each card (referenced only, since the Controls are CC BY-NC-ND) |
-| **ACSC Essential Eight** | Australia's eight priority mitigations with maturity levels 0 to 3 | `e8` tags on cards. It inspired the level pattern |
+| **ASD Essential Eight** | Australia's eight priority mitigations with maturity levels 0 to 3 | `e8` tags on cards. It inspired the level pattern |
 | **CISA Cross-Sector Cybersecurity Performance Goals** | A short list of high-impact practices for organizations | Source for many organization practices |
 | **ISO/IEC 27001** | International certification for information security management systems | Mentioned where it overlaps with SOC 2 (referenced only) |
+
+In October 2026, ASD launched the broader Essentials series. Essentials for enterprise IT evolves the Essential Eight; both frameworks remain available during the transition. See [ASD's transition guidance](https://www.cyber.gov.au/news/asd-essentials-evolving-our-approach-to-cyber-security-resilience).
 
 ## Reading a card's crosswalk
 
